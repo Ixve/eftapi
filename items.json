@@ -27,7 +27,7 @@
         "id": "5448ba0b4bdc2d02308b456c",
         "name": "Factory emergency exit key",
         "shortName": "Factory",
-        "avg24hPrice": 104394,
+        "avg24hPrice": 103003,
         "category": {
           "parent": {
             "name": "Key"
@@ -49,7 +49,7 @@
         "id": "5448be9a4bdc2dfd2f8b456a",
         "name": "RGD-5 hand grenade",
         "shortName": "RGD-5",
-        "avg24hPrice": 16210,
+        "avg24hPrice": 16550,
         "category": {
           "parent": {
             "name": "Item"
@@ -126,7 +126,7 @@
         "id": "54491bb74bdc2d09088b4567",
         "name": "ER FULCRUM BAYONET",
         "shortName": "ER BAYONET",
-        "avg24hPrice": 20963,
+        "avg24hPrice": 20913,
         "category": {
           "parent": {
             "name": "Item"
@@ -225,7 +225,7 @@
         "id": "544fb25a4bdc2dfb738b4567",
         "name": "Aseptic bandage",
         "shortName": "Bandage",
-        "avg24hPrice": 1817,
+        "avg24hPrice": 1805,
         "category": {
           "parent": {
             "name": "Meds"
@@ -258,7 +258,7 @@
         "id": "544fb3f34bdc2d03748b456a",
         "name": "Morphine injector",
         "shortName": "Morphine",
-        "avg24hPrice": 17021,
+        "avg24hPrice": 17332,
         "category": {
           "parent": {
             "name": "Meds"
@@ -269,7 +269,7 @@
         "id": "544fb45d4bdc2dee738b4568",
         "name": "Salewa first aid kit",
         "shortName": "Salewa",
-        "avg24hPrice": 28222,
+        "avg24hPrice": 28394,
         "category": {
           "parent": {
             "name": "Meds"
@@ -280,7 +280,7 @@
         "id": "544fb5454bdc2df8738b456a",
         "name": "Leatherman Multitool",
         "shortName": "MultiTool",
-        "avg24hPrice": 19947,
+        "avg24hPrice": 19925,
         "category": {
           "parent": {
             "name": "Special item"
@@ -1336,7 +1336,7 @@
         "id": "5672c92d4bdc2d180f8b4567",
         "name": "Dorm room 118 key",
         "shortName": "Dorm 118",
-        "avg24hPrice": 40464,
+        "avg24hPrice": 39273,
         "category": {
           "parent": {
             "name": "Key"
@@ -1919,7 +1919,7 @@
         "id": "5710c24ad2720bc3458b45a3",
         "name": "F-1 hand grenade",
         "shortName": "F-1",
-        "avg24hPrice": 14405,
+        "avg24hPrice": 14387,
         "category": {
           "parent": {
             "name": "Item"
@@ -3272,7 +3272,7 @@
         "id": "5751a25924597722c463c472",
         "name": "Army bandage",
         "shortName": "Bandage",
-        "avg24hPrice": 1955,
+        "avg24hPrice": 1935,
         "category": {
           "parent": {
             "name": "Meds"
@@ -3283,7 +3283,7 @@
         "id": "5751a89d24597722aa0e8db0",
         "name": "Golden Star balm",
         "shortName": "GoldenStar",
-        "avg24hPrice": 91081,
+        "avg24hPrice": 92302,
         "category": {
           "parent": {
             "name": "Meds"
@@ -3294,7 +3294,7 @@
         "id": "5755356824597772cb798962",
         "name": "AI-2 medkit",
         "shortName": "AI-2",
-        "avg24hPrice": 6099,
+        "avg24hPrice": 6533,
         "category": {
           "parent": {
             "name": "Meds"
@@ -3305,7 +3305,7 @@
         "id": "5755383e24597772cb798966",
         "name": "Vaseline balm",
         "shortName": "Vaseline",
-        "avg24hPrice": 40030,
+        "avg24hPrice": 39844,
         "category": {
           "parent": {
             "name": "Meds"
@@ -3492,7 +3492,7 @@
         "id": "5780cf722459777a5108b9a1",
         "name": "Dorm room 308 key",
         "shortName": "Dorm 308",
-        "avg24hPrice": 51396,
+        "avg24hPrice": 48268,
         "category": {
           "parent": {
             "name": "Key"
@@ -3503,7 +3503,7 @@
         "id": "5780cf7f2459777de4559322",
         "name": "Dorm room 314 marked key",
         "shortName": "Dorm 314",
-        "avg24hPrice": 2742225,
+        "avg24hPrice": 2735492,
         "category": {
           "parent": {
             "name": "Key"
@@ -3514,7 +3514,7 @@
         "id": "5780cf942459777df90dcb72",
         "name": "Dorm room 214 key",
         "shortName": "Dorm 214",
-        "avg24hPrice": 16932,
+        "avg24hPrice": 16898,
         "category": {
           "parent": {
             "name": "Key"
@@ -3525,7 +3525,7 @@
         "id": "5780cf9e2459777df90dcb73",
         "name": "Dorm room 218 key",
         "shortName": "Dorm 218",
-        "avg24hPrice": 22198,
+        "avg24hPrice": 22055,
         "category": {
           "parent": {
             "name": "Key"
@@ -3536,7 +3536,7 @@
         "id": "5780cfa52459777dfb276eb1",
         "name": "Dorm room 220 key",
         "shortName": "Dorm 220",
-        "avg24hPrice": 20884,
+        "avg24hPrice": 20918,
         "category": {
           "parent": {
             "name": "Key"
@@ -3547,7 +3547,7 @@
         "id": "5780d0532459777a5108b9a2",
         "name": "Tarcone Director's office key",
         "shortName": "Director's",
-        "avg24hPrice": 18196,
+        "avg24hPrice": 18118,
         "category": {
           "parent": {
             "name": "Key"
@@ -3558,7 +3558,7 @@
         "id": "5780d0652459777df90dcb74",
         "name": "Gas station office key",
         "shortName": "Gas office",
-        "avg24hPrice": 58241,
+        "avg24hPrice": 53051,
         "category": {
           "parent": {
             "name": "Key"
@@ -3569,7 +3569,7 @@
         "id": "5780d07a2459777de4559324",
         "name": "Portable cabin key",
         "shortName": "Cabin",
-        "avg24hPrice": 26177,
+        "avg24hPrice": 23990,
         "category": {
           "parent": {
             "name": "Key"
@@ -3679,7 +3679,7 @@
         "id": "5798a2832459774b53341029",
         "name": "Customs plan map",
         "shortName": "Customs",
-        "avg24hPrice": 21733,
+        "avg24hPrice": 21320,
         "category": {
           "parent": {
             "name": "Item"
@@ -4218,7 +4218,7 @@
         "id": "57e26ea924597715ca604a09",
         "name": "Bars A-2607 Damascus knife",
         "shortName": "A-2607",
-        "avg24hPrice": 5442,
+        "avg24hPrice": 5448,
         "category": {
           "parent": {
             "name": "Item"
@@ -4229,7 +4229,7 @@
         "id": "57e26fc7245977162a14b800",
         "name": "Bars A-2607 95Kh18 knife",
         "shortName": "A-2607",
-        "avg24hPrice": 8012,
+        "avg24hPrice": 8005,
         "category": {
           "parent": {
             "name": "Item"
@@ -5362,7 +5362,7 @@
         "id": "58d3db5386f77426186285a0",
         "name": "M67 hand grenade",
         "shortName": "M67",
-        "avg24hPrice": 15410,
+        "avg24hPrice": 15373,
         "category": {
           "parent": {
             "name": "Item"
@@ -5428,7 +5428,7 @@
         "id": "5900b89686f7744e704a8747",
         "name": "Woods plan map",
         "shortName": "Woods",
-        "avg24hPrice": 19339,
+        "avg24hPrice": 17911,
         "category": {
           "parent": {
             "name": "Item"
@@ -5747,7 +5747,7 @@
         "id": "590c639286f774151567fa95",
         "name": "Tech manual",
         "shortName": "Manual",
-        "avg24hPrice": 18914,
+        "avg24hPrice": 19468,
         "category": {
           "parent": {
             "name": "Item"
@@ -5758,7 +5758,7 @@
         "id": "590c645c86f77412b01304d9",
         "name": "Diary",
         "shortName": "Diary",
-        "avg24hPrice": 29141,
+        "avg24hPrice": 28945,
         "category": {
           "parent": {
             "name": "Item"
@@ -5780,7 +5780,7 @@
         "id": "590c657e86f77412b013051d",
         "name": "Grizzly medical kit",
         "shortName": "Grizzly",
-        "avg24hPrice": 62436,
+        "avg24hPrice": 62122,
         "category": {
           "parent": {
             "name": "Meds"
@@ -5791,7 +5791,7 @@
         "id": "590c661e86f7741e566b646a",
         "name": "Car first aid kit",
         "shortName": "Car",
-        "avg24hPrice": 10545,
+        "avg24hPrice": 10595,
         "category": {
           "parent": {
             "name": "Meds"
@@ -5802,7 +5802,7 @@
         "id": "590c678286f77426c9660122",
         "name": "IFAK individual first aid kit",
         "shortName": "IFAK",
-        "avg24hPrice": 16018,
+        "avg24hPrice": 16216,
         "category": {
           "parent": {
             "name": "Meds"
@@ -5813,7 +5813,7 @@
         "id": "590c695186f7741e566b64a2",
         "name": "Augmentin antibiotic pills",
         "shortName": "Augmentin",
-        "avg24hPrice": 37004,
+        "avg24hPrice": 36910,
         "category": {
           "parent": {
             "name": "Meds"
@@ -5857,7 +5857,7 @@
         "id": "591094e086f7747caa7bb2ef",
         "name": "Body armor repair kit",
         "shortName": "Armor repair kit",
-        "avg24hPrice": 152100,
+        "avg24hPrice": 154818,
         "category": {
           "parent": {
             "name": "Special item"
@@ -5868,7 +5868,7 @@
         "id": "5910968f86f77425cf569c32",
         "name": "Weapon repair kit",
         "shortName": "Weapon repair kit",
-        "avg24hPrice": 171684,
+        "avg24hPrice": 166425,
         "category": {
           "parent": {
             "name": "Special item"
@@ -5879,7 +5879,7 @@
         "id": "5913611c86f77479e0084092",
         "name": "Trailer park portable cabin key",
         "shortName": "Cabin",
-        "avg24hPrice": 10966,
+        "avg24hPrice": 11158,
         "category": {
           "parent": {
             "name": "Key"
@@ -5890,7 +5890,7 @@
         "id": "5913651986f774432f15d132",
         "name": "VAZ car key",
         "shortName": "Shestyorka",
-        "avg24hPrice": 6866,
+        "avg24hPrice": 6729,
         "category": {
           "parent": {
             "name": "Key"
@@ -5901,7 +5901,7 @@
         "id": "59136a4486f774447a1ed172",
         "name": "Dorm guard desk key",
         "shortName": "GDesk",
-        "avg24hPrice": 14490,
+        "avg24hPrice": 15491,
         "category": {
           "parent": {
             "name": "Key"
@@ -5912,7 +5912,7 @@
         "id": "59136e1e86f774432f15d133",
         "name": "Dorm room 110 key",
         "shortName": "Dorm 110",
-        "avg24hPrice": 25730,
+        "avg24hPrice": 25907,
         "category": {
           "parent": {
             "name": "Key"
@@ -5923,7 +5923,7 @@
         "id": "59136f6f86f774447a1ed173",
         "name": "Folding car key",
         "shortName": "Car",
-        "avg24hPrice": 6472,
+        "avg24hPrice": 6274,
         "category": {
           "parent": {
             "name": "Key"
@@ -5934,7 +5934,7 @@
         "id": "591382d986f774465a6413a7",
         "name": "Dorm room 105 key",
         "shortName": "Dorm 105",
-        "avg24hPrice": 29362,
+        "avg24hPrice": 29231,
         "category": {
           "parent": {
             "name": "Key"
@@ -5945,7 +5945,7 @@
         "id": "591383f186f7744a4c5edcf3",
         "name": "Dorm room 104 key",
         "shortName": "Dorm 104",
-        "avg24hPrice": 10300,
+        "avg24hPrice": 10260,
         "category": {
           "parent": {
             "name": "Key"
@@ -5956,7 +5956,7 @@
         "id": "5913877a86f774432f15d444",
         "name": "Gas station storage room key",
         "shortName": "Gas store",
-        "avg24hPrice": 12002,
+        "avg24hPrice": 11955,
         "category": {
           "parent": {
             "name": "Key"
@@ -5967,7 +5967,7 @@
         "id": "5913915886f774123603c392",
         "name": "Military checkpoint key",
         "shortName": "Checkpoint",
-        "avg24hPrice": 20327,
+        "avg24hPrice": 20849,
         "category": {
           "parent": {
             "name": "Key"
@@ -5978,7 +5978,7 @@
         "id": "5914578086f774123569ffa4",
         "name": "Dorm room 108 key",
         "shortName": "Dorm 108",
-        "avg24hPrice": 15368,
+        "avg24hPrice": 14074,
         "category": {
           "parent": {
             "name": "Key"
@@ -5989,7 +5989,7 @@
         "id": "59148c8a86f774197930e983",
         "name": "Dorm room 204 key",
         "shortName": "Dorm 204",
-        "avg24hPrice": 23405,
+        "avg24hPrice": 23528,
         "category": {
           "parent": {
             "name": "Key"
@@ -6000,7 +6000,7 @@
         "id": "59148f8286f7741b951ea113",
         "name": "Weapon safe key",
         "shortName": "WSafe",
-        "avg24hPrice": 62978,
+        "avg24hPrice": 59315,
         "category": {
           "parent": {
             "name": "Key"
@@ -6011,7 +6011,7 @@
         "id": "591ae8f986f77406f854be45",
         "name": "Yotota car key",
         "shortName": "Yotota",
-        "avg24hPrice": 11415,
+        "avg24hPrice": 10302,
         "category": {
           "parent": {
             "name": "Key"
@@ -6055,7 +6055,7 @@
         "id": "591afe0186f77431bd616a11",
         "name": "ZB-014 key",
         "shortName": "ZB-014",
-        "avg24hPrice": 21947,
+        "avg24hPrice": 22053,
         "category": {
           "parent": {
             "name": "Key"
@@ -6275,7 +6275,7 @@
         "id": "5938144586f77473c2087145",
         "name": "Portable bunkhouse key",
         "shortName": "Bunkhouse",
-        "avg24hPrice": 55320,
+        "avg24hPrice": 56634,
         "category": {
           "parent": {
             "name": "Key"
@@ -6286,7 +6286,7 @@
         "id": "5938504186f7740991483f30",
         "name": "Dorm room 203 key",
         "shortName": "Dorm 203",
-        "avg24hPrice": 15384,
+        "avg24hPrice": 15842,
         "category": {
           "parent": {
             "name": "Key"
@@ -6308,7 +6308,7 @@
         "id": "5938603e86f77435642354f4",
         "name": "Dorm room 206 key",
         "shortName": "Dorm 206",
-        "avg24hPrice": 7548,
+        "avg24hPrice": 7561,
         "category": {
           "parent": {
             "name": "Key"
@@ -6319,7 +6319,7 @@
         "id": "59387a4986f77401cc236e62",
         "name": "Dorm room 114 key",
         "shortName": "Dorm 114",
-        "avg24hPrice": 31589,
+        "avg24hPrice": 31979,
         "category": {
           "parent": {
             "name": "Key"
@@ -6330,7 +6330,7 @@
         "id": "5938994586f774523a425196",
         "name": "Dorm room 103 key",
         "shortName": "Dorm 103",
-        "avg24hPrice": 6017,
+        "avg24hPrice": 5906,
         "category": {
           "parent": {
             "name": "Key"
@@ -6352,7 +6352,7 @@
         "id": "593aa4be86f77457f56379f8",
         "name": "Dorm room 303 key",
         "shortName": "Dorm 303",
-        "avg24hPrice": 15154,
+        "avg24hPrice": 14951,
         "category": {
           "parent": {
             "name": "Key"
@@ -6550,7 +6550,7 @@
         "id": "5991b51486f77447b112d44f",
         "name": "MS2000 Marker",
         "shortName": "MS2000",
-        "avg24hPrice": 16514,
+        "avg24hPrice": 16442,
         "category": {
           "parent": {
             "name": "Item"
@@ -7991,7 +7991,7 @@
         "id": "5a0c27731526d80618476ac4",
         "name": "Zarya stun grenade",
         "shortName": "Zarya",
-        "avg24hPrice": 11055,
+        "avg24hPrice": 10941,
         "category": {
           "parent": {
             "name": "Item"
@@ -8046,7 +8046,7 @@
         "id": "5a0dc95c86f77452440fc675",
         "name": "Health Resort west wing office room 112 key",
         "shortName": "W112 San",
-        "avg24hPrice": 56254,
+        "avg24hPrice": 55479,
         "category": {
           "parent": {
             "name": "Key"
@@ -8057,7 +8057,7 @@
         "id": "5a0ea64786f7741707720468",
         "name": "Health Resort east wing office room 107 key",
         "shortName": "E107 San",
-        "avg24hPrice": 47083,
+        "avg24hPrice": 47418,
         "category": {
           "parent": {
             "name": "Key"
@@ -8068,7 +8068,7 @@
         "id": "5a0ea69f86f7741cd5406619",
         "name": "Health Resort east wing office room 108 key",
         "shortName": "E108 San",
-        "avg24hPrice": 14941,
+        "avg24hPrice": 14500,
         "category": {
           "parent": {
             "name": "Key"
@@ -8079,7 +8079,7 @@
         "id": "5a0ea79b86f7741d4a35298e",
         "name": "Health Resort universal utility room key",
         "shortName": "San util.",
-        "avg24hPrice": 22049,
+        "avg24hPrice": 21869,
         "category": {
           "parent": {
             "name": "Key"
@@ -8090,7 +8090,7 @@
         "id": "5a0eb38b86f774153b320eb0",
         "name": "SMW car key",
         "shortName": "SMW",
-        "avg24hPrice": 21175,
+        "avg24hPrice": 24061,
         "category": {
           "parent": {
             "name": "Key"
@@ -8101,7 +8101,7 @@
         "id": "5a0eb6ac86f7743124037a28",
         "name": "Cottage back door key",
         "shortName": "Cottage",
-        "avg24hPrice": 50446,
+        "avg24hPrice": 49788,
         "category": {
           "parent": {
             "name": "Key"
@@ -8134,7 +8134,7 @@
         "id": "5a0ec6d286f7742c0b518fb5",
         "name": "Health Resort west wing room 205 key",
         "shortName": "W205 San",
-        "avg24hPrice": 85827,
+        "avg24hPrice": 85559,
         "category": {
           "parent": {
             "name": "Key"
@@ -8145,7 +8145,7 @@
         "id": "5a0ec70e86f7742c0b518fba",
         "name": "Health Resort west wing room 207 key",
         "shortName": "W207 San",
-        "avg24hPrice": 14776,
+        "avg24hPrice": 14274,
         "category": {
           "parent": {
             "name": "Key"
@@ -8167,7 +8167,7 @@
         "id": "5a0ee30786f774023b6ee08f",
         "name": "Health Resort west wing room 216 key",
         "shortName": "W216 San",
-        "avg24hPrice": 59226,
+        "avg24hPrice": 59183,
         "category": {
           "parent": {
             "name": "Key"
@@ -8189,7 +8189,7 @@
         "id": "5a0ee37f86f774023657a86f",
         "name": "Health Resort west wing room 221 key",
         "shortName": "W221 San",
-        "avg24hPrice": 68170,
+        "avg24hPrice": 68039,
         "category": {
           "parent": {
             "name": "Key"
@@ -8200,7 +8200,7 @@
         "id": "5a0ee4b586f7743698200d22",
         "name": "Health Resort east wing room 206 key",
         "shortName": "E206 San",
-        "avg24hPrice": 44838,
+        "avg24hPrice": 44714,
         "category": {
           "parent": {
             "name": "Key"
@@ -8211,7 +8211,7 @@
         "id": "5a0ee62286f774369454a7ac",
         "name": "Health Resort east wing room 209 key",
         "shortName": "E209 San",
-        "avg24hPrice": 29583,
+        "avg24hPrice": 27485,
         "category": {
           "parent": {
             "name": "Key"
@@ -8222,7 +8222,7 @@
         "id": "5a0ee72c86f77436955d3435",
         "name": "Health Resort east wing room 213 key",
         "shortName": "E213 San",
-        "avg24hPrice": 10855,
+        "avg24hPrice": 10651,
         "category": {
           "parent": {
             "name": "Key"
@@ -8233,7 +8233,7 @@
         "id": "5a0ee76686f7743698200d5c",
         "name": "Health Resort east wing room 216 key",
         "shortName": "E216 San",
-        "avg24hPrice": 19924,
+        "avg24hPrice": 20367,
         "category": {
           "parent": {
             "name": "Key"
@@ -8244,7 +8244,7 @@
         "id": "5a0eeb1a86f774688b70aa5c",
         "name": "Health Resort west wing room 303 key",
         "shortName": "W303 San",
-        "avg24hPrice": 28244,
+        "avg24hPrice": 27968,
         "category": {
           "parent": {
             "name": "Key"
@@ -8255,7 +8255,7 @@
         "id": "5a0eeb8e86f77461257ed71a",
         "name": "Health Resort west wing room 309 key",
         "shortName": "W309 San",
-        "avg24hPrice": 20772,
+        "avg24hPrice": 20312,
         "category": {
           "parent": {
             "name": "Key"
@@ -8277,7 +8277,7 @@
         "id": "5a0eec9686f77402ac5c39f2",
         "name": "Health Resort east wing room 310 key",
         "shortName": "E310 San",
-        "avg24hPrice": 45872,
+        "avg24hPrice": 45780,
         "category": {
           "parent": {
             "name": "Key"
@@ -8288,7 +8288,7 @@
         "id": "5a0eecf686f7740350630097",
         "name": "Health Resort east wing room 313 key",
         "shortName": "E313 San",
-        "avg24hPrice": 42685,
+        "avg24hPrice": 41971,
         "category": {
           "parent": {
             "name": "Key"
@@ -8299,7 +8299,7 @@
         "id": "5a0eed4386f77405112912aa",
         "name": "Health Resort east wing room 314 key",
         "shortName": "E314 San",
-        "avg24hPrice": 42045,
+        "avg24hPrice": 43587,
         "category": {
           "parent": {
             "name": "Key"
@@ -8310,7 +8310,7 @@
         "id": "5a0eedb386f77403506300be",
         "name": "Health Resort east wing room 322 key",
         "shortName": "E322 San",
-        "avg24hPrice": 21046,
+        "avg24hPrice": 19916,
         "category": {
           "parent": {
             "name": "Key"
@@ -8321,7 +8321,7 @@
         "id": "5a0eee1486f77402aa773226",
         "name": "Health Resort east wing room 328 key",
         "shortName": "E328 San",
-        "avg24hPrice": 91406,
+        "avg24hPrice": 87407,
         "category": {
           "parent": {
             "name": "Key"
@@ -8332,7 +8332,7 @@
         "id": "5a0eff2986f7741fd654e684",
         "name": "Health Resort west wing room 321 safe key",
         "shortName": "W321 safe",
-        "avg24hPrice": 37015,
+        "avg24hPrice": 36782,
         "category": {
           "parent": {
             "name": "Key"
@@ -8343,7 +8343,7 @@
         "id": "5a0f006986f7741ffd2fe484",
         "name": "Weather station safe key",
         "shortName": "Safe",
-        "avg24hPrice": 21435,
+        "avg24hPrice": 20235,
         "category": {
           "parent": {
             "name": "Key"
@@ -8354,7 +8354,7 @@
         "id": "5a0f045e86f7745b0f0d0e42",
         "name": "Gas station safe key",
         "shortName": "Gas safe",
-        "avg24hPrice": 18403,
+        "avg24hPrice": 18372,
         "category": {
           "parent": {
             "name": "Key"
@@ -8365,7 +8365,7 @@
         "id": "5a0f068686f7745b0d4ea242",
         "name": "Cottage safe key",
         "shortName": "Safe",
-        "avg24hPrice": 44074,
+        "avg24hPrice": 44184,
         "category": {
           "parent": {
             "name": "Key"
@@ -8376,7 +8376,7 @@
         "id": "5a0f075686f7745bcc42ee12",
         "name": "Store safe key",
         "shortName": "Safe",
-        "avg24hPrice": 27852,
+        "avg24hPrice": 26881,
         "category": {
           "parent": {
             "name": "Key"
@@ -8387,7 +8387,7 @@
         "id": "5a0f08bc86f77478f33b84c2",
         "name": "Health Resort management office safe key",
         "shortName": "Safe",
-        "avg24hPrice": 25047,
+        "avg24hPrice": 26146,
         "category": {
           "parent": {
             "name": "Key"
@@ -8409,7 +8409,7 @@
         "id": "5a0f0f5886f7741c4e32a472",
         "name": "Health Resort management warehouse safe key",
         "shortName": "Safe",
-        "avg24hPrice": 39871,
+        "avg24hPrice": 40914,
         "category": {
           "parent": {
             "name": "Key"
@@ -8442,7 +8442,7 @@
         "id": "5a13eebd86f7746fd639aa93",
         "name": "Health Resort west wing room 218 key",
         "shortName": "W218 San",
-        "avg24hPrice": 70756,
+        "avg24hPrice": 70229,
         "category": {
           "parent": {
             "name": "Key"
@@ -8453,7 +8453,7 @@
         "id": "5a13ef0686f7746e5a411744",
         "name": "Health Resort west wing room 219 key",
         "shortName": "W219 San",
-        "avg24hPrice": 45771,
+        "avg24hPrice": 45704,
         "category": {
           "parent": {
             "name": "Key"
@@ -8464,7 +8464,7 @@
         "id": "5a13ef7e86f7741290491063",
         "name": "Health Resort west wing room 301 key",
         "shortName": "W301 San",
-        "avg24hPrice": 73191,
+        "avg24hPrice": 74330,
         "category": {
           "parent": {
             "name": "Key"
@@ -8497,7 +8497,7 @@
         "id": "5a13f46386f7741dd7384b04",
         "name": "Health Resort west wing room 306 key",
         "shortName": "W306 San",
-        "avg24hPrice": 36878,
+        "avg24hPrice": 39736,
         "category": {
           "parent": {
             "name": "Key"
@@ -8508,7 +8508,7 @@
         "id": "5a144bdb86f7741d374bbde0",
         "name": "Health Resort east wing room 205 key",
         "shortName": "E205 San",
-        "avg24hPrice": 105354,
+        "avg24hPrice": 100115,
         "category": {
           "parent": {
             "name": "Key"
@@ -8519,7 +8519,7 @@
         "id": "5a144dfd86f77445cb5a0982",
         "name": "Health Resort west wing room 203 key",
         "shortName": "W203 San",
-        "avg24hPrice": 85258,
+        "avg24hPrice": 83134,
         "category": {
           "parent": {
             "name": "Key"
@@ -8530,7 +8530,7 @@
         "id": "5a1452ee86f7746f33111763",
         "name": "Health Resort west wing room 222 key",
         "shortName": "W222 San",
-        "avg24hPrice": 97628,
+        "avg24hPrice": 91923,
         "category": {
           "parent": {
             "name": "Key"
@@ -8541,7 +8541,7 @@
         "id": "5a145d4786f7744cbb6f4a12",
         "name": "Health Resort east wing room 306 key",
         "shortName": "E306 San",
-        "avg24hPrice": 40495,
+        "avg24hPrice": 40090,
         "category": {
           "parent": {
             "name": "Key"
@@ -8552,7 +8552,7 @@
         "id": "5a145d7b86f7744cbb6f4a13",
         "name": "Health Resort east wing room 308 key",
         "shortName": "E308 San",
-        "avg24hPrice": 80202,
+        "avg24hPrice": 78750,
         "category": {
           "parent": {
             "name": "Key"
@@ -8563,7 +8563,7 @@
         "id": "5a145ebb86f77458f1796f05",
         "name": "Health Resort east wing room 316 key",
         "shortName": "E316 San",
-        "avg24hPrice": 31449,
+        "avg24hPrice": 31006,
         "category": {
           "parent": {
             "name": "Key"
@@ -8838,7 +8838,7 @@
         "id": "5a2a57cfc4a2826c6e06d44a",
         "name": "RDG-2B smoke grenade",
         "shortName": "RDG-2B",
-        "avg24hPrice": 12155,
+        "avg24hPrice": 12387,
         "category": {
           "parent": {
             "name": "Item"
@@ -10103,7 +10103,7 @@
         "id": "5a80a29286f7742b25692012",
         "name": "Shoreline Health Resort plan map",
         "shortName": "Resort",
-        "avg24hPrice": 8126,
+        "avg24hPrice": 7961,
         "category": {
           "parent": {
             "name": "Item"
@@ -11368,7 +11368,7 @@
         "id": "5ac78a9b86f7741cca0bbd8d",
         "name": "Signal Jammer",
         "shortName": "Jammer",
-        "avg24hPrice": 28888,
+        "avg24hPrice": 30026,
         "category": {
           "parent": {
             "name": "Item"
@@ -11467,7 +11467,7 @@
         "id": "5ad5ccd186f774446d5706e9",
         "name": "OLI administration office key",
         "shortName": "OLI office",
-        "avg24hPrice": 12110,
+        "avg24hPrice": 11878,
         "category": {
           "parent": {
             "name": "Key"
@@ -11478,7 +11478,7 @@
         "id": "5ad5cfbd86f7742c825d6104",
         "name": "OLI logistics department office key",
         "shortName": "OLI Log.",
-        "avg24hPrice": 57135,
+        "avg24hPrice": 56788,
         "category": {
           "parent": {
             "name": "Key"
@@ -11489,7 +11489,7 @@
         "id": "5ad5d20586f77449be26d877",
         "name": "OLI outlet utility room key",
         "shortName": "OLI util.",
-        "avg24hPrice": 14712,
+        "avg24hPrice": 14638,
         "category": {
           "parent": {
             "name": "Key"
@@ -11500,7 +11500,7 @@
         "id": "5ad5d49886f77455f9731921",
         "name": "Power substation utility cabin key",
         "shortName": "Power",
-        "avg24hPrice": 6359,
+        "avg24hPrice": 6158,
         "category": {
           "parent": {
             "name": "Key"
@@ -11522,7 +11522,7 @@
         "id": "5ad5d7d286f77450166e0a89",
         "name": "Kiba Arms outer door key",
         "shortName": "KIBA outer",
-        "avg24hPrice": 617964,
+        "avg24hPrice": 637989,
         "category": {
           "parent": {
             "name": "Key"
@@ -11533,7 +11533,7 @@
         "id": "5ad5db3786f7743568421cce",
         "name": "EMERCOM medical unit key",
         "shortName": "EMC",
-        "avg24hPrice": 55907,
+        "avg24hPrice": 54831,
         "category": {
           "parent": {
             "name": "Key"
@@ -11544,7 +11544,7 @@
         "id": "5ad7217186f7746744498875",
         "name": "OLI cash register key",
         "shortName": "OLI reg.",
-        "avg24hPrice": 21769,
+        "avg24hPrice": 21603,
         "category": {
           "parent": {
             "name": "Key"
@@ -11555,7 +11555,7 @@
         "id": "5ad7242b86f7740a6a3abd43",
         "name": "IDEA cash register key",
         "shortName": "IDEA reg.",
-        "avg24hPrice": 28817,
+        "avg24hPrice": 28926,
         "category": {
           "parent": {
             "name": "Key"
@@ -11577,7 +11577,7 @@
         "id": "5addaffe86f77470b455f900",
         "name": "Kiba Arms inner grate door key",
         "shortName": "KIBA inner",
-        "avg24hPrice": 108635,
+        "avg24hPrice": 108442,
         "category": {
           "parent": {
             "name": "Key"
@@ -11929,7 +11929,7 @@
         "id": "5af0454c86f7746bf20992e8",
         "name": "Aluminum splint",
         "shortName": "Alu splint",
-        "avg24hPrice": 16927,
+        "avg24hPrice": 16919,
         "category": {
           "parent": {
             "name": "Meds"
@@ -11973,7 +11973,7 @@
         "id": "5af0548586f7743a532b7e99",
         "name": "Ibuprofen painkillers",
         "shortName": "Ibuprofen",
-        "avg24hPrice": 99770,
+        "avg24hPrice": 99089,
         "category": {
           "parent": {
             "name": "Meds"
@@ -12941,7 +12941,7 @@
         "id": "5b4391a586f7745321235ab2",
         "name": "WI-FI Camera",
         "shortName": "Camera",
-        "avg24hPrice": 55459,
+        "avg24hPrice": 55485,
         "category": {
           "parent": {
             "name": "Item"
@@ -14195,7 +14195,7 @@
         "id": "5bc9c1e2d4351e00367fbcf0",
         "name": "Antique axe",
         "shortName": "Axe",
-        "avg24hPrice": 61935,
+        "avg24hPrice": 62764,
         "category": {
           "parent": {
             "name": "Item"
@@ -14360,7 +14360,7 @@
         "id": "5bead2e00db834001c062938",
         "name": "MPL-50 entrenching tool",
         "shortName": "MPL-50",
-        "avg24hPrice": 4297,
+        "avg24hPrice": 4345,
         "category": {
           "parent": {
             "name": "Item"
@@ -14822,7 +14822,7 @@
         "id": "5bffdc370db834001d23eca8",
         "name": "6Kh5 Bayonet",
         "shortName": "6Kh5",
-        "avg24hPrice": 23287,
+        "avg24hPrice": 23015,
         "category": {
           "parent": {
             "name": "Item"
@@ -14833,7 +14833,7 @@
         "id": "5bffdd7e0db834001b734a1a",
         "name": "Miller Bros. Blades M-2 Tactical Sword",
         "shortName": "M-2",
-        "avg24hPrice": 877999,
+        "avg24hPrice": 877961,
         "category": {
           "parent": {
             "name": "Item"
@@ -14844,7 +14844,7 @@
         "id": "5bffe7930db834001b734a39",
         "name": "Crash Axe",
         "shortName": "SCA",
-        "avg24hPrice": 717459,
+        "avg24hPrice": 714602,
         "category": {
           "parent": {
             "name": "Item"
@@ -14965,7 +14965,7 @@
         "id": "5c010e350db83400232feec7",
         "name": "SP-8 Survival Machete",
         "shortName": "SP-8",
-        "avg24hPrice": 47195,
+        "avg24hPrice": 47309,
         "category": {
           "parent": {
             "name": "Item"
@@ -14998,7 +14998,7 @@
         "id": "5c0126f40db834002a125382",
         "name": "Red Rebel ice pick",
         "shortName": "RedRebel",
-        "avg24hPrice": 1055974,
+        "avg24hPrice": 1045192,
         "category": {
           "parent": {
             "name": "Item"
@@ -15009,7 +15009,7 @@
         "id": "5c012ffc0db834001d23f03f",
         "name": "Camper axe",
         "shortName": "Camper",
-        "avg24hPrice": 26061,
+        "avg24hPrice": 26385,
         "category": {
           "parent": {
             "name": "Item"
@@ -15405,7 +15405,7 @@
         "id": "5c07df7f0db834001b73588a",
         "name": "Freeman crowbar",
         "shortName": "Crowbar",
-        "avg24hPrice": 40651,
+        "avg24hPrice": 40525,
         "category": {
           "parent": {
             "name": "Item"
@@ -15801,7 +15801,7 @@
         "id": "5c0e530286f7747fa1419862",
         "name": "Propital regenerative stimulant injector",
         "shortName": "Propital",
-        "avg24hPrice": 43045,
+        "avg24hPrice": 42698,
         "category": {
           "parent": {
             "name": "Meds"
@@ -15812,7 +15812,7 @@
         "id": "5c0e531286f7747fa54205c2",
         "name": "SJ1 TGLabs combat stimulant injector",
         "shortName": "SJ1",
-        "avg24hPrice": 68626,
+        "avg24hPrice": 68472,
         "category": {
           "parent": {
             "name": "Meds"
@@ -15823,7 +15823,7 @@
         "id": "5c0e531d86f7747fa23f4d42",
         "name": "SJ6 TGLabs combat stimulant injector",
         "shortName": "SJ6",
-        "avg24hPrice": 103008,
+        "avg24hPrice": 103032,
         "category": {
           "parent": {
             "name": "Meds"
@@ -15834,7 +15834,7 @@
         "id": "5c0e533786f7747fa23f4d47",
         "name": "Zagustin hemostatic drug injector",
         "shortName": "Zagustin",
-        "avg24hPrice": 47544,
+        "avg24hPrice": 47650,
         "category": {
           "parent": {
             "name": "Meds"
@@ -15845,7 +15845,7 @@
         "id": "5c0e534186f7747fa1419867",
         "name": "eTG-change regenerative stimulant injector",
         "shortName": "eTG-c",
-        "avg24hPrice": 123935,
+        "avg24hPrice": 124633,
         "category": {
           "parent": {
             "name": "Meds"
@@ -16087,7 +16087,7 @@
         "id": "5c10c8fd86f7743d7d706df3",
         "name": "Adrenaline injector",
         "shortName": "Adrenaline",
-        "avg24hPrice": 19747,
+        "avg24hPrice": 19777,
         "category": {
           "parent": {
             "name": "Meds"
@@ -16516,7 +16516,7 @@
         "id": "5c1d0c5f86f7744bb2683cf0",
         "name": "TerraGroup Labs keycard (Blue)",
         "shortName": "Blue",
-        "avg24hPrice": 575721,
+        "avg24hPrice": 575276,
         "category": {
           "parent": {
             "name": "Key"
@@ -16527,7 +16527,7 @@
         "id": "5c1d0d6d86f7744bb2683e1f",
         "name": "TerraGroup Labs keycard (Yellow)",
         "shortName": "Yellow",
-        "avg24hPrice": 222107,
+        "avg24hPrice": 222345,
         "category": {
           "parent": {
             "name": "Key"
@@ -16538,7 +16538,7 @@
         "id": "5c1d0dc586f7744baf2e7b79",
         "name": "TerraGroup Labs keycard (Green)",
         "shortName": "Green",
-        "avg24hPrice": 1189753,
+        "avg24hPrice": 1176935,
         "category": {
           "parent": {
             "name": "Key"
@@ -16549,7 +16549,7 @@
         "id": "5c1d0efb86f7744baf2e7b7b",
         "name": "TerraGroup Labs keycard (Red)",
         "shortName": "Red",
-        "avg24hPrice": 1233862,
+        "avg24hPrice": 1223859,
         "category": {
           "parent": {
             "name": "Key"
@@ -16560,7 +16560,7 @@
         "id": "5c1d0f4986f7744bb01837fa",
         "name": "TerraGroup Labs keycard (Black)",
         "shortName": "Black",
-        "avg24hPrice": 1740200,
+        "avg24hPrice": 1737970,
         "category": {
           "parent": {
             "name": "Key"
@@ -16571,7 +16571,7 @@
         "id": "5c1e2a1e86f77431ea0ea84c",
         "name": "TerraGroup Labs manager's office room key",
         "shortName": "TGL MO",
-        "avg24hPrice": 64416,
+        "avg24hPrice": 62047,
         "category": {
           "parent": {
             "name": "Key"
@@ -16582,7 +16582,7 @@
         "id": "5c1e2d1f86f77431e9280bee",
         "name": "TerraGroup Labs weapon testing area key",
         "shortName": "TGL WT",
-        "avg24hPrice": 52631,
+        "avg24hPrice": 61243,
         "category": {
           "parent": {
             "name": "Key"
@@ -16593,7 +16593,7 @@
         "id": "5c1e495a86f7743109743dfb",
         "name": "TerraGroup Labs keycard (Violet)",
         "shortName": "Violet",
-        "avg24hPrice": 422140,
+        "avg24hPrice": 421990,
         "category": {
           "parent": {
             "name": "Key"
@@ -16604,7 +16604,7 @@
         "id": "5c1f79a086f7746ed066fb8f",
         "name": "TerraGroup Labs arsenal storage room key",
         "shortName": "TGL ASR",
-        "avg24hPrice": 281872,
+        "avg24hPrice": 281670,
         "category": {
           "parent": {
             "name": "Key"
@@ -17693,7 +17693,7 @@
         "id": "5c94bbff86f7747ee735c08f",
         "name": "TerraGroup Labs access keycard",
         "shortName": "Access",
-        "avg24hPrice": 119001,
+        "avg24hPrice": 118893,
         "category": {
           "parent": {
             "name": "Key"
@@ -19024,7 +19024,7 @@
         "id": "5d02778e86f774203e7dedbe",
         "name": "CMS surgical kit",
         "shortName": "CMS",
-        "avg24hPrice": 19596,
+        "avg24hPrice": 19811,
         "category": {
           "parent": {
             "name": "Meds"
@@ -19035,7 +19035,7 @@
         "id": "5d02797c86f774203f38e30a",
         "name": "Surv12 field surgical kit",
         "shortName": "Surv12",
-        "avg24hPrice": 78829,
+        "avg24hPrice": 79308,
         "category": {
           "parent": {
             "name": "Meds"
@@ -19134,7 +19134,7 @@
         "id": "5d08d21286f774736e7c94c3",
         "name": "Shturman's stash key",
         "shortName": "SSK",
-        "avg24hPrice": 97469,
+        "avg24hPrice": 97438,
         "category": {
           "parent": {
             "name": "Key"
@@ -20883,7 +20883,7 @@
         "id": "5d80c60f86f77440373c4ece",
         "name": "RB-BK marked key",
         "shortName": "RB-BK",
-        "avg24hPrice": 3896506,
+        "avg24hPrice": 3917818,
         "category": {
           "parent": {
             "name": "Key"
@@ -20894,7 +20894,7 @@
         "id": "5d80c62a86f7744036212b3f",
         "name": "RB-VO marked key",
         "shortName": "RB-VO",
-        "avg24hPrice": 2430939,
+        "avg24hPrice": 2424353,
         "category": {
           "parent": {
             "name": "Key"
@@ -20905,7 +20905,7 @@
         "id": "5d80c66d86f774405611c7d6",
         "name": "RB-AO key",
         "shortName": "RB-AO",
-        "avg24hPrice": 20981,
+        "avg24hPrice": 20480,
         "category": {
           "parent": {
             "name": "Key"
@@ -20916,7 +20916,7 @@
         "id": "5d80c6c586f77440351beef1",
         "name": "RB-OB key",
         "shortName": "RB-OB",
-        "avg24hPrice": 57928,
+        "avg24hPrice": 57483,
         "category": {
           "parent": {
             "name": "Key"
@@ -20927,7 +20927,7 @@
         "id": "5d80c6fc86f774403a401e3c",
         "name": "RB-TB key",
         "shortName": "RB-TB",
-        "avg24hPrice": 44744,
+        "avg24hPrice": 39041,
         "category": {
           "parent": {
             "name": "Key"
@@ -20938,7 +20938,7 @@
         "id": "5d80c78786f774403a401e3e",
         "name": "RB-AK key",
         "shortName": "RB-AK",
-        "avg24hPrice": 15156,
+        "avg24hPrice": 15714,
         "category": {
           "parent": {
             "name": "Key"
@@ -20949,7 +20949,7 @@
         "id": "5d80c88d86f77440556dbf07",
         "name": "RB-AM key",
         "shortName": "RB-AM",
-        "avg24hPrice": 39329,
+        "avg24hPrice": 39076,
         "category": {
           "parent": {
             "name": "Key"
@@ -20960,7 +20960,7 @@
         "id": "5d80c8f586f77440373c4ed0",
         "name": "RB-OP key",
         "shortName": "RB-OP",
-        "avg24hPrice": 28634,
+        "avg24hPrice": 28482,
         "category": {
           "parent": {
             "name": "Key"
@@ -20971,7 +20971,7 @@
         "id": "5d80c93086f7744036212b41",
         "name": "RB-MP11 key",
         "shortName": "RB-MP11",
-        "avg24hPrice": 19439,
+        "avg24hPrice": 19401,
         "category": {
           "parent": {
             "name": "Key"
@@ -20982,7 +20982,7 @@
         "id": "5d80c95986f77440351beef3",
         "name": "RB-MP12 key",
         "shortName": "RB-MP12",
-        "avg24hPrice": 31836,
+        "avg24hPrice": 31048,
         "category": {
           "parent": {
             "name": "Key"
@@ -20993,7 +20993,7 @@
         "id": "5d80ca9086f774403a401e40",
         "name": "RB-MP21 key",
         "shortName": "RB-MP21",
-        "avg24hPrice": 60399,
+        "avg24hPrice": 51181,
         "category": {
           "parent": {
             "name": "Key"
@@ -21004,7 +21004,7 @@
         "id": "5d80cab086f77440535be201",
         "name": "RB-MP22 key",
         "shortName": "RB-MP22",
-        "avg24hPrice": 40483,
+        "avg24hPrice": 38912,
         "category": {
           "parent": {
             "name": "Key"
@@ -21015,7 +21015,7 @@
         "id": "5d80cb3886f77440556dbf09",
         "name": "RB-PSP1 key",
         "shortName": "RB-PSP1",
-        "avg24hPrice": 25321,
+        "avg24hPrice": 25292,
         "category": {
           "parent": {
             "name": "Key"
@@ -21026,7 +21026,7 @@
         "id": "5d80cb5686f77440545d1286",
         "name": "RB-PSV1 key",
         "shortName": "RB-PSV1",
-        "avg24hPrice": 22362,
+        "avg24hPrice": 22502,
         "category": {
           "parent": {
             "name": "Key"
@@ -21037,7 +21037,7 @@
         "id": "5d80cb8786f774405611c7d9",
         "name": "RB-PP key",
         "shortName": "RB-PP",
-        "avg24hPrice": 10138,
+        "avg24hPrice": 9761,
         "category": {
           "parent": {
             "name": "Key"
@@ -21048,7 +21048,7 @@
         "id": "5d80cbd886f77470855c26c2",
         "name": "RB-MP13 key",
         "shortName": "RB-MP13",
-        "avg24hPrice": 38240,
+        "avg24hPrice": 36825,
         "category": {
           "parent": {
             "name": "Key"
@@ -21059,7 +21059,7 @@
         "id": "5d80ccac86f77470841ff452",
         "name": "RB-ORB1 key",
         "shortName": "RB-ORB1",
-        "avg24hPrice": 418502,
+        "avg24hPrice": 414069,
         "category": {
           "parent": {
             "name": "Key"
@@ -21070,7 +21070,7 @@
         "id": "5d80ccdd86f77474f7575e02",
         "name": "RB-ORB2 key",
         "shortName": "RB-ORB2",
-        "avg24hPrice": 67222,
+        "avg24hPrice": 68487,
         "category": {
           "parent": {
             "name": "Key"
@@ -21081,7 +21081,7 @@
         "id": "5d80cd1a86f77402aa362f42",
         "name": "RB-ORB3 key",
         "shortName": "RB-ORB3",
-        "avg24hPrice": 66433,
+        "avg24hPrice": 67409,
         "category": {
           "parent": {
             "name": "Key"
@@ -21092,7 +21092,7 @@
         "id": "5d8e0db586f7744450412a42",
         "name": "RB-KORL key",
         "shortName": "RB-KORL",
-        "avg24hPrice": 42685,
+        "avg24hPrice": 39593,
         "category": {
           "parent": {
             "name": "Key"
@@ -21103,7 +21103,7 @@
         "id": "5d8e0e0e86f774321140eb56",
         "name": "RB-KPRL key",
         "shortName": "RB-KPRL",
-        "avg24hPrice": 160733,
+        "avg24hPrice": 179593,
         "category": {
           "parent": {
             "name": "Key"
@@ -21114,7 +21114,7 @@
         "id": "5d8e15b686f774445103b190",
         "name": "HEP station storage room key",
         "shortName": "HEPS",
-        "avg24hPrice": 25529,
+        "avg24hPrice": 25509,
         "category": {
           "parent": {
             "name": "Key"
@@ -21125,7 +21125,7 @@
         "id": "5d8e3ecc86f774414c78d05e",
         "name": "RB-GN key",
         "shortName": "RB-GN",
-        "avg24hPrice": 40653,
+        "avg24hPrice": 40729,
         "category": {
           "parent": {
             "name": "Key"
@@ -21136,7 +21136,7 @@
         "id": "5d947d3886f774447b415893",
         "name": "RB-SMP key",
         "shortName": "RB-SMP",
-        "avg24hPrice": 82098,
+        "avg24hPrice": 82604,
         "category": {
           "parent": {
             "name": "Key"
@@ -21147,7 +21147,7 @@
         "id": "5d947d4e86f774447b415895",
         "name": "RB-KSM key",
         "shortName": "RB-KSM",
-        "avg24hPrice": 72355,
+        "avg24hPrice": 77495,
         "category": {
           "parent": {
             "name": "Key"
@@ -21158,7 +21158,7 @@
         "id": "5d95d6be86f77424444eb3a7",
         "name": "RB-PSV2 key",
         "shortName": "RB-PSV2",
-        "avg24hPrice": 24561,
+        "avg24hPrice": 25387,
         "category": {
           "parent": {
             "name": "Key"
@@ -21169,7 +21169,7 @@
         "id": "5d95d6fa86f77424484aa5e9",
         "name": "RB-PSP2 key",
         "shortName": "RB-PSP2",
-        "avg24hPrice": 24132,
+        "avg24hPrice": 24724,
         "category": {
           "parent": {
             "name": "Key"
@@ -21191,7 +21191,7 @@
         "id": "5d9f1fa686f774726974a992",
         "name": "RB-ST key",
         "shortName": "RB-ST",
-        "avg24hPrice": 68414,
+        "avg24hPrice": 68342,
         "category": {
           "parent": {
             "name": "Key"
@@ -21213,7 +21213,7 @@
         "id": "5da5cdcd86f774529238fb9b",
         "name": "RB-RH key",
         "shortName": "RB-RH",
-        "avg24hPrice": 10222,
+        "avg24hPrice": 13143,
         "category": {
           "parent": {
             "name": "Key"
@@ -21224,7 +21224,7 @@
         "id": "5da743f586f7744014504f72",
         "name": "USEC stash key",
         "shortName": "USEC",
-        "avg24hPrice": 62745,
+        "avg24hPrice": 62551,
         "category": {
           "parent": {
             "name": "Key"
@@ -22467,7 +22467,7 @@
         "id": "5e32f56fcb6d5863cc5e5ee4",
         "name": "VOG-17 Khattabka improvised hand grenade",
         "shortName": "VOG-17",
-        "avg24hPrice": 22169,
+        "avg24hPrice": 22394,
         "category": {
           "parent": {
             "name": "Item"
@@ -22478,7 +22478,7 @@
         "id": "5e340dcdcb6d5863cc5e5efb",
         "name": "VOG-25 Khattabka improvised hand grenade",
         "shortName": "VOG-25",
-        "avg24hPrice": 40685,
+        "avg24hPrice": 41397,
         "category": {
           "parent": {
             "name": "Item"
@@ -22489,7 +22489,7 @@
         "id": "5e42c71586f7747f245e1343",
         "name": "ULTRA medical storage key",
         "shortName": "ULTRA med.",
-        "avg24hPrice": 861436,
+        "avg24hPrice": 861428,
         "category": {
           "parent": {
             "name": "Key"
@@ -22500,7 +22500,7 @@
         "id": "5e42c81886f7742a01529f57",
         "name": "Object #11SR keycard",
         "shortName": "#11SR",
-        "avg24hPrice": 63316,
+        "avg24hPrice": 63214,
         "category": {
           "parent": {
             "name": "Key"
@@ -22511,7 +22511,7 @@
         "id": "5e42c83786f7742a021fdf3c",
         "name": "Object #21WS keycard",
         "shortName": "#21WS",
-        "avg24hPrice": 35630,
+        "avg24hPrice": 34937,
         "category": {
           "parent": {
             "name": "Key"
@@ -22863,7 +22863,7 @@
         "id": "5e831507ea0a7c419c2f9bd9",
         "name": "Esmarch tourniquet",
         "shortName": "Esmarch",
-        "avg24hPrice": 2451,
+        "avg24hPrice": 2447,
         "category": {
           "parent": {
             "name": "Meds"
@@ -22874,7 +22874,7 @@
         "id": "5e8488fa988a8701445df1e4",
         "name": "CALOK-B hemostatic applicator",
         "shortName": "CALOK-B",
-        "avg24hPrice": 25189,
+        "avg24hPrice": 25602,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23347,7 +23347,7 @@
         "id": "5ed515c8d380ab312177c0fa",
         "name": "3-(b-TG) stimulant injector",
         "shortName": "3-(b-TG)",
-        "avg24hPrice": 57920,
+        "avg24hPrice": 56686,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23358,7 +23358,7 @@
         "id": "5ed515e03a40a50460332579",
         "name": "L1 (Norepinephrine) injector",
         "shortName": "L1",
-        "avg24hPrice": 24449,
+        "avg24hPrice": 24335,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23369,7 +23369,7 @@
         "id": "5ed515ece452db0eb56fc028",
         "name": "P22 (Product 22) stimulant injector",
         "shortName": "P22",
-        "avg24hPrice": 25395,
+        "avg24hPrice": 25398,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23380,7 +23380,7 @@
         "id": "5ed515f6915ec335206e4152",
         "name": "AHF1-M stimulant injector",
         "shortName": "AHF1-M",
-        "avg24hPrice": 30810,
+        "avg24hPrice": 30959,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23391,7 +23391,7 @@
         "id": "5ed5160a87bb8443d10680b5",
         "name": "Meldonin injector",
         "shortName": "Meldonin",
-        "avg24hPrice": 53456,
+        "avg24hPrice": 53847,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23402,7 +23402,7 @@
         "id": "5ed51652f6c34d2cc26336a1",
         "name": "M.U.L.E. stimulant injector",
         "shortName": "M.U.L.E.",
-        "avg24hPrice": 118755,
+        "avg24hPrice": 118998,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23413,7 +23413,7 @@
         "id": "5ed5166ad380ab312177c100",
         "name": "Obdolbos cocktail injector",
         "shortName": "Obdolbos",
-        "avg24hPrice": 38928,
+        "avg24hPrice": 38954,
         "category": {
           "parent": {
             "name": "Meds"
@@ -23479,7 +23479,7 @@
         "id": "5ede7a8229445733cb4c18e2",
         "name": "RB-PKPM marked key",
         "shortName": "RB-PKPM",
-        "avg24hPrice": 2996606,
+        "avg24hPrice": 3010639,
         "category": {
           "parent": {
             "name": "Key"
@@ -23490,7 +23490,7 @@
         "id": "5ede7b0c6d23e5473e6e8c66",
         "name": "RB-RLSA key",
         "shortName": "RB-RLSA",
-        "avg24hPrice": 51295,
+        "avg24hPrice": 50862,
         "category": {
           "parent": {
             "name": "Key"
@@ -23743,7 +23743,7 @@
         "id": "5efde6b4f5448336730dbd61",
         "name": "Keycard with a blue marking",
         "shortName": "Keycard",
-        "avg24hPrice": 98291,
+        "avg24hPrice": 95805,
         "category": {
           "parent": {
             "name": "Key"
@@ -23754,7 +23754,7 @@
         "id": "5eff09cd30a7dc22fd1ddfed",
         "name": "Health Resort office key with a blue tape",
         "shortName": "San tape",
-        "avg24hPrice": 77925,
+        "avg24hPrice": 77901,
         "category": {
           "parent": {
             "name": "Key"
@@ -24018,7 +24018,7 @@
         "id": "5f4f9eb969cdc30ff33f09db",
         "name": "EYE MK.2 professional hand-held compass",
         "shortName": "Compass",
-        "avg24hPrice": 65382,
+        "avg24hPrice": 62864,
         "category": {
           "parent": {
             "name": "Special item"
@@ -25129,7 +25129,7 @@
         "id": "5fc64ea372b0dd78d51159dc",
         "name": "Cultist knife",
         "shortName": "Knife",
-        "avg24hPrice": 43775,
+        "avg24hPrice": 44400,
         "category": {
           "parent": {
             "name": "Item"
@@ -25140,7 +25140,7 @@
         "id": "5fca138c2a7b221b2852a5c6",
         "name": "xTG-12 antidote injector",
         "shortName": "xTG-12",
-        "avg24hPrice": 50867,
+        "avg24hPrice": 50887,
         "category": {
           "parent": {
             "name": "Meds"
@@ -25151,7 +25151,7 @@
         "id": "5fca13ca637ee0341a484f46",
         "name": "SJ9 TGLabs combat stimulant injector",
         "shortName": "SJ9",
-        "avg24hPrice": 57078,
+        "avg24hPrice": 57003,
         "category": {
           "parent": {
             "name": "Meds"
@@ -25316,7 +25316,7 @@
         "id": "60098ad7c2240c0fe85c570a",
         "name": "AFAK tactical individual first aid kit",
         "shortName": "AFAK",
-        "avg24hPrice": 28675,
+        "avg24hPrice": 28701,
         "category": {
           "parent": {
             "name": "Meds"
@@ -25349,7 +25349,7 @@
         "id": "601948682627df266209af05",
         "name": "UVSR Taiga-1 survival machete",
         "shortName": "Taiga-1",
-        "avg24hPrice": 519776,
+        "avg24hPrice": 516023,
         "category": {
           "parent": {
             "name": "Item"
@@ -27362,7 +27362,7 @@
         "id": "617aa4dd8166f034d57de9c5",
         "name": "M18 smoke grenade (Green)",
         "shortName": "M18",
-        "avg24hPrice": 13854,
+        "avg24hPrice": 13871,
         "category": {
           "parent": {
             "name": "Item"
@@ -27956,7 +27956,7 @@
         "id": "619256e5f8af2c1a4e1f5d92",
         "name": "Model 7290 Flash Bang grenade",
         "shortName": "M7290",
-        "avg24hPrice": 13689,
+        "avg24hPrice": 13770,
         "category": {
           "parent": {
             "name": "Item"
@@ -28836,7 +28836,7 @@
         "id": "61a64428a8c6aa1b795f0ba1",
         "name": "Convenience store storage room key",
         "shortName": "Store",
-        "avg24hPrice": 10079,
+        "avg24hPrice": 9999,
         "category": {
           "parent": {
             "name": "Key"
@@ -28847,7 +28847,7 @@
         "id": "61a6444b8c141d68246e2d2f",
         "name": "Hillside house key",
         "shortName": "House",
-        "avg24hPrice": 27476,
+        "avg24hPrice": 26940,
         "category": {
           "parent": {
             "name": "Key"
@@ -28869,7 +28869,7 @@
         "id": "61a64492ba05ef10d62adcc1",
         "name": "Rogue USEC stash key",
         "shortName": "Stash",
-        "avg24hPrice": 27924,
+        "avg24hPrice": 27449,
         "category": {
           "parent": {
             "name": "Key"
@@ -28891,7 +28891,7 @@
         "id": "61aa5b518f5e7a39b41416e2",
         "name": "Merin car trunk key",
         "shortName": "Merin",
-        "avg24hPrice": 41169,
+        "avg24hPrice": 41819,
         "category": {
           "parent": {
             "name": "Key"
@@ -28902,7 +28902,7 @@
         "id": "61aa5b7db225ac1ead7957c1",
         "name": "USEC cottage first safe key",
         "shortName": "USEC 1",
-        "avg24hPrice": 67576,
+        "avg24hPrice": 72037,
         "category": {
           "parent": {
             "name": "Key"
@@ -28924,7 +28924,7 @@
         "id": "61aa81fcb225ac1ead7957c3",
         "name": "Rogue USEC workshop key",
         "shortName": "Workshop",
-        "avg24hPrice": 37378,
+        "avg24hPrice": 37383,
         "category": {
           "parent": {
             "name": "Key"
@@ -30860,7 +30860,7 @@
         "id": "62987c658081af308d7558c6",
         "name": "Radar station commandant room key",
         "shortName": "Radar",
-        "avg24hPrice": 169129,
+        "avg24hPrice": 169020,
         "category": {
           "parent": {
             "name": "Key"
@@ -30871,7 +30871,7 @@
         "id": "62987cb98081af308d7558c8",
         "name": "Conference room key",
         "shortName": "Conf.",
-        "avg24hPrice": 35892,
+        "avg24hPrice": 35966,
         "category": {
           "parent": {
             "name": "Key"
@@ -30882,7 +30882,7 @@
         "id": "62987da96188c076bc0d8c51",
         "name": "Operating room key",
         "shortName": "OR",
-        "avg24hPrice": 61827,
+        "avg24hPrice": 61884,
         "category": {
           "parent": {
             "name": "Key"
@@ -30893,7 +30893,7 @@
         "id": "62987dfc402c7f69bf010923",
         "name": "Shared bedroom marked key",
         "shortName": "Bedroom",
-        "avg24hPrice": 282987,
+        "avg24hPrice": 283007,
         "category": {
           "parent": {
             "name": "Key"
@@ -30904,7 +30904,7 @@
         "id": "62987e26a77ec735f90a2995",
         "name": "Water treatment plant storage room key",
         "shortName": "WTP store",
-        "avg24hPrice": 38216,
+        "avg24hPrice": 38925,
         "category": {
           "parent": {
             "name": "Key"
@@ -31025,7 +31025,7 @@
         "id": "62a09e974f842e1bd12da3f0",
         "name": "Video cassette with the Cyborg Killer movie",
         "shortName": "VHS",
-        "avg24hPrice": 53159,
+        "avg24hPrice": 53211,
         "category": {
           "parent": {
             "name": "Item"
@@ -31036,7 +31036,7 @@
         "id": "62a09ec84f842e1bd12da3f2",
         "name": "Missam forklift key",
         "shortName": "Danex",
-        "avg24hPrice": 18965,
+        "avg24hPrice": 18959,
         "category": {
           "parent": {
             "name": "Key"
@@ -31949,7 +31949,7 @@
         "id": "637b60c3b7afa97bfc3d7001",
         "name": "Obdolbos 2 cocktail injector",
         "shortName": "Dolbos 2",
-        "avg24hPrice": 82270,
+        "avg24hPrice": 81688,
         "category": {
           "parent": {
             "name": "Meds"
@@ -31960,7 +31960,7 @@
         "id": "637b612fb7afa97bfc3d7005",
         "name": "SJ12 TGLabs combat stimulant injector",
         "shortName": "SJ12",
-        "avg24hPrice": 51185,
+        "avg24hPrice": 52782,
         "category": {
           "parent": {
             "name": "Meds"
@@ -31971,7 +31971,7 @@
         "id": "637b6179104668754b72f8f5",
         "name": "PNB (Product 16) stimulant injector",
         "shortName": "PNB",
-        "avg24hPrice": 41161,
+        "avg24hPrice": 41179,
         "category": {
           "parent": {
             "name": "Meds"
@@ -31982,7 +31982,7 @@
         "id": "637b620db7afa97bfc3d7009",
         "name": "Trimadol stimulant injector",
         "shortName": "Trimadol",
-        "avg24hPrice": 138724,
+        "avg24hPrice": 139203,
         "category": {
           "parent": {
             "name": "Meds"
@@ -31993,7 +31993,7 @@
         "id": "637b6251104668754b72f8f9",
         "name": "Perfotoran (Blue Blood) stimulant injector",
         "shortName": "Perfotoran",
-        "avg24hPrice": 63663,
+        "avg24hPrice": 63028,
         "category": {
           "parent": {
             "name": "Meds"
@@ -32356,7 +32356,7 @@
         "id": "63920105a83e15700a00f168",
         "name": "SOG Voodoo Hawk tactical tomahawk",
         "shortName": "Hawk",
-        "avg24hPrice": 2282222,
+        "avg24hPrice": 2206203,
         "category": {
           "parent": {
             "name": "Item"
@@ -32543,7 +32543,7 @@
         "id": "63a39667c9b3aa4b61683e98",
         "name": "Financial institution office key",
         "shortName": "Finance",
-        "avg24hPrice": 79734,
+        "avg24hPrice": 77974,
         "category": {
           "parent": {
             "name": "Key"
@@ -32554,7 +32554,7 @@
         "id": "63a397d3af870e651d58e65b",
         "name": "Car dealership closed section key",
         "shortName": "LexOs sect.",
-        "avg24hPrice": 602710,
+        "avg24hPrice": 599050,
         "category": {
           "parent": {
             "name": "Key"
@@ -32565,7 +32565,7 @@
         "id": "63a399193901f439517cafb6",
         "name": "Car dealership director's office room key",
         "shortName": "LexOs",
-        "avg24hPrice": 55585,
+        "avg24hPrice": 54348,
         "category": {
           "parent": {
             "name": "Key"
@@ -32576,7 +32576,7 @@
         "id": "63a39c69af870e651d58e6aa",
         "name": "Store manager's key",
         "shortName": "Store",
-        "avg24hPrice": 27808,
+        "avg24hPrice": 27614,
         "category": {
           "parent": {
             "name": "Key"
@@ -32587,7 +32587,7 @@
         "id": "63a39c7964283b5e9c56b280",
         "name": "Concordia security room key",
         "shortName": "Conc sec.",
-        "avg24hPrice": 45952,
+        "avg24hPrice": 45809,
         "category": {
           "parent": {
             "name": "Key"
@@ -32598,7 +32598,7 @@
         "id": "63a39cb1c9b3aa4b61683ee2",
         "name": "Construction site bunkhouse key",
         "shortName": "Construct.",
-        "avg24hPrice": 18230,
+        "avg24hPrice": 17384,
         "category": {
           "parent": {
             "name": "Key"
@@ -32609,7 +32609,7 @@
         "id": "63a39ce4cd6db0635c1975fa",
         "name": "Supply department director's office key",
         "shortName": "Supp.",
-        "avg24hPrice": 68662,
+        "avg24hPrice": 63761,
         "category": {
           "parent": {
             "name": "Key"
@@ -32631,7 +32631,7 @@
         "id": "63a39df18a56922e82001f25",
         "name": "Zmeisky 5 apartment 20 key",
         "shortName": "Zm apt. 20",
-        "avg24hPrice": 25827,
+        "avg24hPrice": 25108,
         "category": {
           "parent": {
             "name": "Key"
@@ -32642,7 +32642,7 @@
         "id": "63a39dfe3901f439517cafba",
         "name": "Zmeisky 3 apartment 8 key",
         "shortName": "Zm apt. 8",
-        "avg24hPrice": 16655,
+        "avg24hPrice": 16198,
         "category": {
           "parent": {
             "name": "Key"
@@ -32664,7 +32664,7 @@
         "id": "63a39e49cd6db0635c1975fc",
         "name": "Archive room key",
         "shortName": "Archives",
-        "avg24hPrice": 28420,
+        "avg24hPrice": 28332,
         "category": {
           "parent": {
             "name": "Key"
@@ -32697,7 +32697,7 @@
         "id": "63a39f08cd6db0635c197600",
         "name": "Pinewood hotel room 215 key",
         "shortName": "Pnwd 215",
-        "avg24hPrice": 51682,
+        "avg24hPrice": 51502,
         "category": {
           "parent": {
             "name": "Key"
@@ -32708,7 +32708,7 @@
         "id": "63a39f18c2d53c2c6839c1d3",
         "name": "Pinewood hotel room 206 key",
         "shortName": "Pnwd 206",
-        "avg24hPrice": 19957,
+        "avg24hPrice": 19961,
         "category": {
           "parent": {
             "name": "Key"
@@ -32719,7 +32719,7 @@
         "id": "63a39f6e64283b5e9c56b289",
         "name": "Iron gate key",
         "shortName": "Iron gate",
-        "avg24hPrice": 157030,
+        "avg24hPrice": 175321,
         "category": {
           "parent": {
             "name": "Key"
@@ -32730,7 +32730,7 @@
         "id": "63a39fc0af870e651d58e6ae",
         "name": "Chekannaya 15 apartment key",
         "shortName": "Chek. 15",
-        "avg24hPrice": 1086820,
+        "avg24hPrice": 1085271,
         "category": {
           "parent": {
             "name": "Key"
@@ -32741,7 +32741,7 @@
         "id": "63a39fd1c9b3aa4b61683efb",
         "name": "Stair landing key",
         "shortName": "Stairs",
-        "avg24hPrice": 15682,
+        "avg24hPrice": 15468,
         "category": {
           "parent": {
             "name": "Key"
@@ -32752,7 +32752,7 @@
         "id": "63a39fdf1e21260da44a0256",
         "name": "Cargo container mesh door key",
         "shortName": "Container",
-        "avg24hPrice": 28224,
+        "avg24hPrice": 28979,
         "category": {
           "parent": {
             "name": "Key"
@@ -32763,7 +32763,7 @@
         "id": "63a3a93f8a56922e82001f5d",
         "name": "Abandoned factory marked key",
         "shortName": "Aband.",
-        "avg24hPrice": 2395022,
+        "avg24hPrice": 2382221,
         "category": {
           "parent": {
             "name": "Key"
@@ -32774,7 +32774,7 @@
         "id": "63a71e781031ac76fe773c7d",
         "name": "Concordia apartment 8 room key",
         "shortName": "Conc 8",
-        "avg24hPrice": 27065,
+        "avg24hPrice": 25385,
         "category": {
           "parent": {
             "name": "Key"
@@ -32785,7 +32785,7 @@
         "id": "63a71e86b7f4570d3a293169",
         "name": "Concordia apartment 64 office room key",
         "shortName": "Conc off.",
-        "avg24hPrice": 73198,
+        "avg24hPrice": 72125,
         "category": {
           "parent": {
             "name": "Key"
@@ -32796,7 +32796,7 @@
         "id": "63a71e922b25f7513905ca20",
         "name": "Concordia apartment 64 key",
         "shortName": "Conc 64",
-        "avg24hPrice": 119833,
+        "avg24hPrice": 111003,
         "category": {
           "parent": {
             "name": "Key"
@@ -32807,7 +32807,7 @@
         "id": "63a71eb5b7f4570d3a29316b",
         "name": "Primorsky 48 apartment key",
         "shortName": "Prim 48",
-        "avg24hPrice": 34221,
+        "avg24hPrice": 52626,
         "category": {
           "parent": {
             "name": "Key"
@@ -32818,7 +32818,7 @@
         "id": "63a71ed21031ac76fe773c7f",
         "name": "Financial institution small office key",
         "shortName": "Finance s",
-        "avg24hPrice": 43069,
+        "avg24hPrice": 43866,
         "category": {
           "parent": {
             "name": "Key"
@@ -35007,7 +35007,7 @@
         "id": "64ccc1d4a0f13c24561edf27",
         "name": "Concordia apartment 34 room key",
         "shortName": "Conc 34",
-        "avg24hPrice": 35619,
+        "avg24hPrice": 38683,
         "category": {
           "parent": {
             "name": "Key"
@@ -35018,7 +35018,7 @@
         "id": "64ccc1ec1779ad6ba200a137",
         "name": "Concordia apartment 8 home cinema key",
         "shortName": "Cinema",
-        "avg24hPrice": 45608,
+        "avg24hPrice": 43576,
         "category": {
           "parent": {
             "name": "Key"
@@ -35029,7 +35029,7 @@
         "id": "64ccc1f4ff54fb38131acf27",
         "name": "Concordia apartment 63 room key",
         "shortName": "Conc 63",
-        "avg24hPrice": 42860,
+        "avg24hPrice": 42749,
         "category": {
           "parent": {
             "name": "Key"
@@ -35040,7 +35040,7 @@
         "id": "64ccc1fe088064307e14a6f7",
         "name": "Beluga restaurant director key",
         "shortName": "Beluga",
-        "avg24hPrice": 46595,
+        "avg24hPrice": 45892,
         "category": {
           "parent": {
             "name": "Key"
@@ -35051,7 +35051,7 @@
         "id": "64ccc206793ca11c8f450a38",
         "name": "TerraGroup meeting room key",
         "shortName": "TG meeting",
-        "avg24hPrice": 56022,
+        "avg24hPrice": 60030,
         "category": {
           "parent": {
             "name": "Key"
@@ -35062,7 +35062,7 @@
         "id": "64ccc2111779ad6ba200a139",
         "name": "Tarbank cash register department key",
         "shortName": "Tarbank",
-        "avg24hPrice": 71189,
+        "avg24hPrice": 71479,
         "category": {
           "parent": {
             "name": "Key"
@@ -35073,7 +35073,7 @@
         "id": "64ccc246ff54fb38131acf29",
         "name": "X-ray room key",
         "shortName": "X-ray",
-        "avg24hPrice": 54279,
+        "avg24hPrice": 53754,
         "category": {
           "parent": {
             "name": "Key"
@@ -35084,7 +35084,7 @@
         "id": "64ccc24de61ea448b507d34d",
         "name": "TerraGroup security armory key",
         "shortName": "TG arm.",
-        "avg24hPrice": 80915,
+        "avg24hPrice": 82922,
         "category": {
           "parent": {
             "name": "Key"
@@ -35095,7 +35095,7 @@
         "id": "64ccc25f95763a1ae376e447",
         "name": "Mysterious room marked key",
         "shortName": "Chek. 13",
-        "avg24hPrice": 1666531,
+        "avg24hPrice": 1589079,
         "category": {
           "parent": {
             "name": "Key"
@@ -35106,7 +35106,7 @@
         "id": "64ccc268c41e91416064ebc7",
         "name": "PE teacher's office key",
         "shortName": "PE",
-        "avg24hPrice": 15457,
+        "avg24hPrice": 15678,
         "category": {
           "parent": {
             "name": "Key"
@@ -35117,7 +35117,7 @@
         "id": "64ce572331dd890873175115",
         "name": "Aspect company office key",
         "shortName": "Aspect",
-        "avg24hPrice": 39399,
+        "avg24hPrice": 39697,
         "category": {
           "parent": {
             "name": "Key"
@@ -35777,7 +35777,7 @@
         "id": "6540d2162ae6d96b540afcaf",
         "name": "PR-Taran police baton",
         "shortName": "PR-Taran",
-        "avg24hPrice": 24276,
+        "avg24hPrice": 22185,
         "category": {
           "parent": {
             "name": "Item"
@@ -38582,7 +38582,7 @@
         "id": "6581998038c79576a2569e11",
         "name": "Unity Credit Bank cash register key",
         "shortName": "UC reg.",
-        "avg24hPrice": 10378,
+        "avg24hPrice": 10128,
         "category": {
           "parent": {
             "name": "Key"
@@ -38593,7 +38593,7 @@
         "id": "658199972dc4e60f6d556a2f",
         "name": "Underground parking utility room key",
         "shortName": "Utility",
-        "avg24hPrice": 7599,
+        "avg24hPrice": 7515,
         "category": {
           "parent": {
             "name": "Key"
@@ -38615,7 +38615,7 @@
         "id": "658199aa38c79576a2569e13",
         "name": "TerraGroup science office key",
         "shortName": "Science",
-        "avg24hPrice": 105444,
+        "avg24hPrice": 111914,
         "category": {
           "parent": {
             "name": "Key"
@@ -38626,7 +38626,7 @@
         "id": "6582dbe43a2e5248357dbe9a",
         "name": "\"Negotiation\" room key",
         "shortName": "Negotiations",
-        "avg24hPrice": 14171,
+        "avg24hPrice": 14505,
         "category": {
           "parent": {
             "name": "Key"
@@ -38637,7 +38637,7 @@
         "id": "6582dbf0b8d7830efc45016f",
         "name": "Relaxation room key",
         "shortName": "Relax",
-        "avg24hPrice": 186160,
+        "avg24hPrice": 185162,
         "category": {
           "parent": {
             "name": "Key"
@@ -38648,7 +38648,7 @@
         "id": "6582dc4b6ba9e979af6b79f4",
         "name": "MVD academy entrance hall guard room key",
         "shortName": "MVD",
-        "avg24hPrice": 23439,
+        "avg24hPrice": 23562,
         "category": {
           "parent": {
             "name": "Key"
@@ -38659,7 +38659,7 @@
         "id": "6582dc5740562727a654ebb1",
         "name": "Real estate agency office room key",
         "shortName": "REA",
-        "avg24hPrice": 87593,
+        "avg24hPrice": 83894,
         "category": {
           "parent": {
             "name": "Key"
@@ -39231,7 +39231,7 @@
         "id": "66265d7be65f224b2e17c6aa",
         "name": "USEC cottage room key",
         "shortName": "USEC cott.",
-        "avg24hPrice": 13860,
+        "avg24hPrice": 13651,
         "category": {
           "parent": {
             "name": "Key"
@@ -39374,7 +39374,7 @@
         "id": "66507eabf5ddb0818b085b68",
         "name": "2A2-(b-TG) stimulant injector",
         "shortName": "2A2-(b-TG)",
-        "avg24hPrice": 55835,
+        "avg24hPrice": 55936,
         "category": {
           "parent": {
             "name": "Meds"
@@ -40760,7 +40760,7 @@
         "id": "66acd6702b17692df20144c0",
         "name": "TerraGroup storage room keycard",
         "shortName": "Polikhim",
-        "avg24hPrice": 1379973,
+        "avg24hPrice": 1393242,
         "category": {
           "parent": {
             "name": "Key"
@@ -41222,7 +41222,7 @@
         "id": "66dae7cbeb28f0f96809f325",
         "name": "V40 Mini-Grenade",
         "shortName": "V40",
-        "avg24hPrice": 11701,
+        "avg24hPrice": 11843,
         "category": {
           "parent": {
             "name": "Item"
@@ -41684,7 +41684,7 @@
         "id": "6711039f9e648049e50b3307",
         "name": "TerraGroup Labs residential unit keycard ",
         "shortName": "Res. unit",
-        "avg24hPrice": 159122,
+        "avg24hPrice": 161166,
         "category": {
           "parent": {
             "name": "Key"
@@ -43587,7 +43587,7 @@
         "id": "6761a6ccd9bbb27ad703c48a",
         "name": "Old house room key",
         "shortName": "Depot",
-        "avg24hPrice": 205310,
+        "avg24hPrice": 206383,
         "category": {
           "parent": {
             "name": "Key"
@@ -43598,7 +43598,7 @@
         "id": "6761a6f90575f25e020816a4",
         "name": "Company director's room key",
         "shortName": "Company",
-        "avg24hPrice": 40348,
+        "avg24hPrice": 40460,
         "category": {
           "parent": {
             "name": "Key"
@@ -44885,7 +44885,7 @@
         "id": "67b49e7335dec48e3e05e057",
         "name": "F-1 hand grenade (Reduced delay)",
         "shortName": "F-1 RD",
-        "avg24hPrice": 102571,
+        "avg24hPrice": 103294,
         "category": {
           "parent": {
             "name": "Item"
@@ -44962,7 +44962,7 @@
         "id": "67c031b79320f644db06f456",
         "name": "Blank RFID keycard",
         "shortName": "Blank RFID",
-        "avg24hPrice": 518581,
+        "avg24hPrice": 520082,
         "category": {
           "parent": {
             "name": "Key"
@@ -45556,7 +45556,7 @@
         "id": "67ee7680562d5057e60ccc3a",
         "name": "TerraGroup corporate apartment key",
         "shortName": "TG apt.",
-        "avg24hPrice": 75005,
+        "avg24hPrice": 74998,
         "category": {
           "parent": {
             "name": "Key"
@@ -49010,7 +49010,7 @@
         "id": "68c165f1903341d88b092b2a",
         "name": "Cardinal apartment key",
         "shortName": "Cardinal",
-        "avg24hPrice": 188989,
+        "avg24hPrice": 188992,
         "category": {
           "parent": {
             "name": "Key"
@@ -50396,7 +50396,7 @@
         "id": "68e63b56ad8cba49190ea529",
         "name": "Rus Post car key",
         "shortName": "Rus Post",
-        "avg24hPrice": 26800,
+        "avg24hPrice": 26774,
         "category": {
           "parent": {
             "name": "Key"
@@ -50550,7 +50550,7 @@
         "id": "68e95d71a3d110355b03e529",
         "name": "Elektronik's key",
         "shortName": "Elektronik",
-        "avg24hPrice": 168939,
+        "avg24hPrice": 154402,
         "category": {
           "parent": {
             "name": "Key"
@@ -50561,7 +50561,7 @@
         "id": "68e95f4fa4a577e907015787",
         "name": "Reshala's bunkhouse key",
         "shortName": "Reshala",
-        "avg24hPrice": 82509,
+        "avg24hPrice": 82214,
         "category": {
           "parent": {
             "name": "Key"
@@ -50572,7 +50572,7 @@
         "id": "68e960db934bf7b02d005dab",
         "name": "Zmeisky 3 apartment key",
         "shortName": "Zm. 3",
-        "avg24hPrice": 27807,
+        "avg24hPrice": 28325,
         "category": {
           "parent": {
             "name": "Key"
@@ -50583,7 +50583,7 @@
         "id": "68e96180901b9b10270f1eed",
         "name": "Cult victim's apartment key",
         "shortName": "Cult victim",
-        "avg24hPrice": 46283,
+        "avg24hPrice": 45784,
         "category": {
           "parent": {
             "name": "Key"
@@ -50594,7 +50594,7 @@
         "id": "68e9654d72488961110dbf69",
         "name": "RB-PKPTS key",
         "shortName": "RB-PKPTS",
-        "avg24hPrice": 167778,
+        "avg24hPrice": 197281,
         "category": {
           "parent": {
             "name": "Key"
@@ -52167,7 +52167,7 @@
         "id": "6937ecf8628ee476240c07cb",
         "name": "Tigzresq splint",
         "shortName": "Tigzresq",
-        "avg24hPrice": 25828,
+        "avg24hPrice": 25448,
         "category": {
           "parent": {
             "name": "Meds"
