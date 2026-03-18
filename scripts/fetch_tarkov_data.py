@@ -18,10 +18,41 @@ ITEMS_QUERY = (
 HAZARDS_QUERY = (
     "query Hazards { maps { nameId hazards { name outline { x y z } position { x y z } } } }"
 )
+ZONES_QUERY = (
+    "query Zones { "
+    "tasks { "
+    "id "
+    "name "
+    "objectives { "
+    "... on TaskObjectiveQuestItem { "
+    "questItem { id shortName } "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "... on TaskObjectiveMark { "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "... on TaskObjectiveItem { "
+    "items { id shortName } "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "... on TaskObjectiveShoot { "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "... on TaskObjectiveBasic { "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "... on TaskObjectiveUseItem { "
+    "zones { id map { normalizedName } position { x y z } } "
+    "} "
+    "} "
+    "} "
+    "}"
+)
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 ITEMS_OUTFILE = REPO_ROOT / "items.json"
 HAZARDS_OUTFILE = REPO_ROOT / "hazards.json"
+ZONES_OUTFILE = REPO_ROOT / "zones.json"
 
 
 class FetchError(RuntimeError):
@@ -88,6 +119,20 @@ def validate_hazards_payload(payload: dict) -> None:
         raise FetchError("Hazards payload is missing expected map fields")
 
 
+def validate_zones_payload(payload: dict) -> None:
+    data = payload.get("data")
+    if not isinstance(data, dict):
+        raise FetchError("Zones payload has invalid 'data' section")
+
+    tasks = data.get("tasks")
+    if not isinstance(tasks, list) or len(tasks) == 0:
+        raise FetchError("Zones payload is missing a non-empty data.tasks array")
+
+    first = tasks[0]
+    if not isinstance(first, dict) or "id" not in first or "objectives" not in first:
+        raise FetchError("Zones payload is missing expected task fields")
+
+
 def fetch_dataset(name: str, query: str, validator) -> dict:
     last_error = None
     for attempt in range(1, MAX_ATTEMPTS_PER_DATASET + 1):
@@ -117,14 +162,18 @@ def main() -> int:
     try:
         items_payload = fetch_dataset("items", ITEMS_QUERY, validate_items_payload)
         hazards_payload = fetch_dataset("hazards", HAZARDS_QUERY, validate_hazards_payload)
+        zones_payload = fetch_dataset("zones", ZONES_QUERY, validate_zones_payload)
     except FetchError as err:
         print(f"Fetch run failed: {err}", file=sys.stderr)
         return 1
 
     write_json(ITEMS_OUTFILE, items_payload)
     write_json(HAZARDS_OUTFILE, hazards_payload)
+    write_json(ZONES_OUTFILE, zones_payload)
 
-    print(f"Wrote {ITEMS_OUTFILE.name} and {HAZARDS_OUTFILE.name}")
+    print(
+        f"Wrote {ITEMS_OUTFILE.name}, {HAZARDS_OUTFILE.name}, and {ZONES_OUTFILE.name}"
+    )
     return 0
 
 
