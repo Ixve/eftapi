@@ -478,7 +478,7 @@
         "id": "55d3632e4bdc2d972f8b4569",
         "name": "AR-15 5.56x45 14.5 inch barrel",
         "shortName": "AR-15 14.5\"",
-        "avg24hPrice": 37175,
+        "avg24hPrice": 37032,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -665,7 +665,7 @@
         "id": "55d48a634bdc2d8b2f8b456a",
         "name": "Kiba Arms SPRM rail mount for pump-action shotguns",
         "shortName": "SPRM",
-        "avg24hPrice": 18421,
+        "avg24hPrice": 19756,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -676,7 +676,7 @@
         "id": "55d48ebc4bdc2d8c2f8b456c",
         "name": "Delta-Tek Sprut mount for pump-action shotguns",
         "shortName": "Sprut",
-        "avg24hPrice": 21991,
+        "avg24hPrice": 21698,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -709,7 +709,7 @@
         "id": "55d4b9964bdc2d1d4e8b456e",
         "name": "AR-15 Colt A2 pistol grip",
         "shortName": "A2",
-        "avg24hPrice": 22385,
+        "avg24hPrice": 20480,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -874,7 +874,7 @@
         "id": "56083a334bdc2dc8488b4571",
         "name": "MP-133/153 plastic pistol grip",
         "shortName": "133/153",
-        "avg24hPrice": 24350,
+        "avg24hPrice": 24200,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -885,7 +885,7 @@
         "id": "56083be64bdc2d20478b456f",
         "name": "MP-133/153 plastic stock",
         "shortName": "133/153 plastic",
-        "avg24hPrice": 31949,
+        "avg24hPrice": 31998,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -1050,7 +1050,7 @@
         "id": "5648ae314bdc2d3d1c8b457f",
         "name": "AK CAA RS47 handguard",
         "shortName": "RS47",
-        "avg24hPrice": 18660,
+        "avg24hPrice": 18619,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -1072,7 +1072,7 @@
         "id": "5648b1504bdc2d9d488b4584",
         "name": "AK-74M polymer handguard",
         "shortName": "AK-74M",
-        "avg24hPrice": 852,
+        "avg24hPrice": 982,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -1083,7 +1083,7 @@
         "id": "5648b4534bdc2d3d1c8b4580",
         "name": "AK Zenit B-10M handguard with B-19 upper mount",
         "shortName": "B10M+B19",
-        "avg24hPrice": 30840,
+        "avg24hPrice": 33707,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -1094,7 +1094,7 @@
         "id": "5649a2464bdc2d91118b45a8",
         "name": "NcSTAR MPR45 Backup mount",
         "shortName": "MPR45",
-        "avg24hPrice": 19721,
+        "avg24hPrice": 20889,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -1226,7 +1226,7 @@
         "id": "5649be884bdc2d79388b4577",
         "name": "AR-15 Colt Carbine buffer tube",
         "shortName": "Carbine",
-        "avg24hPrice": 14722,
+        "avg24hPrice": 14443,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -1556,7 +1556,7 @@
         "id": "56deed6ed2720b4c698b4583",
         "name": "MP-153 polymer forestock",
         "shortName": "MP153 Poly",
-        "avg24hPrice": 37033,
+        "avg24hPrice": 37058,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -1875,7 +1875,7 @@
         "id": "56eabf3bd2720b75698b4569",
         "name": "AR-15 Magpul MOE Carbine stock (Black)",
         "shortName": "MOE",
-        "avg24hPrice": 19063,
+        "avg24hPrice": 19412,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -3712,7 +3712,7 @@
         "id": "57a3459f245977764a01f703",
         "name": "VSS/VAL Zenit B-3 ring mount",
         "shortName": "B-3",
-        "avg24hPrice": 32861,
+        "avg24hPrice": 32894,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -3778,7 +3778,7 @@
         "id": "57ade1442459771557167e15",
         "name": "Armacon Baskak stock",
         "shortName": "Baskak",
-        "avg24hPrice": 15407,
+        "avg24hPrice": 15191,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -3866,7 +3866,7 @@
         "id": "57c44fa82459772d2d75e415",
         "name": "AS VAL pistol grip (Plum)",
         "shortName": "VAL",
-        "avg24hPrice": 22021,
+        "avg24hPrice": 20434,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -3899,7 +3899,7 @@
         "id": "57c55f092459772d291a8463",
         "name": "Hogue OverMolded Rubber Grip (Ghillie Earth)",
         "shortName": "OMRG GE",
-        "avg24hPrice": 20000,
+        "avg24hPrice": 12500,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -3910,7 +3910,7 @@
         "id": "57c55f112459772d28133310",
         "name": "Hogue OverMolded Rubber Grip (Ghillie Green)",
         "shortName": "OMRG GG",
-        "avg24hPrice": 10833,
+        "avg24hPrice": 10444,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -3921,7 +3921,7 @@
         "id": "57c55f172459772d27602381",
         "name": "Hogue OverMolded Rubber Grip (Olive Drab)",
         "shortName": "OMRG OD",
-        "avg24hPrice": 14311,
+        "avg24hPrice": 14101,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -3976,7 +3976,7 @@
         "id": "57cff947245977638e6f2a19",
         "name": "AK Magpul MOE AKM handguard (Black)",
         "shortName": "MOE AKM",
-        "avg24hPrice": 53644,
+        "avg24hPrice": 55956,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4031,7 +4031,7 @@
         "id": "57cffd8224597763b03fc609",
         "name": "AK Magpul MOE AKM handguard (FDE)",
         "shortName": "MOE AKM",
-        "avg24hPrice": 22170,
+        "avg24hPrice": 21768,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4042,7 +4042,7 @@
         "id": "57cffddc24597763133760c6",
         "name": "AK Magpul MOE AKM handguard (Olive Drab)",
         "shortName": "MOE AKM",
-        "avg24hPrice": 48611,
+        "avg24hPrice": 48242,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4053,7 +4053,7 @@
         "id": "57cffe0024597763b03fc60b",
         "name": "AK Magpul MOE AKM handguard (Plum)",
         "shortName": "MOE AKM",
-        "avg24hPrice": 29038,
+        "avg24hPrice": 33166,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4064,7 +4064,7 @@
         "id": "57cffe20245977632f391a9d",
         "name": "AK Magpul MOE AKM handguard (Stealth Grey)",
         "shortName": "MOE AKM",
-        "avg24hPrice": 20299,
+        "avg24hPrice": 22113,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4713,7 +4713,7 @@
         "id": "587de4282459771bca0ec90b",
         "name": "P226 9x19 112mm threaded barrel",
         "shortName": "P226 thr.",
-        "avg24hPrice": 19997,
+        "avg24hPrice": 20692,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4779,7 +4779,7 @@
         "id": "587e08ee245977446b4410cf",
         "name": "OP-SKS dovetail mount",
         "shortName": "OPSKS DT",
-        "avg24hPrice": 42374,
+        "avg24hPrice": 40829,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -4944,7 +4944,7 @@
         "id": "5888945a2459774bf43ba385",
         "name": "DVL-10 7.62x51 500mm suppressed barrel",
         "shortName": "DVL-10 500mm",
-        "avg24hPrice": 52398,
+        "avg24hPrice": 52590,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4955,7 +4955,7 @@
         "id": "5888956924597752983e182d",
         "name": "DVL-10 M2 7.62x51 660mm barrel",
         "shortName": "DVL-10 M2 660mm",
-        "avg24hPrice": 28372,
+        "avg24hPrice": 30706,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -4977,7 +4977,7 @@
         "id": "5888976c24597754281f93f5",
         "name": "DVL-10 M2 handguard",
         "shortName": "DVL-10 M2",
-        "avg24hPrice": 22206,
+        "avg24hPrice": 21815,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -5032,7 +5032,7 @@
         "id": "588b56d02459771481110ae2",
         "name": "AR-15 Daniel Defense RIS II 9.5 handguard (Black)",
         "shortName": "RIS II 9.5",
-        "avg24hPrice": 32610,
+        "avg24hPrice": 31888,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -5274,7 +5274,7 @@
         "id": "58d2912286f7744e27117493",
         "name": "Magpul MOE Carbine rubber buttpad",
         "shortName": "MOE RBP",
-        "avg24hPrice": 20612,
+        "avg24hPrice": 20591,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -5285,7 +5285,7 @@
         "id": "58d2946386f774496974c37e",
         "name": "AR-15 Magpul MOE Carbine stock (FDE)",
         "shortName": "MOE FDE",
-        "avg24hPrice": 11563,
+        "avg24hPrice": 11461,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -5296,7 +5296,7 @@
         "id": "58d2946c86f7744e271174b5",
         "name": "AR-15 Magpul MOE Carbine stock (Foliage Green)",
         "shortName": "MOE FG",
-        "avg24hPrice": 21798,
+        "avg24hPrice": 21814,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -5307,7 +5307,7 @@
         "id": "58d2947686f774485c6a1ee5",
         "name": "AR-15 Magpul MOE Carbine stock (Olive Drab)",
         "shortName": "MOE OD",
-        "avg24hPrice": 9994,
+        "avg24hPrice": 9995,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -5318,7 +5318,7 @@
         "id": "58d2947e86f77447aa070d53",
         "name": "AR-15 Magpul MOE Carbine stock (Stealth Grey)",
         "shortName": "MOE SG",
-        "avg24hPrice": 13426,
+        "avg24hPrice": 14391,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6022,7 +6022,7 @@
         "id": "591aef7986f774139d495f03",
         "name": "AR-15 TROY M7A1 PDW stock (Black)",
         "shortName": "M7A1PDW",
-        "avg24hPrice": 12374,
+        "avg24hPrice": 12141,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6033,7 +6033,7 @@
         "id": "591af10186f774139d495f0e",
         "name": "AR-15 TROY M7A1 PDW stock (FDE)",
         "shortName": "M7A1PDW",
-        "avg24hPrice": 31549,
+        "avg24hPrice": 30030,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6132,7 +6132,7 @@
         "id": "5926c36d86f77467a92a8629",
         "name": "HK MP5 Wide Tropical polymer handguard",
         "shortName": "MP5WT",
-        "avg24hPrice": 15556,
+        "avg24hPrice": 15119,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6187,7 +6187,7 @@
         "id": "5926d40686f7740f152b6b7e",
         "name": "HK MP5 A3 old model stock",
         "shortName": "MP5A3",
-        "avg24hPrice": 29399,
+        "avg24hPrice": 29437,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6198,7 +6198,7 @@
         "id": "5926dad986f7741f82604363",
         "name": "HK MP5 MFI HK universal low profile scope mount",
         "shortName": "MFI HK",
-        "avg24hPrice": 20478,
+        "avg24hPrice": 20436,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6220,7 +6220,7 @@
         "id": "5926f2e086f7745aae644231",
         "name": "HK MP5SD 9x19 upper receiver",
         "shortName": "MP5SD",
-        "avg24hPrice": 17991,
+        "avg24hPrice": 18083,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6231,7 +6231,7 @@
         "id": "5926f34786f77469195bfe92",
         "name": "HK MP5SD polymer handguard",
         "shortName": "MP5SD HG",
-        "avg24hPrice": 21332,
+        "avg24hPrice": 21166,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6363,7 +6363,7 @@
         "id": "593d1fa786f7746da62d61ac",
         "name": "SKS Leapers UTG SOCOM rail mount",
         "shortName": "SKS SOCOM",
-        "avg24hPrice": 16874,
+        "avg24hPrice": 16666,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6462,7 +6462,7 @@
         "id": "5947c73886f7747701588af5",
         "name": "AR-15 MFT BUS stock",
         "shortName": "BUS",
-        "avg24hPrice": 45176,
+        "avg24hPrice": 40869,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6484,7 +6484,7 @@
         "id": "5947e98b86f774778f1448bc",
         "name": "AR-15 Magpul UBR GEN2 stock (Black)",
         "shortName": "UBR GEN2",
-        "avg24hPrice": 23817,
+        "avg24hPrice": 24710,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6495,7 +6495,7 @@
         "id": "5947eab886f77475961d96c5",
         "name": "AR-15 Magpul UBR GEN2 stock (FDE)",
         "shortName": "UBR GEN2",
-        "avg24hPrice": 30200,
+        "avg24hPrice": 30285,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -6506,7 +6506,7 @@
         "id": "5947f92f86f77427344a76b1",
         "name": "AK TAPCO SAW-Style pistol grip (Black)",
         "shortName": "SAW",
-        "avg24hPrice": 14333,
+        "avg24hPrice": 14428,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6528,7 +6528,7 @@
         "id": "595cf16b86f77427440c32e2",
         "name": "AR-15 War Sport LVOA-S handguard (Black)",
         "shortName": "LVOA-S",
-        "avg24hPrice": 25606,
+        "avg24hPrice": 25015,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6913,7 +6913,7 @@
         "id": "59db3a1d86f77429e05b4e92",
         "name": "AR-15 Naroh Arms GRAL-S pistol grip",
         "shortName": "GRAL-S",
-        "avg24hPrice": 31391,
+        "avg24hPrice": 31111,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6924,7 +6924,7 @@
         "id": "59db3acc86f7742a2c4ab912",
         "name": "AR-15 Stark AR Rifle Grip (Black)",
         "shortName": "Stark AR",
-        "avg24hPrice": 16483,
+        "avg24hPrice": 16761,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -6990,7 +6990,7 @@
         "id": "59e0bdb186f774156f04ce82",
         "name": "Vltor CASV KeyMod 2 inch rail",
         "shortName": "CASV 2\"",
-        "avg24hPrice": 26462,
+        "avg24hPrice": 25198,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -7012,7 +7012,7 @@
         "id": "59e0bed186f774156f04ce84",
         "name": "Vltor CASV KeyMod 6 inch rail",
         "shortName": "CASV 6\"",
-        "avg24hPrice": 14166,
+        "avg24hPrice": 14212,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -7617,7 +7617,7 @@
         "id": "59eb7ebe86f7740b373438ce",
         "name": "VSS/VAL TOZ 6P29M mount",
         "shortName": "6P29M",
-        "avg24hPrice": 30798,
+        "avg24hPrice": 30739,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -7639,7 +7639,7 @@
         "id": "59ecc3dd86f7746dc827481c",
         "name": "AK Zenit PT-3 \"Klassika\" stock",
         "shortName": "PT-3",
-        "avg24hPrice": 27687,
+        "avg24hPrice": 27872,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -7892,7 +7892,7 @@
         "id": "59fb375986f7741b681b81a6",
         "name": "AK Krebs Custom UFM KeyMod handguard",
         "shortName": "UFM",
-        "avg24hPrice": 16584,
+        "avg24hPrice": 16198,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -8607,7 +8607,7 @@
         "id": "5a16b8a9fcdbcb00165aa6ca",
         "name": "Norotos Titanium Advanced Tactical Mount",
         "shortName": "TATM",
-        "avg24hPrice": 32024,
+        "avg24hPrice": 32747,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9036,7 +9036,7 @@
         "id": "5a33cae9c4a28232980eb086",
         "name": "AR-15 Magpul PRS GEN2 stock (FDE)",
         "shortName": "PRS GEN2",
-        "avg24hPrice": 18396,
+        "avg24hPrice": 17903,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9047,7 +9047,7 @@
         "id": "5a33e75ac4a2826c6e06d759",
         "name": "AR-15 Hera Arms CQR pistol grip/buttstock",
         "shortName": "CQR AR15",
-        "avg24hPrice": 64291,
+        "avg24hPrice": 64380,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9058,7 +9058,7 @@
         "id": "5a34f7f1c4a2826c6e06d75d",
         "name": "AR-10 7.62x51 18 inch barrel",
         "shortName": "AR-10 18\"",
-        "avg24hPrice": 81595,
+        "avg24hPrice": 86991,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9069,7 +9069,7 @@
         "id": "5a34fae7c4a2826c6e06d760",
         "name": "AR-10 7.62x51 22 inch barrel",
         "shortName": "AR-10 22\"",
-        "avg24hPrice": 36361,
+        "avg24hPrice": 35591,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9377,7 +9377,7 @@
         "id": "5a69a2ed8dc32e000d46d1f1",
         "name": "AS VAL Rotor 43 pistol grip with buffer tube",
         "shortName": "R43 VAL",
-        "avg24hPrice": 51539,
+        "avg24hPrice": 51333,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9421,7 +9421,7 @@
         "id": "5a6b5b8a8dc32e001207faf3",
         "name": "Glock 9x19 Lone Wolf AlphaWolf 114mm threaded barrel",
         "shortName": "G AW thr.",
-        "avg24hPrice": 19271,
+        "avg24hPrice": 18888,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9696,7 +9696,7 @@
         "id": "5a787f7ac5856700177af660",
         "name": "M870 12ga 508mm barrel",
         "shortName": "M870 508mm",
-        "avg24hPrice": 96073,
+        "avg24hPrice": 96322,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9740,7 +9740,7 @@
         "id": "5a788068c5856700137e4c8f",
         "name": "M870 Magpul MOE handguard",
         "shortName": "MOE 870",
-        "avg24hPrice": 32840,
+        "avg24hPrice": 32688,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -9773,7 +9773,7 @@
         "id": "5a78813bc5856700186c4abe",
         "name": "M870 Magpul SGA polymer stock",
         "shortName": "M870 SGA",
-        "avg24hPrice": 22458,
+        "avg24hPrice": 22303,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9839,7 +9839,7 @@
         "id": "5a7893c1c585673f2b5c374d",
         "name": "M870 Leapers UTG PRO MTU-028SG rail",
         "shortName": "MTU-028SG",
-        "avg24hPrice": 5400,
+        "avg24hPrice": 5000,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9894,7 +9894,7 @@
         "id": "5a7ad4af51dfba0013379717",
         "name": "Glock Aimtech mount base",
         "shortName": "G AT base",
-        "avg24hPrice": 9999,
+        "avg24hPrice": 7249,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9905,7 +9905,7 @@
         "id": "5a7ad55551dfba0015068f42",
         "name": "Glock Aimtech Tiger Shark sight mount",
         "shortName": "G TShark",
-        "avg24hPrice": 35185,
+        "avg24hPrice": 35111,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -9938,7 +9938,7 @@
         "id": "5a7afa25e899ef00135e31b0",
         "name": "Glock Polymer80 PS9 pistol slide",
         "shortName": "G PS9",
-        "avg24hPrice": 11700,
+        "avg24hPrice": 11511,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -10279,7 +10279,7 @@
         "id": "5a957c3fa2750c00137fa5f7",
         "name": "AKS-74U CAA XRSU47SU tactical handguard",
         "shortName": "XRSU47SU",
-        "avg24hPrice": 22240,
+        "avg24hPrice": 22236,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -10323,7 +10323,7 @@
         "id": "5a9d56c8a2750c0032157146",
         "name": "AK Strike Industries TRAX 1 handguard",
         "shortName": "TRAX 1",
-        "avg24hPrice": 13438,
+        "avg24hPrice": 17551,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -10334,7 +10334,7 @@
         "id": "5a9d6d00a2750c5c985b5305",
         "name": "Strike Industries KeyMod 4 inch rail",
         "shortName": "SI 4\"",
-        "avg24hPrice": 13915,
+        "avg24hPrice": 13951,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10345,7 +10345,7 @@
         "id": "5a9d6d13a2750c00164f6b03",
         "name": "Strike Industries KeyMod 6 inch rail",
         "shortName": "SI 6\"",
-        "avg24hPrice": 5244,
+        "avg24hPrice": 4740,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10400,7 +10400,7 @@
         "id": "5a9eb32da2750c00171b3f9c",
         "name": "AR-15 FAB Defense GL-SHOCK buttstock",
         "shortName": "GL-SHOCK",
-        "avg24hPrice": 22175,
+        "avg24hPrice": 21422,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10455,7 +10455,7 @@
         "id": "5a9fc7e6a2750c0032157184",
         "name": "VSS/VAL Zenit B-3 mount combo",
         "shortName": "B-3",
-        "avg24hPrice": 25973,
+        "avg24hPrice": 25766,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10587,7 +10587,7 @@
         "id": "5aa66a9be5b5b0214e506e89",
         "name": "Nightforce Magmount 34mm ring scope mount",
         "shortName": "NF 34mm",
-        "avg24hPrice": 23375,
+        "avg24hPrice": 22853,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10609,7 +10609,7 @@
         "id": "5aa66c72e5b5b00016327c93",
         "name": "Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform",
         "shortName": "NF 34mm RAP",
-        "avg24hPrice": 18693,
+        "avg24hPrice": 18954,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10708,7 +10708,7 @@
         "id": "5aaa4194e5b5b055d06310a5",
         "name": "AK-74 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine",
         "shortName": "GEN M3",
-        "avg24hPrice": 9941,
+        "avg24hPrice": 10103,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -10840,7 +10840,7 @@
         "id": "5ab372a310e891001717f0d8",
         "name": "M14 TROY S.A.S.S. Chassis stock",
         "shortName": "S.A.S.S.",
-        "avg24hPrice": 31755,
+        "avg24hPrice": 32257,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11379,7 +11379,7 @@
         "id": "5ac78eaf5acfc4001926317a",
         "name": "AK-74M/AK-100 Zenit PT Lock",
         "shortName": "PT 74M/100",
-        "avg24hPrice": 9885,
+        "avg24hPrice": 9756,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11599,7 +11599,7 @@
         "id": "5addbac75acfc400194dbc56",
         "name": "M1A 7.62x51 22 inch barrel",
         "shortName": "M1A 22\"",
-        "avg24hPrice": 34276,
+        "avg24hPrice": 33305,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -11676,7 +11676,7 @@
         "id": "5addbfbb5acfc400194dbcf7",
         "name": "M14 UltiMAK M8 Forward Optic mount",
         "shortName": "M8",
-        "avg24hPrice": 97956,
+        "avg24hPrice": 98184,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11687,7 +11687,7 @@
         "id": "5addbfd15acfc40015621bde",
         "name": "M14 Amega Mini Scout Mount system",
         "shortName": "M14 MSM",
-        "avg24hPrice": 16333,
+        "avg24hPrice": 15972,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11709,7 +11709,7 @@
         "id": "5addbfef5acfc400185c2857",
         "name": "M14 Leapers UTG 4-Point Locking Deluxe mount",
         "shortName": "UTG 4p",
-        "avg24hPrice": 14292,
+        "avg24hPrice": 14253,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11720,7 +11720,7 @@
         "id": "5addbffe5acfc4001714dfac",
         "name": "M14 SAGE International DCSB mount",
         "shortName": "M14 DCSB",
-        "avg24hPrice": 15403,
+        "avg24hPrice": 15102,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11731,7 +11731,7 @@
         "id": "5addc00b5acfc4001669f144",
         "name": "M14 Vltor CASV-14 rail system",
         "shortName": "M14 CASV-14",
-        "avg24hPrice": 26666,
+        "avg24hPrice": 28289,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11742,7 +11742,7 @@
         "id": "5addc7005acfc4001669f275",
         "name": "M14 SAGE International M14ALCS chassis",
         "shortName": "M14ALCS",
-        "avg24hPrice": 33028,
+        "avg24hPrice": 31937,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11786,7 +11786,7 @@
         "id": "5addccf45acfc400185c2989",
         "name": "M14 7.62x51 X Products X-14 50-round drum magazine",
         "shortName": "X-14 7.62",
-        "avg24hPrice": 14616,
+        "avg24hPrice": 14677,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -11863,7 +11863,7 @@
         "id": "5ae09bff5acfc4001562219d",
         "name": "Mosin Rifle 7.62x54R 730mm regular barrel",
         "shortName": "Mosin 730mm",
-        "avg24hPrice": 29999,
+        "avg24hPrice": 29857,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -11885,7 +11885,7 @@
         "id": "5ae30c9a5acfc408fb139a03",
         "name": "AR-15 LMT SOPMOD stock",
         "shortName": "SOPMOD",
-        "avg24hPrice": 9885,
+        "avg24hPrice": 9726,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12050,7 +12050,7 @@
         "id": "5afd7ded5acfc40017541f5e",
         "name": "SKS TAPCO Intrafuse chassis",
         "shortName": "TAPCO Intrafuse",
-        "avg24hPrice": 52222,
+        "avg24hPrice": 44499,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12061,7 +12061,7 @@
         "id": "5afd7e095acfc40017541f61",
         "name": "SKS TAPCO Intrafuse buffer tube",
         "shortName": "SKS TAPCO",
-        "avg24hPrice": 9600,
+        "avg24hPrice": 9500,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12072,7 +12072,7 @@
         "id": "5afd7e445acfc4001637e35a",
         "name": "SKS TAPCO Intrafuse SAW-Style pistol grip",
         "shortName": "SAW SKS",
-        "avg24hPrice": 31973,
+        "avg24hPrice": 29552,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -12127,7 +12127,7 @@
         "id": "5b0800175acfc400153aebd4",
         "name": "AR-15 ERGO F93 PRO stock",
         "shortName": "F93 PRO",
-        "avg24hPrice": 15666,
+        "avg24hPrice": 15339,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12237,7 +12237,7 @@
         "id": "5b0e794b5acfc47a877359b2",
         "name": "AKM/AK-74 Magpul Zhukov-S stock",
         "shortName": "Zhukov-S",
-        "avg24hPrice": 28355,
+        "avg24hPrice": 27913,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12314,7 +12314,7 @@
         "id": "5b222d405acfc400153af4fe",
         "name": "AK Zenit PT-1 \"Klassika\" stock",
         "shortName": "PT-1",
-        "avg24hPrice": 16872,
+        "avg24hPrice": 16605,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12358,7 +12358,7 @@
         "id": "5b2389515acfc4771e1be0c0",
         "name": "Burris AR-P.E.P.R. 30mm ring scope mount",
         "shortName": "AR-PEPR 30mm",
-        "avg24hPrice": 23667,
+        "avg24hPrice": 22564,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12369,7 +12369,7 @@
         "id": "5b2cfa535acfc432ff4db7a0",
         "name": "AR-15 Alexander Arms MK10 rifle length handguard",
         "shortName": "MK10 RL",
-        "avg24hPrice": 32045,
+        "avg24hPrice": 32295,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -12380,7 +12380,7 @@
         "id": "5b30ac585acfc433000eb79c",
         "name": "AK Magpul MOE pistol grip (Black)",
         "shortName": "MOE AK",
-        "avg24hPrice": 12533,
+        "avg24hPrice": 12276,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -12402,7 +12402,7 @@
         "id": "5b30bc165acfc40016387293",
         "name": "Alexander Arms 3 inch rail",
         "shortName": "MK10 3\"",
-        "avg24hPrice": 12000,
+        "avg24hPrice": 11999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12413,7 +12413,7 @@
         "id": "5b30bc285acfc47a8608615d",
         "name": "Alexander Arms 10 inch rail",
         "shortName": "MK10 10\"",
-        "avg24hPrice": 19325,
+        "avg24hPrice": 19259,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12424,7 +12424,7 @@
         "id": "5b31163c5acfc400153b71cb",
         "name": "SIG Sauer ROMEO sight mount",
         "shortName": "ROMEO",
-        "avg24hPrice": 18723,
+        "avg24hPrice": 18386,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12567,7 +12567,7 @@
         "id": "5b3b99265acfc4704b4a1afb",
         "name": "Nightforce Magmount 30mm ring scope mount",
         "shortName": "NF 30mm",
-        "avg24hPrice": 15133,
+        "avg24hPrice": 15547,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -12688,7 +12688,7 @@
         "id": "5b3f7c005acfc4704b4a1de8",
         "name": "PU 3.5x ring scope mount",
         "shortName": "PU rings",
-        "avg24hPrice": 6720,
+        "avg24hPrice": 6548,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13084,7 +13084,7 @@
         "id": "5b4736b986f77405cb415c10",
         "name": "TROY QARS 4.2 inch rail",
         "shortName": "QARS 4.2\"",
-        "avg24hPrice": 19818,
+        "avg24hPrice": 19831,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13172,7 +13172,7 @@
         "id": "5b7be46e5acfc400170e2dcf",
         "name": "Vltor CASV 5 inch rail",
         "shortName": "Vltor 5\"",
-        "avg24hPrice": 27028,
+        "avg24hPrice": 28109,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13183,7 +13183,7 @@
         "id": "5b7be47f5acfc400170e2dd2",
         "name": "Magpul M-LOK 2.5 inch rail",
         "shortName": "M-LOK 2.5\"",
-        "avg24hPrice": 12976,
+        "avg24hPrice": 12820,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13194,7 +13194,7 @@
         "id": "5b7be4895acfc400170e2dd5",
         "name": "Magpul M-LOK 4.1 inch rail",
         "shortName": "M-LOK 4.1\"",
-        "avg24hPrice": 8324,
+        "avg24hPrice": 8547,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13227,7 +13227,7 @@
         "id": "5b7bedd75acfc43d825283f9",
         "name": "SA58/FAL Vltor CASV-FAL handguard",
         "shortName": "CASV-FAL",
-        "avg24hPrice": 34436,
+        "avg24hPrice": 42537,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13238,7 +13238,7 @@
         "id": "5b7bee755acfc400196d5383",
         "name": "SA58/FAL Vltor CASV-FAS handguard",
         "shortName": "CASV-FAS",
-        "avg24hPrice": 58195,
+        "avg24hPrice": 58234,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13315,7 +13315,7 @@
         "id": "5b7d63b75acfc400170e2f8a",
         "name": "SA58/FAL Magpul PRS 2 polymer stock",
         "shortName": "SA58/FAL PRS2",
-        "avg24hPrice": 19333,
+        "avg24hPrice": 21111,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13326,7 +13326,7 @@
         "id": "5b7d63cf5acfc4001876c8df",
         "name": "SA58 folding stock",
         "shortName": "SA58 folding",
-        "avg24hPrice": 12000,
+        "avg24hPrice": 10000,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13348,7 +13348,7 @@
         "id": "5b7d64555acfc4001876c8e2",
         "name": "SA58 BRS stock",
         "shortName": "SA58 BRS",
-        "avg24hPrice": 19305,
+        "avg24hPrice": 19139,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13436,7 +13436,7 @@
         "id": "5b800e9286f7747a8b04f3ff",
         "name": "AK Hexagon tubular handguard",
         "shortName": "Hexagon AK",
-        "avg24hPrice": 19565,
+        "avg24hPrice": 19443,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13447,7 +13447,7 @@
         "id": "5b800ebc86f774394e230a90",
         "name": "Hexagon medium length rail",
         "shortName": "Hex med",
-        "avg24hPrice": 19983,
+        "avg24hPrice": 19972,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13469,7 +13469,7 @@
         "id": "5b80242286f77429445e0b47",
         "name": "AK Hexagon tubular handguard (Anodized Red)",
         "shortName": "Hexagon AK",
-        "avg24hPrice": 38259,
+        "avg24hPrice": 38449,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13524,7 +13524,7 @@
         "id": "5b8403a086f7747ff856f4e2",
         "name": "Hexagon medium length rail (Anodized Red)",
         "shortName": "Hex med",
-        "avg24hPrice": 64102,
+        "avg24hPrice": 61236,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13799,7 +13799,7 @@
         "id": "5bb20d92d4351e00853263eb",
         "name": "HK 416 5.56x45 11 inch barrel",
         "shortName": "416 11\"",
-        "avg24hPrice": 40625,
+        "avg24hPrice": 40530,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13810,7 +13810,7 @@
         "id": "5bb20d9cd4351e00334c9d8a",
         "name": "HK 416 5.56x45 14.5 inch barrel with flip-up front sight",
         "shortName": "416 14.5\"",
-        "avg24hPrice": 16813,
+        "avg24hPrice": 17036,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13821,7 +13821,7 @@
         "id": "5bb20da5d4351e0035629dbf",
         "name": "HK 416 5.56x45 16.5 inch barrel with flip-up front sight",
         "shortName": "416 16.5\"",
-        "avg24hPrice": 36400,
+        "avg24hPrice": 37099,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13832,7 +13832,7 @@
         "id": "5bb20dadd4351e00367faeff",
         "name": "HK 416 5.56x45 20 inch barrel with flip-up front sight",
         "shortName": "416 20\"",
-        "avg24hPrice": 117280,
+        "avg24hPrice": 122560,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13876,7 +13876,7 @@
         "id": "5bb20df1d4351e00347787d5",
         "name": "HK 416 Quad Rail handguard with flip-up front sight",
         "shortName": "416 4Rail FS",
-        "avg24hPrice": 18764,
+        "avg24hPrice": 18021,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13887,7 +13887,7 @@
         "id": "5bb20dfcd4351e00334c9e24",
         "name": "HK 416 Quad Rail Extended handguard",
         "shortName": "416 4Rail ext.",
-        "avg24hPrice": 19387,
+        "avg24hPrice": 19213,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13909,7 +13909,7 @@
         "id": "5bb20e18d4351e00320205d5",
         "name": "AR-15 HK Battle Grip pistol grip",
         "shortName": "Battle Grip",
-        "avg24hPrice": 28221,
+        "avg24hPrice": 27650,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -13931,7 +13931,7 @@
         "id": "5bb20e58d4351e00320205d7",
         "name": "HK 416 Enhanced Buffer Tube",
         "shortName": "Enhanced Tube",
-        "avg24hPrice": 17085,
+        "avg24hPrice": 15740,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13942,7 +13942,7 @@
         "id": "5bb20e70d4351e0035629f8f",
         "name": "AR-15 HK Slim Line buttstock",
         "shortName": "Slim Line",
-        "avg24hPrice": 17000,
+        "avg24hPrice": 18080,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13964,7 +13964,7 @@
         "id": "5bbdb811d4351e45020113c7",
         "name": "Mosin Rifle AIM Sports Tri-Rail mount",
         "shortName": "Mosin 3Rail",
-        "avg24hPrice": 16091,
+        "avg24hPrice": 16250,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -13986,7 +13986,7 @@
         "id": "5bbdb870d4351e00367fb67d",
         "name": "Mosin Rifle ATI Monte Carlo stock",
         "shortName": "Mosin MC",
-        "avg24hPrice": 41648,
+        "avg24hPrice": 40545,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -14008,7 +14008,7 @@
         "id": "5bbde409d4351e003562b036",
         "name": "Mosin Rifle AIM Sports Recoil Pad",
         "shortName": "Mosin RPad",
-        "avg24hPrice": 11082,
+        "avg24hPrice": 11016,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -14019,7 +14019,7 @@
         "id": "5bbde41ed4351e003562b038",
         "name": "Mosin Rifle Tacfire pistol grip",
         "shortName": "Mosin",
-        "avg24hPrice": 9832,
+        "avg24hPrice": 9856,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -14437,7 +14437,7 @@
         "id": "5beec8b20db834001961942a",
         "name": "RPK-16 buffer tube",
         "shortName": "RPK-16 tube",
-        "avg24hPrice": 27834,
+        "avg24hPrice": 27752,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -14646,7 +14646,7 @@
         "id": "5bfd4cd60db834001c38f095",
         "name": "Mosin Rifle 7.62x54R sawed-off 220mm threaded barrel",
         "shortName": "Mosin 220mm",
-        "avg24hPrice": 12648,
+        "avg24hPrice": 12546,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -14745,7 +14745,7 @@
         "id": "5bfeb32b0db834001a6694d9",
         "name": "M700 Hogue Overmolded Ghillie stock",
         "shortName": "Overmolded Ghillie",
-        "avg24hPrice": 44370,
+        "avg24hPrice": 44360,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -14789,7 +14789,7 @@
         "id": "5bfebc5e0db834001a6694e5",
         "name": "M700 30mm integral ring scope mount",
         "shortName": "M700 30mm",
-        "avg24hPrice": 15348,
+        "avg24hPrice": 15620,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -15174,7 +15174,7 @@
         "id": "5c064c400db834001d23f468",
         "name": "LaRue LT101 QD Tactical Picatinny Riser mount",
         "shortName": "QD LT101",
-        "avg24hPrice": 23902,
+        "avg24hPrice": 24778,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -15746,7 +15746,7 @@
         "id": "5c0e2f94d174af029f650d56",
         "name": "AR-15 5.56x45 Molot Arms 16 inch barrel",
         "shortName": "ADAR 16\"",
-        "avg24hPrice": 20175,
+        "avg24hPrice": 20194,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -16307,7 +16307,7 @@
         "id": "5c17664f2e2216398b5a7e3c",
         "name": "AK Vltor CMRD KeyMod handguard",
         "shortName": "CMRD",
-        "avg24hPrice": 37887,
+        "avg24hPrice": 39674,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -16725,7 +16725,7 @@
         "id": "5c471c6c2e221602b66cd9ae",
         "name": "SVDS polymer handguard",
         "shortName": "SVDS",
-        "avg24hPrice": 21498,
+        "avg24hPrice": 20800,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17000,7 +17000,7 @@
         "id": "5c5db5c62e22160012542255",
         "name": "MPX 9x19 14 inch barrel",
         "shortName": "MPX 14\"",
-        "avg24hPrice": 36140,
+        "avg24hPrice": 36034,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17033,7 +17033,7 @@
         "id": "5c5db6302e2216000e5e47f0",
         "name": "MPX Midwest Industries 10.5 inch M-LOK handguard",
         "shortName": "MPX Midwest 10.5\"",
-        "avg24hPrice": 18497,
+        "avg24hPrice": 18343,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17099,7 +17099,7 @@
         "id": "5c5db6ee2e221600113fba54",
         "name": "MPX/MCX Maxim Defense CQB stock",
         "shortName": "MD CQB",
-        "avg24hPrice": 35636,
+        "avg24hPrice": 34744,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -17176,7 +17176,7 @@
         "id": "5c617a5f2e2216000f1e81b3",
         "name": "AK Zenit B-10 Handguard",
         "shortName": "B-10",
-        "avg24hPrice": 36383,
+        "avg24hPrice": 36379,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17220,7 +17220,7 @@
         "id": "5c6bf4aa2e2216001219b0ae",
         "name": "AK US Palm pistol grip",
         "shortName": "US Palm",
-        "avg24hPrice": 25000,
+        "avg24hPrice": 32499,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17231,7 +17231,7 @@
         "id": "5c6c2c9c2e2216000f2002e4",
         "name": "HK 416 TROY M-LOK 13 inch handguard",
         "shortName": "416 TROY 13\"",
-        "avg24hPrice": 27958,
+        "avg24hPrice": 27959,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17242,7 +17242,7 @@
         "id": "5c6d10e82e221601da357b07",
         "name": "HK 416 MRS KeyMod 14 inch handguard",
         "shortName": "416 MRS 14\"",
-        "avg24hPrice": 22655,
+        "avg24hPrice": 22158,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17264,7 +17264,7 @@
         "id": "5c6d11072e2216000e69d2e4",
         "name": "HK 416 Midwest Industries 13.5 inch M-LOK handguard",
         "shortName": "416 Midwest 13.5\"",
-        "avg24hPrice": 43169,
+        "avg24hPrice": 40661,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17275,7 +17275,7 @@
         "id": "5c6d11152e2216000f2003e7",
         "name": "HK 416 Strike Industries CRUX 15 inch M-LOK handguard",
         "shortName": "416 CRUX 15\"",
-        "avg24hPrice": 37833,
+        "avg24hPrice": 37179,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17319,7 +17319,7 @@
         "id": "5c6d5d8b2e221644fc630b39",
         "name": "AR-15 STNGR VYPR 10 inch M-LOK handguard",
         "shortName": "VYPR 10\"",
-        "avg24hPrice": 13250,
+        "avg24hPrice": 14000,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17352,7 +17352,7 @@
         "id": "5c6d85e02e22165df16b81f4",
         "name": "HK 416 5.56x45 10.6 inch barrel",
         "shortName": "416 10.6\"",
-        "avg24hPrice": 30388,
+        "avg24hPrice": 31249,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17363,7 +17363,7 @@
         "id": "5c78f2492e221600114c9f04",
         "name": "AR-15 SAI 14.5 inch QD Rail handguard",
         "shortName": "SAI QD 14.5\"",
-        "avg24hPrice": 94601,
+        "avg24hPrice": 94667,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17374,7 +17374,7 @@
         "id": "5c78f2612e221600114c9f0d",
         "name": "AR-15 SAI 10 inch QD Rail handguard",
         "shortName": "SAI QD 10\"",
-        "avg24hPrice": 65140,
+        "avg24hPrice": 65199,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17385,7 +17385,7 @@
         "id": "5c78f26f2e221601da3581d1",
         "name": "AR-15 Magpul MOE SL medium length M-LOK handguard",
         "shortName": "MOE SL",
-        "avg24hPrice": 20360,
+        "avg24hPrice": 20321,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17396,7 +17396,7 @@
         "id": "5c78f2792e221600106f4683",
         "name": "AR-15 Magpul MOE SL carbine length M-LOK handguard",
         "shortName": "MOE SL",
-        "avg24hPrice": 17509,
+        "avg24hPrice": 15045,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17429,7 +17429,7 @@
         "id": "5c793fb92e221644f31bfb64",
         "name": "AR-15 Strike Industries Advanced Receiver Extension",
         "shortName": "ARE",
-        "avg24hPrice": 17190,
+        "avg24hPrice": 17369,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -17440,7 +17440,7 @@
         "id": "5c793fc42e221600114ca25d",
         "name": "AR-15 Strike Industries Advanced Receiver Extension (Anodized Red)",
         "shortName": "ARE",
-        "avg24hPrice": 55728,
+        "avg24hPrice": 55604,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -17451,7 +17451,7 @@
         "id": "5c793fde2e221601da358614",
         "name": "AR-15 Strike Industries Viper Mod 1 stock",
         "shortName": "Viper Mod1",
-        "avg24hPrice": 32437,
+        "avg24hPrice": 33130,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -17627,7 +17627,7 @@
         "id": "5c87a07c2e2216001219d4a2",
         "name": "AR-15 HK E1 buttstock",
         "shortName": "HK E1",
-        "avg24hPrice": 29999,
+        "avg24hPrice": 29998,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -17781,7 +17781,7 @@
         "id": "5c9a25172e2216000f20314e",
         "name": "AR-15 Daniel Defense RIS II 12.25 handguard (Coyote Brown)",
         "shortName": "RIS II 12.25",
-        "avg24hPrice": 19999,
+        "avg24hPrice": 19932,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -17792,7 +17792,7 @@
         "id": "5c9a26332e2216001219ea70",
         "name": "AR-15 Daniel Defense RIS II FSP 9.5 handguard (Coyote Brown)",
         "shortName": "RIS II FSP 9.5 CB",
-        "avg24hPrice": 38598,
+        "avg24hPrice": 37781,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18188,7 +18188,7 @@
         "id": "5cc700d4e4a949000f0f0f28",
         "name": "FN P90 Damage Industries buttpad",
         "shortName": "P90 DI",
-        "avg24hPrice": 17026,
+        "avg24hPrice": 16884,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18221,7 +18221,7 @@
         "id": "5cc7012ae4a949001252b43e",
         "name": "FN P90 EFFEN 90 receiver rail",
         "shortName": "EFFEN 90",
-        "avg24hPrice": 11347,
+        "avg24hPrice": 11400,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18474,7 +18474,7 @@
         "id": "5cde739cd7f00c0010373bd3",
         "name": "M700 AB Arms MOD*X GEN 3 chassis",
         "shortName": "MOD*X Gen.3",
-        "avg24hPrice": 56939,
+        "avg24hPrice": 55349,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18496,7 +18496,7 @@
         "id": "5cde7afdd7f00c000d36b89d",
         "name": "M700 AB Arms MOD*X GEN 3 KeyMod handguard",
         "shortName": "MOD*X",
-        "avg24hPrice": 45555,
+        "avg24hPrice": 45554,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18518,7 +18518,7 @@
         "id": "5cdeac22d7f00c000f26168f",
         "name": "M700 Magpul Pro 700 chassis",
         "shortName": "Pro700",
-        "avg24hPrice": 33984,
+        "avg24hPrice": 31960,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18529,7 +18529,7 @@
         "id": "5cdeac42d7f00c000d36ba73",
         "name": "M700 Magpul Pro 700 folding stock",
         "shortName": "Pro700",
-        "avg24hPrice": 15579,
+        "avg24hPrice": 15174,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18540,7 +18540,7 @@
         "id": "5cdeac5cd7f00c000f261694",
         "name": "M700 Magpul Pro 700 pistol grip",
         "shortName": "Pro700",
-        "avg24hPrice": 4063,
+        "avg24hPrice": 6000,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18628,7 +18628,7 @@
         "id": "5cf4e3f3d7f00c06595bc7f0",
         "name": "AK 5.45 Design Aggressor handguard",
         "shortName": "Aggressor",
-        "avg24hPrice": 18975,
+        "avg24hPrice": 19316,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18683,7 +18683,7 @@
         "id": "5cf518cfd7f00c065b422214",
         "name": "AKM/AK-74 CAA AKTS buffer tube",
         "shortName": "AKTS AKM",
-        "avg24hPrice": 22468,
+        "avg24hPrice": 22770,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18694,7 +18694,7 @@
         "id": "5cf54404d7f00c108840b2ef",
         "name": "AK KGB MG-47 pistol grip",
         "shortName": "MG-47 AK",
-        "avg24hPrice": 18142,
+        "avg24hPrice": 18237,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18837,7 +18837,7 @@
         "id": "5cf8f3b0d7f00c00217872ef",
         "name": "SOK-12 12ga MaxRounds Powermag 20-round drum magazine",
         "shortName": "Powermag",
-        "avg24hPrice": 40372,
+        "avg24hPrice": 41480,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18903,7 +18903,7 @@
         "id": "5d00ede1d7ad1a0940739a76",
         "name": "AR-10 Noveske SWS N6 10.5 inch handguard",
         "shortName": "SWS N6 10.5\"",
-        "avg24hPrice": 37290,
+        "avg24hPrice": 36716,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18914,7 +18914,7 @@
         "id": "5d00ef6dd7ad1a0940739b16",
         "name": "AR-10 Noveske SWS N6 Split handguard",
         "shortName": "SWS N6 Split",
-        "avg24hPrice": 42208,
+        "avg24hPrice": 42519,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18947,7 +18947,7 @@
         "id": "5d0236dad7ad1a0940739d29",
         "name": "SKS FAB Defense UAS chassis",
         "shortName": "UAS SKS",
-        "avg24hPrice": 39132,
+        "avg24hPrice": 38957,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -18958,7 +18958,7 @@
         "id": "5d023784d7ad1a049d4aa7f2",
         "name": "SKS/VZ-58 FAB Defense AG-58 pistol grip",
         "shortName": "SKS AG-58",
-        "avg24hPrice": 10894,
+        "avg24hPrice": 10525,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -18980,7 +18980,7 @@
         "id": "5d025cc1d7ad1a53845279ef",
         "name": "AR-15 HK Ergo PSG-1 style pistol grip",
         "shortName": "Ergo",
-        "avg24hPrice": 40705,
+        "avg24hPrice": 39921,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -19211,7 +19211,7 @@
         "id": "5d120a10d7ad1a4e1026ba85",
         "name": "AR-15 DoubleStar ACE SOCOM Gen.4 stock",
         "shortName": "ACE SOCOM",
-        "avg24hPrice": 22513,
+        "avg24hPrice": 22681,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -19222,7 +19222,7 @@
         "id": "5d120a28d7ad1a1c8962e295",
         "name": "DoubleStar ACE recoil pad",
         "shortName": "ACE pad",
-        "avg24hPrice": 30236,
+        "avg24hPrice": 30570,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -19365,7 +19365,7 @@
         "id": "5d135e83d7ad1a21b83f42d8",
         "name": "AR-15 Magpul CTR Carbine stock (Black)",
         "shortName": "CTR",
-        "avg24hPrice": 30571,
+        "avg24hPrice": 29898,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -19376,7 +19376,7 @@
         "id": "5d135ecbd7ad1a21c176542e",
         "name": "AR-15 Magpul CTR Carbine stock (FDE)",
         "shortName": "CTR FDE",
-        "avg24hPrice": 23711,
+        "avg24hPrice": 22947,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -19398,7 +19398,7 @@
         "id": "5d15cf3bd7ad1a67e71518b2",
         "name": "AR-15 Magpul MOE pistol grip (FDE)",
         "shortName": "MOE AR15",
-        "avg24hPrice": 25755,
+        "avg24hPrice": 26320,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -19409,7 +19409,7 @@
         "id": "5d19cd96d7ad1a4a992c9f52",
         "name": "HK MP5 PTR Tri-Rail handguard",
         "shortName": "MP5 Tri-Rail",
-        "avg24hPrice": 25555,
+        "avg24hPrice": 25025,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -19420,7 +19420,7 @@
         "id": "5d1b198cd7ad1a604869ad72",
         "name": "AK TDI AKM-L handguard",
         "shortName": "AKM-L",
-        "avg24hPrice": 19287,
+        "avg24hPrice": 18945,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -19651,7 +19651,7 @@
         "id": "5d1c702ad7ad1a632267f429",
         "name": "Glock FAB Defense GLR-17 stock",
         "shortName": "GLR-17",
-        "avg24hPrice": 30057,
+        "avg24hPrice": 29529,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -20289,7 +20289,7 @@
         "id": "5d4405f0a4b9361e6a4e6bd9",
         "name": "AR-15 Lone Star Ion Lite handguard",
         "shortName": "Ion Lite",
-        "avg24hPrice": 47440,
+        "avg24hPrice": 45400,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -20322,7 +20322,7 @@
         "id": "5d44069ca4b9361ebd26fc37",
         "name": "AR-15 Magpul PRS GEN3 stock (Black)",
         "shortName": "PRS GEN3",
-        "avg24hPrice": 35850,
+        "avg24hPrice": 36244,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -20333,7 +20333,7 @@
         "id": "5d4406a8a4b9361e4f6eb8b7",
         "name": "AR-15 Magpul PRS GEN3 stock (Grey)",
         "shortName": "PRS GEN3",
-        "avg24hPrice": 37272,
+        "avg24hPrice": 36176,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -20344,7 +20344,7 @@
         "id": "5d440b93a4b9364276578d4b",
         "name": "AR-15 5.56x45 18 inch barrel",
         "shortName": "AR-15 18\"",
-        "avg24hPrice": 44316,
+        "avg24hPrice": 45199,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -20355,7 +20355,7 @@
         "id": "5d440b9fa4b93601354d480c",
         "name": "AR-15 5.56x45 20 inch barrel",
         "shortName": "AR-15 20\"",
-        "avg24hPrice": 73555,
+        "avg24hPrice": 82539,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -20388,7 +20388,7 @@
         "id": "5d4aaa54a4b9365392071170",
         "name": "AK TDI AKM-L handguard (Anodized Red)",
         "shortName": "AKM-L",
-        "avg24hPrice": 19971,
+        "avg24hPrice": 19938,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -20399,7 +20399,7 @@
         "id": "5d4aaa73a4b9365392071175",
         "name": "AK TDI AKM-L handguard (Anodized Bronze)",
         "shortName": "AKM-L",
-        "avg24hPrice": 28764,
+        "avg24hPrice": 27870,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -20861,7 +20861,7 @@
         "id": "5d7b6bafa4b93652786f4c76",
         "name": "FN Five-seveN MK2 RMR mount",
         "shortName": "5-7 RMR",
-        "avg24hPrice": 28951,
+        "avg24hPrice": 28716,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -21246,7 +21246,7 @@
         "id": "5dcbd6b46ec07c0c4347a564",
         "name": "MDR handguard (Black)",
         "shortName": "MDR",
-        "avg24hPrice": 21631,
+        "avg24hPrice": 21265,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -21257,7 +21257,7 @@
         "id": "5dcbd6dddbd3d91b3e5468de",
         "name": "MDR pistol grip (Black)",
         "shortName": "MDR",
-        "avg24hPrice": 17935,
+        "avg24hPrice": 17932,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -21268,7 +21268,7 @@
         "id": "5dcbe9431e1f4616d354987e",
         "name": "MDR 7.62x51 16 inch barrel",
         "shortName": "MDR 762 16\"",
-        "avg24hPrice": 41752,
+        "avg24hPrice": 39385,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -21642,7 +21642,7 @@
         "id": "5df35e970b92095fd441e4d2",
         "name": "ORSIS T-5000M scope mount",
         "shortName": "T-5000M",
-        "avg24hPrice": 80805,
+        "avg24hPrice": 78490,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -21840,7 +21840,7 @@
         "id": "5df916dfbb49d91fb446d6b9",
         "name": "AR-10 KAC URX 4 14.5 inch handguard",
         "shortName": "URX4 14.5\"",
-        "avg24hPrice": 92500,
+        "avg24hPrice": 35000,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -21862,7 +21862,7 @@
         "id": "5dfa397fb11454561e39246c",
         "name": "SR-25 7.62x51 20 inch barrel",
         "shortName": "SR-25 20\"",
-        "avg24hPrice": 42066,
+        "avg24hPrice": 42308,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -21983,7 +21983,7 @@
         "id": "5dff77c759400025ea5150cf",
         "name": "Leapers UTG 25mm ring scope mount",
         "shortName": "UTG 25mm",
-        "avg24hPrice": 13174,
+        "avg24hPrice": 13208,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -21994,7 +21994,7 @@
         "id": "5dff8db859400025ea5150d4",
         "name": "SVD SAG low profile sidemount",
         "shortName": "SVD Low",
-        "avg24hPrice": 18473,
+        "avg24hPrice": 18537,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -22258,7 +22258,7 @@
         "id": "5e217ba4c1434648c13568cd",
         "name": "AKM/AK-74 Hexagon \"Kocherga\" stock (Anodized Red)",
         "shortName": "Kocherga",
-        "avg24hPrice": 48908,
+        "avg24hPrice": 44021,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -22269,7 +22269,7 @@
         "id": "5e2192a498a36665e8337386",
         "name": "AK KGB MG-47 pistol grip (Anodized Red)",
         "shortName": "MG-47 AK",
-        "avg24hPrice": 42132,
+        "avg24hPrice": 40992,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -22643,7 +22643,7 @@
         "id": "5e56991336989c75ab4f03f6",
         "name": "SVD modernization kit handguard",
         "shortName": "SVD mod.",
-        "avg24hPrice": 34721,
+        "avg24hPrice": 34297,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -22665,7 +22665,7 @@
         "id": "5e569a0156edd02abe09f27d",
         "name": "SVD modernization kit top rail",
         "shortName": "SVD mod.",
-        "avg24hPrice": 22588,
+        "avg24hPrice": 21071,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -22676,7 +22676,7 @@
         "id": "5e569a132642e66b0b68015c",
         "name": "SVD CAA DRG L-1 barrel mount rail",
         "shortName": "DRG L-1",
-        "avg24hPrice": 19562,
+        "avg24hPrice": 19541,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -23215,7 +23215,7 @@
         "id": "5ea16acdfadf1d18c87b0784",
         "name": "AR-15 Geissele SMR MK16 9.5 inch M-LOK handguard (DDC)",
         "shortName": "SMR MK16 9.5\"",
-        "avg24hPrice": 18806,
+        "avg24hPrice": 18736,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -23226,7 +23226,7 @@
         "id": "5ea16ada09aa976f2e7a51be",
         "name": "AR-15 Geissele SMR MK16 13.5 inch M-LOK handguard (DDC)",
         "shortName": "SMR MK16 13.5\"",
-        "avg24hPrice": 33008,
+        "avg24hPrice": 36581,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -23512,7 +23512,7 @@
         "id": "5eea217fc64c5d0dfc05712a",
         "name": "M590 Magpul SGA stock",
         "shortName": "SGA 590",
-        "avg24hPrice": 9666,
+        "avg24hPrice": 9583,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -23523,7 +23523,7 @@
         "id": "5eeb2ff5ea4f8b73c827350b",
         "name": "M590 Tactical rail",
         "shortName": "590 rail",
-        "avg24hPrice": 27262,
+        "avg24hPrice": 26439,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -23545,7 +23545,7 @@
         "id": "5ef1ba28c64c5d0dfc0571a5",
         "name": "Mesa Tactical Crosshair Hydraulic buffer tube",
         "shortName": "MT Crosshair",
-        "avg24hPrice": 76055,
+        "avg24hPrice": 70065,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -23622,7 +23622,7 @@
         "id": "5ef366938cef260c0642acad",
         "name": "M1911 Pachmayr American Legend Grip #423",
         "shortName": "#423",
-        "avg24hPrice": 6889,
+        "avg24hPrice": 6881,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -23666,7 +23666,7 @@
         "id": "5efaf417aeb21837e749c7f2",
         "name": "AK Zenit B-30 handguard with B-31S upper handguard rail",
         "shortName": "B-30+B-31S",
-        "avg24hPrice": 33925,
+        "avg24hPrice": 33789,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -23875,7 +23875,7 @@
         "id": "5f2aa493cd375f14e15eea72",
         "name": "RFB handguard rail mount",
         "shortName": "RFB",
-        "avg24hPrice": 2400,
+        "avg24hPrice": 10000,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -23974,7 +23974,7 @@
         "id": "5f3e7801153b8571434a924c",
         "name": "M1911A1 .45 ACP National Match 127mm barrel",
         "shortName": "1911 NM",
-        "avg24hPrice": 45999,
+        "avg24hPrice": 47499,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24205,7 +24205,7 @@
         "id": "5f6336bbda967c74a42e9932",
         "name": "AR-10 Lancer LCH7 12.5 inch M-LOK handguard",
         "shortName": "LCH7 12.5\"",
-        "avg24hPrice": 42897,
+        "avg24hPrice": 50396,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24293,7 +24293,7 @@
         "id": "5f6341043ada5942720e2dc5",
         "name": "AK Aeroknox Scorpius pistol grip",
         "shortName": "Scorpius",
-        "avg24hPrice": 24754,
+        "avg24hPrice": 25012,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24304,7 +24304,7 @@
         "id": "5f63418ef5750b524b45f116",
         "name": "SOK-12 Bravo-18 aluminium handguard",
         "shortName": "Bravo-18",
-        "avg24hPrice": 33999,
+        "avg24hPrice": 32916,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24480,7 +24480,7 @@
         "id": "5fb653962b1b027b1f50bd03",
         "name": "KRISS Vector .45 ACP 6 inch barrel",
         "shortName": "Vector .45 6\"",
-        "avg24hPrice": 47277,
+        "avg24hPrice": 45164,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24513,7 +24513,7 @@
         "id": "5fb6558ad6f0b2136f2d7eb7",
         "name": "KRISS Vector Gen.2 folding stock",
         "shortName": "Vector fold.",
-        "avg24hPrice": 31996,
+        "avg24hPrice": 31993,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -24579,7 +24579,7 @@
         "id": "5fbb978207e8a97d1f0902d3",
         "name": "KRISS Vector Mk.5 modular rail",
         "shortName": "Mk.5",
-        "avg24hPrice": 7730,
+        "avg24hPrice": 7734,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -24590,7 +24590,7 @@
         "id": "5fbbaa86f9986c4cff3fe5f6",
         "name": "AR-15 KRISS Defiance DS150 stock (Black)",
         "shortName": "DS150",
-        "avg24hPrice": 14848,
+        "avg24hPrice": 14777,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -24634,7 +24634,7 @@
         "id": "5fbbc383d5cb881a7363194a",
         "name": "KRISS Vector 9x19 6 inch barrel",
         "shortName": "Vector 9x19 6\"",
-        "avg24hPrice": 28449,
+        "avg24hPrice": 27510,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24645,7 +24645,7 @@
         "id": "5fbbfabed5cb881a7363194e",
         "name": "MCX .300 BLK 6.75 inch barrel",
         "shortName": "MCX 6.75\"",
-        "avg24hPrice": 23015,
+        "avg24hPrice": 22618,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24689,7 +24689,7 @@
         "id": "5fbc227aa56d053a3543f79e",
         "name": "MCX GEN1 KeyMod 12 inch handguard",
         "shortName": "MCX 12\"",
-        "avg24hPrice": 12828,
+        "avg24hPrice": 12783,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -24777,7 +24777,7 @@
         "id": "5fbcc429900b1d5091531dd7",
         "name": "SIG Sauer Telescoping/Folding Stock",
         "shortName": "SIG TFS",
-        "avg24hPrice": 13183,
+        "avg24hPrice": 13061,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -24953,7 +24953,7 @@
         "id": "5fc2369685fd526b824a5713",
         "name": "AR-15 B5 Systems Collapsible Precision Stock",
         "shortName": "B5 CPS",
-        "avg24hPrice": 26313,
+        "avg24hPrice": 27142,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -25184,7 +25184,7 @@
         "id": "5fce16961f152d4312622bc9",
         "name": "AR-15 KRISS Defiance DS150 stock (FDE)",
         "shortName": "DS150 FDE",
-        "avg24hPrice": 15595,
+        "avg24hPrice": 15699,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -25514,7 +25514,7 @@
         "id": "602e620f9b513876d4338d9a",
         "name": "AR-15 FAB Defense GL-CORE buttstock",
         "shortName": "GL-CORE",
-        "avg24hPrice": 11768,
+        "avg24hPrice": 11499,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -25723,7 +25723,7 @@
         "id": "6034e3d953a60014f970617b",
         "name": "AR-15 Soyuz-TM 15 inch M-LOK handguard",
         "shortName": "STM 15\"",
-        "avg24hPrice": 24518,
+        "avg24hPrice": 24138,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -25734,7 +25734,7 @@
         "id": "6034e3e20ddce744014cb878",
         "name": "AR-15 Soyuz-TM 12 inch M-LOK handguard",
         "shortName": "STM 12\"",
-        "avg24hPrice": 22221,
+        "avg24hPrice": 22222,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -25943,7 +25943,7 @@
         "id": "60658776f2cb2e02a42ace2b",
         "name": "Mk47 254mm barrel",
         "shortName": "Mk47 254mm",
-        "avg24hPrice": 18945,
+        "avg24hPrice": 18527,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -25987,7 +25987,7 @@
         "id": "606587d11246154cad35d635",
         "name": "AR-15 CMMG RipStock buttstock",
         "shortName": "RipStock",
-        "avg24hPrice": 16000,
+        "avg24hPrice": 15499,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -26009,7 +26009,7 @@
         "id": "6065880c132d4d12c81fd8da",
         "name": "AR-10 CMMG MK3 RML9 9 inch M-LOK handguard",
         "shortName": "MK3 RML9",
-        "avg24hPrice": 19402,
+        "avg24hPrice": 19039,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26020,7 +26020,7 @@
         "id": "6065881d1246154cad35d637",
         "name": "AR-10 CMMG MK3 RML15 15 inch M-LOK handguard",
         "shortName": "MK3 RML15",
-        "avg24hPrice": 14111,
+        "avg24hPrice": 15000,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26119,7 +26119,7 @@
         "id": "606f263a8900dc2d9a55b68d",
         "name": "MP-155 Ultima large recoil pad",
         "shortName": "Ultima large",
-        "avg24hPrice": 34836,
+        "avg24hPrice": 31439,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -26185,7 +26185,7 @@
         "id": "60785ce5132d4d12c81fd918",
         "name": "MP-155 Ultima top rail",
         "shortName": "Ultima top",
-        "avg24hPrice": 11927,
+        "avg24hPrice": 11797,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -26218,7 +26218,7 @@
         "id": "607ea812232e5a31c233d53c",
         "name": "MP-155 Ultima short rail",
         "shortName": "Ultima shrt.",
-        "avg24hPrice": 10665,
+        "avg24hPrice": 11110,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -26273,7 +26273,7 @@
         "id": "6086b5731246154cad35d6c7",
         "name": "SOK-12 Custom Guns Type-340 handguard",
         "shortName": "Type-340",
-        "avg24hPrice": 20938,
+        "avg24hPrice": 20895,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26284,7 +26284,7 @@
         "id": "6087e0336d0bd7580617bb7a",
         "name": "AR-15 Unique-ARs Wing & Skull 12 inch handguard",
         "shortName": "Wing&Skull",
-        "avg24hPrice": 37113,
+        "avg24hPrice": 36142,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26295,7 +26295,7 @@
         "id": "6087e2a5232e5a31c233d552",
         "name": "AKM/AK-74 ProMag Archangel OPFOR AA47 buttstock",
         "shortName": "OPFOR AA47",
-        "avg24hPrice": 26764,
+        "avg24hPrice": 27624,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -26306,7 +26306,7 @@
         "id": "6087e663132d4d12c81fd96b",
         "name": "AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip",
         "shortName": "AGS-74",
-        "avg24hPrice": 26920,
+        "avg24hPrice": 27194,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26658,7 +26658,7 @@
         "id": "6113c3586c780c1e710c90bc",
         "name": "AR-15 F1 Firearms Skeletonized Style 1 pistol grip",
         "shortName": "F1 St1",
-        "avg24hPrice": 22766,
+        "avg24hPrice": 22574,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -26669,7 +26669,7 @@
         "id": "6113cc78d3a39d50044c065a",
         "name": "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip",
         "shortName": "F1 St2 PC",
-        "avg24hPrice": 43246,
+        "avg24hPrice": 43149,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -27120,7 +27120,7 @@
         "id": "61702be9faa1272e431522c3",
         "name": "HK417 7.62x51 16.5 inch barrel",
         "shortName": "417 16.5\"",
-        "avg24hPrice": 26888,
+        "avg24hPrice": 26047,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -27230,7 +27230,7 @@
         "id": "61713cc4d8e3106d9806c109",
         "name": "Recknagel Era-Tac 34mm ring scope mount",
         "shortName": "RN 34mm ET",
-        "avg24hPrice": 14933,
+        "avg24hPrice": 15731,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27241,7 +27241,7 @@
         "id": "6171407e50224f204c1da3c5",
         "name": "Recknagel Era-Tac 30mm ring scope mount",
         "shortName": "RN 30mm ET",
-        "avg24hPrice": 17547,
+        "avg24hPrice": 17716,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27252,7 +27252,7 @@
         "id": "61714b2467085e45ef140b2c",
         "name": "Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights",
         "shortName": "T-1 Sun",
-        "avg24hPrice": 6296,
+        "avg24hPrice": 5833,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27472,7 +27472,7 @@
         "id": "61816dfa6ef05c2ce828f1ad",
         "name": "FN SCAR side rails",
         "shortName": "SCAR side",
-        "avg24hPrice": 13415,
+        "avg24hPrice": 13231,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27527,7 +27527,7 @@
         "id": "61825d136ef05c2ce828f1cc",
         "name": "FN SCAR retractable polymer stock (FDE)",
         "shortName": "SCAR retr.",
-        "avg24hPrice": 26961,
+        "avg24hPrice": 24628,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27560,7 +27560,7 @@
         "id": "6183b0711cb55961fa0fdcad",
         "name": "FN SCAR-H 7.62x51 16 inch barrel",
         "shortName": "Mk17 16\"",
-        "avg24hPrice": 69645,
+        "avg24hPrice": 68927,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -27571,7 +27571,7 @@
         "id": "6183b084a112697a4b3a6e6c",
         "name": "FN SCAR-H 7.62x51 20 inch barrel",
         "shortName": "Mk17 20\"",
-        "avg24hPrice": 64571,
+        "avg24hPrice": 64057,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -27857,7 +27857,7 @@
         "id": "618b9643526131765025ab35",
         "name": "Geissele Super Precision 30mm ring scope mount",
         "shortName": "Geis 30mm",
-        "avg24hPrice": 58069,
+        "avg24hPrice": 55580,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27868,7 +27868,7 @@
         "id": "618b9671d14d6d5ab879c5ea",
         "name": "Geissele Super Precision top ring cap",
         "shortName": "Geis top",
-        "avg24hPrice": 16087,
+        "avg24hPrice": 15635,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27901,7 +27901,7 @@
         "id": "618ba91477b82356f91ae0e8",
         "name": "Geissele Super Precision top ring cap (DDC)",
         "shortName": "Geis top",
-        "avg24hPrice": 13677,
+        "avg24hPrice": 13238,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27912,7 +27912,7 @@
         "id": "618ba92152ecee1505530bd3",
         "name": "Reptilia ROF-90 RMR mount for Geissele scope mounts (DDC)",
         "shortName": "ROF-90 RMR",
-        "avg24hPrice": 8550,
+        "avg24hPrice": 8425,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -27923,7 +27923,7 @@
         "id": "618bab21526131765025ab3f",
         "name": "Geissele Super Precision 30mm ring scope mount (DDC)",
         "shortName": "Geis 30mm",
-        "avg24hPrice": 27015,
+        "avg24hPrice": 27070,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -28055,7 +28055,7 @@
         "id": "6193dcd0f8ee7e52e4210a28",
         "name": "AR-15 HK Battle Grip Beavertail pistol grip (RAL 8000)",
         "shortName": "Battle Grip",
-        "avg24hPrice": 31368,
+        "avg24hPrice": 30240,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -28176,7 +28176,7 @@
         "id": "6194eff92d2c397d6600348b",
         "name": "HK USP Expert .45 ACP 132mm barrel",
         "shortName": "USP45EX",
-        "avg24hPrice": 40000,
+        "avg24hPrice": 25555,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -28407,7 +28407,7 @@
         "id": "61965d9058ef8c428c287e0d",
         "name": "FN SCAR PWS SRX rail extension",
         "shortName": "SRX SCAR",
-        "avg24hPrice": 28475,
+        "avg24hPrice": 29888,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -28429,7 +28429,7 @@
         "id": "6197b229af1f5202c57a9bea",
         "name": "SVDS Lynx Arms Hinge buffer tube adapter",
         "shortName": "SVDS adpt.",
-        "avg24hPrice": 11832,
+        "avg24hPrice": 11752,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -28462,7 +28462,7 @@
         "id": "619b5db699fb192e7430664f",
         "name": "AR-15 Aeroknox AX-15 10.5 inch M-LOK handguard",
         "shortName": "AX-15 10.5\"",
-        "avg24hPrice": 27170,
+        "avg24hPrice": 27180,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -28473,7 +28473,7 @@
         "id": "619b69037b9de8162902673e",
         "name": "AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock",
         "shortName": "CQR47",
-        "avg24hPrice": 25384,
+        "avg24hPrice": 24546,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -29100,7 +29100,7 @@
         "id": "61f804acfcba9556ea304cb8",
         "name": "MP-18 sight mount",
         "shortName": "MP18 RIS",
-        "avg24hPrice": 12925,
+        "avg24hPrice": 13579,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -29584,7 +29584,7 @@
         "id": "623c3c1f37b4b31470357737",
         "name": "SV-98 CNC Guns OV-SV98 KeyMod handguard",
         "shortName": "OV KM",
-        "avg24hPrice": 14999,
+        "avg24hPrice": 17110,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -29639,7 +29639,7 @@
         "id": "624c29ce09cd027dff2f8cd7",
         "name": "CNC Guns OV-SV98 M12B stock",
         "shortName": "M12B",
-        "avg24hPrice": 17666,
+        "avg24hPrice": 20999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -29837,7 +29837,7 @@
         "id": "625ff3046d721f05d93bf2ee",
         "name": "Benelli M3 Super 90 12ga Toni System 11-shell magazine",
         "shortName": "M3x11",
-        "avg24hPrice": 29900,
+        "avg24hPrice": 9999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -29914,7 +29914,7 @@
         "id": "6269545d0e57f218e4548ca2",
         "name": "Magpul M-LOK Offset Light Mount",
         "shortName": "M-LOK Off",
-        "avg24hPrice": 19999,
+        "avg24hPrice": 19908,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -29947,7 +29947,7 @@
         "id": "626a9cb151cb5849f6002890",
         "name": "M1911 Kiba Arms Geneburn custom side grips",
         "shortName": "Geneburn",
-        "avg24hPrice": 111293,
+        "avg24hPrice": 109728,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -30002,7 +30002,7 @@
         "id": "627254cc9c563e6e442c398f",
         "name": "AR-15 Strike Industries Viper PDW stock",
         "shortName": "Viper PDW",
-        "avg24hPrice": 24525,
+        "avg24hPrice": 45405,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -30079,7 +30079,7 @@
         "id": "62811e335631d45211793c95",
         "name": "AI AXMC GTAC AR-type pistol grip adapter",
         "shortName": "GTAC",
-        "avg24hPrice": 34189,
+        "avg24hPrice": 34618,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -30090,7 +30090,7 @@
         "id": "62811f461d5df4475f46a332",
         "name": "AI AX-50 34mm scope mount",
         "shortName": "AX-50 34mm",
-        "avg24hPrice": 18812,
+        "avg24hPrice": 19743,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -30409,7 +30409,7 @@
         "id": "628a664bccaab13006640e47",
         "name": "AK TangoDown Battle Grip pistol grip",
         "shortName": "TD BG",
-        "avg24hPrice": 14115,
+        "avg24hPrice": 14393,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -30431,7 +30431,7 @@
         "id": "628a6678ccaab13006640e49",
         "name": "AKM/AK-74 RD AK to M4 buffer tube adapter",
         "shortName": "AKtoM4",
-        "avg24hPrice": 15655,
+        "avg24hPrice": 15047,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -30475,7 +30475,7 @@
         "id": "628a85ee6b1d481ff772e9d5",
         "name": "AR-15 SB Tactical SBA3 brace",
         "shortName": "SBA3",
-        "avg24hPrice": 46666,
+        "avg24hPrice": 43715,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -30508,7 +30508,7 @@
         "id": "628b916469015a4e1711ed8d",
         "name": "AK-545 Mk.3 handguard",
         "shortName": "SAG Mk.3",
-        "avg24hPrice": 45049,
+        "avg24hPrice": 43060,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -31366,7 +31366,7 @@
         "id": "62ebba1fb658e07ef9082b5a",
         "name": "Steyr AUG A3 M1 low sight mount",
         "shortName": "A3M1 low",
-        "avg24hPrice": 30739,
+        "avg24hPrice": 31401,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -32092,7 +32092,7 @@
         "id": "637f589af5ef8c33840d36d3",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK lower handguard",
         "shortName": "Viper AR15",
-        "avg24hPrice": 42104,
+        "avg24hPrice": 40903,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32147,7 +32147,7 @@
         "id": "63888bbd28e5cc32cc09d2b6",
         "name": "AR-15 Precision Reflex GEN III Delta Carbon handguard (FDE)",
         "shortName": "Delta Carbon",
-        "avg24hPrice": 33882,
+        "avg24hPrice": 33925,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32158,7 +32158,7 @@
         "id": "6388c4478d895f557a0c6512",
         "name": "Precision Reflex handguard short side rail mount",
         "shortName": "PR side",
-        "avg24hPrice": 33000,
+        "avg24hPrice": 32500,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -32169,7 +32169,7 @@
         "id": "6388c4ac8d895f557a0c6515",
         "name": "Precision Reflex handguard bottom rail mount",
         "shortName": "PR bot.",
-        "avg24hPrice": 17499,
+        "avg24hPrice": 19999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -32290,7 +32290,7 @@
         "id": "6389f1dfc879ce63f72fc43e",
         "name": "AK CNC Guns OV GP handguard",
         "shortName": "OV GP",
-        "avg24hPrice": 16847,
+        "avg24hPrice": 16258,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32312,7 +32312,7 @@
         "id": "638de3603a1a4031d8260b8c",
         "name": "AR-15 RTM ATP buffer tube",
         "shortName": "ATP",
-        "avg24hPrice": 18115,
+        "avg24hPrice": 17510,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -32389,7 +32389,7 @@
         "id": "63969c9019971040b005049b",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK lower handguard (FDE)",
         "shortName": "Viper AR15",
-        "avg24hPrice": 81348,
+        "avg24hPrice": 79631,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32862,7 +32862,7 @@
         "id": "63d3ce0446bd475bcb50f55f",
         "name": "AR-15 5.56x45 Ballistic Advantage Hanson Carbine Pro 13.7 inch barrel",
         "shortName": "BA Hanson 13.7\"",
-        "avg24hPrice": 29948,
+        "avg24hPrice": 29904,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32884,7 +32884,7 @@
         "id": "63d3d44a2a49307baf09386d",
         "name": "AR-15 5.56x45 Ballistic Advantage Hanson Carbine Pro 16 inch barrel",
         "shortName": "BA Hanson 16\"",
-        "avg24hPrice": 67895,
+        "avg24hPrice": 69909,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32895,7 +32895,7 @@
         "id": "63f4ba71f31d4a33b87bd046",
         "name": "AR-15 Aeroknox AX-15 4 inch M-LOK handguard",
         "shortName": "AX-15 4\"",
-        "avg24hPrice": 37017,
+        "avg24hPrice": 35813,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32928,7 +32928,7 @@
         "id": "63f5feead259b42f0b4d6d0f",
         "name": "AR-15 Aeroknox Orion pistol grip",
         "shortName": "Orion",
-        "avg24hPrice": 23446,
+        "avg24hPrice": 22309,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -32983,7 +32983,7 @@
         "id": "640b20359ab20e15ee445fa9",
         "name": "AR-15 Aeroknox AX-15 15.8 inch M-LOK handguard",
         "shortName": "AX-15 15.8\"",
-        "avg24hPrice": 56106,
+        "avg24hPrice": 55334,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -33082,7 +33082,7 @@
         "id": "6415c694da439c6a97048b56",
         "name": "SKS Leapers UTG PRO MTU017 receiver cover mount",
         "shortName": "MTU017",
-        "avg24hPrice": 23864,
+        "avg24hPrice": 23907,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -33093,7 +33093,7 @@
         "id": "6415d33eda439c6a97048b5b",
         "name": "SKS CHOATE scope mount",
         "shortName": "CHOATE",
-        "avg24hPrice": 17566,
+        "avg24hPrice": 17484,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -33456,7 +33456,7 @@
         "id": "647dd2b8a12ebf96c3031655",
         "name": "AK Alfa Arms ASPID handguard",
         "shortName": "Aspid",
-        "avg24hPrice": 23277,
+        "avg24hPrice": 23350,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -33467,7 +33467,7 @@
         "id": "647de824196bf69818044c93",
         "name": "AR-15 AB Arms MOD1 handguard",
         "shortName": "ABA M1",
-        "avg24hPrice": 19185,
+        "avg24hPrice": 18277,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -34237,7 +34237,7 @@
         "id": "648ae3e356c6310a830fc291",
         "name": "AK Custom Guns CG101 AR-type pistol grip adapter",
         "shortName": "CG101",
-        "avg24hPrice": 32128,
+        "avg24hPrice": 32389,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -34259,7 +34259,7 @@
         "id": "6491c6f6ef312a876705191b",
         "name": "PK Zenit B-50 handguard",
         "shortName": "B-50",
-        "avg24hPrice": 41923,
+        "avg24hPrice": 41768,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -34292,7 +34292,7 @@
         "id": "6492d7847363b8a52206bc52",
         "name": "PK Zenit PT-2 \"Klassika\" stock",
         "shortName": "PT-2",
-        "avg24hPrice": 21911,
+        "avg24hPrice": 31599,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -34358,7 +34358,7 @@
         "id": "6494094948796d891603e59f",
         "name": "AK Custom Arms ST-EF 74 skeleton stock extension",
         "shortName": "ST-EF",
-        "avg24hPrice": 39063,
+        "avg24hPrice": 38834,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -34413,7 +34413,7 @@
         "id": "649ec127c93611967b034957",
         "name": "AK-12 handguard",
         "shortName": "AK-12 HG",
-        "avg24hPrice": 10000,
+        "avg24hPrice": 10450,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -35205,7 +35205,7 @@
         "id": "6513eff1e06849f06c0957d4",
         "name": "RPD 7.62x39 520mm barrel",
         "shortName": "RPD 520mm",
-        "avg24hPrice": 11111,
+        "avg24hPrice": 14055,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -35348,7 +35348,7 @@
         "id": "6516b129609aaf354b34b3a8",
         "name": "SVDS Lynx Arms AK-series pistol grip adapter",
         "shortName": "P-SVD-S",
-        "avg24hPrice": 10802,
+        "avg24hPrice": 10448,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -35370,7 +35370,7 @@
         "id": "6516e971a3d4c6497930b450",
         "name": "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)",
         "shortName": "DD ECB",
-        "avg24hPrice": 14589,
+        "avg24hPrice": 14564,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35381,7 +35381,7 @@
         "id": "6516e9bc5901745209404287",
         "name": "Daniel Defense TCS 12mm Buttpad ",
         "shortName": "TCS 12",
-        "avg24hPrice": 10885,
+        "avg24hPrice": 10802,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35392,7 +35392,7 @@
         "id": "6516e9d7e239bd0c487e3766",
         "name": "Daniel Defense TCS 20mm Buttpad ",
         "shortName": "TCS 20",
-        "avg24hPrice": 22279,
+        "avg24hPrice": 22272,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35436,7 +35436,7 @@
         "id": "651bfe4d1065f87f082e7209",
         "name": "Saiga-9 Hartman Gyurza handguard",
         "shortName": "Gyurza-9",
-        "avg24hPrice": 35166,
+        "avg24hPrice": 31866,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -35447,7 +35447,7 @@
         "id": "65266fd43341ed9aa903dd56",
         "name": "RPD 7.62x39 sawed-off 350mm barrel",
         "shortName": "RPD 350mm",
-        "avg24hPrice": 28532,
+        "avg24hPrice": 28484,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -35601,7 +35601,7 @@
         "id": "6529348224cbe3c74a05e5c4",
         "name": "SIG Sauer Locking Stock Hinge Assembly",
         "shortName": "SIG LSHA",
-        "avg24hPrice": 64999,
+        "avg24hPrice": 59999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35612,7 +35612,7 @@
         "id": "6529366450dc782999054ba0",
         "name": "SIG Sauer Stock Adapter Low Profile Tube (Coyote Tan)",
         "shortName": "SIG LPT",
-        "avg24hPrice": 11000,
+        "avg24hPrice": 11027,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35623,7 +35623,7 @@
         "id": "6529370c405a5f51dd023db8",
         "name": "AR-15 Magpul MOE SL-K buttstock (Coyote Tan)",
         "shortName": "MOE SL-K",
-        "avg24hPrice": 21865,
+        "avg24hPrice": 21829,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -35700,7 +35700,7 @@
         "id": "653931da5db71d30ab1d6296",
         "name": "GBRS Aimpoint Hydra Mount Kit (FDE)",
         "shortName": "Hydra",
-        "avg24hPrice": 38721,
+        "avg24hPrice": 34822,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -36041,7 +36041,7 @@
         "id": "6567e751a715f85433025998",
         "name": "SIG Sauer ALPHA4 30mm ring scope mount",
         "shortName": "ALPHA4",
-        "avg24hPrice": 14019,
+        "avg24hPrice": 14519,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -38747,7 +38747,7 @@
         "id": "65f1b2a5c14a07890801fc70",
         "name": "RS Regulate AKR top mount",
         "shortName": "AKR",
-        "avg24hPrice": 18092,
+        "avg24hPrice": 18091,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -38846,7 +38846,7 @@
         "id": "66012788c752a02bbe05e68e",
         "name": "M60E4 7.62x51 475mm heavy barrel",
         "shortName": "E4 475mm",
-        "avg24hPrice": 38597,
+        "avg24hPrice": 38473,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -38857,7 +38857,7 @@
         "id": "6601279cc752a02bbe05e692",
         "name": "M60E3 7.62x51 584mm barrel",
         "shortName": "E3 584mm",
-        "avg24hPrice": 74860,
+        "avg24hPrice": 69999,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -39033,7 +39033,7 @@
         "id": "660ea4453786cc0af808a1be",
         "name": "M60 7.62x51 Capco 100-round Assault Box",
         "shortName": "Assault Box",
-        "avg24hPrice": 16283,
+        "avg24hPrice": 15676,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -40166,7 +40166,7 @@
         "id": "6698c8b7710a4525fe0e9e55",
         "name": "UZI 9x19 409mm barrel",
         "shortName": "UZI 409mm",
-        "avg24hPrice": 27980,
+        "avg24hPrice": 27592,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -40430,7 +40430,7 @@
         "id": "669a6a4a525be1d2d004b8eb",
         "name": "Magpul M-LOK 0.93 inch rail",
         "shortName": "M-LOK 0.93\"",
-        "avg24hPrice": 9999,
+        "avg24hPrice": 10000,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -40749,7 +40749,7 @@
         "id": "66ac9d9740e27931602042d4",
         "name": "AK skeletonized stock (Customized)",
         "shortName": "Med stock",
-        "avg24hPrice": 29286,
+        "avg24hPrice": 29368,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41255,7 +41255,7 @@
         "id": "66ffac601f7492c901027bbb",
         "name": "AA-12 12ga 330mm barrel",
         "shortName": "AA-12 330mm",
-        "avg24hPrice": 16566,
+        "avg24hPrice": 10910,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -41277,7 +41277,7 @@
         "id": "66ffbfb1a73a7bce3d0b45a8",
         "name": "FN SCAR Vltor RE-SCAR Stock Adapter",
         "shortName": "RE-SCAR",
-        "avg24hPrice": 19966,
+        "avg24hPrice": 21642,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41310,7 +41310,7 @@
         "id": "66ffc2bd132225f0fe0611d8",
         "name": "FN SCAR Vltor VSS-11 polymer stock",
         "shortName": "VSS-11",
-        "avg24hPrice": 29452,
+        "avg24hPrice": 28505,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41321,7 +41321,7 @@
         "id": "66ffc2ecfe9b3825960652f7",
         "name": "FN SCAR Vltor VSS-11 polymer stock (Patriot Brown)",
         "shortName": "VSS-11",
-        "avg24hPrice": 18755,
+        "avg24hPrice": 18666,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41332,7 +41332,7 @@
         "id": "66ffc6ceb7ff397142017c3a",
         "name": "FN SCAR Kinetic MREX 6.5 M-LOK rail (FDE)",
         "shortName": "MREX 6.5 M-LOK",
-        "avg24hPrice": 14202,
+        "avg24hPrice": 14117,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41431,7 +41431,7 @@
         "id": "66ffe811f5d758d71101e89a",
         "name": "FN SCAR Vltor CASV-SCAR handguard",
         "shortName": "CASV-SCAR",
-        "avg24hPrice": 9974,
+        "avg24hPrice": 9969,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41442,7 +41442,7 @@
         "id": "66ffea06132225f0fe061394",
         "name": "FN SCAR Vltor CASV-SCAR handguard (Patriot Brown)",
         "shortName": "CASV-SCAR",
-        "avg24hPrice": 16907,
+        "avg24hPrice": 16662,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41475,7 +41475,7 @@
         "id": "67069c8cee8138ed2f05ad34",
         "name": "SR-3MP dovetail side rail (Black)",
         "shortName": "SR-3MP DT",
-        "avg24hPrice": 23385,
+        "avg24hPrice": 23352,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41486,7 +41486,7 @@
         "id": "67069cbbb29a2cd33803338c",
         "name": "SR-3MP dovetail side rail (Plum)",
         "shortName": "SR-3MP DT",
-        "avg24hPrice": 15246,
+        "avg24hPrice": 15017,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41497,7 +41497,7 @@
         "id": "67069cf1af4890b09f0006e8",
         "name": "SR-3MP side rails (Black)",
         "shortName": "SR-3MP s.",
-        "avg24hPrice": 21000,
+        "avg24hPrice": 23250,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41541,7 +41541,7 @@
         "id": "67069d8dad91f3a63c0bc2b4",
         "name": "HK G36 Slim Line HKey Handguard",
         "shortName": "G36 Slim Line",
-        "avg24hPrice": 18247,
+        "avg24hPrice": 17949,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -41618,7 +41618,7 @@
         "id": "670fd03dc424cf758f006946",
         "name": "AA-12 12ga 342mm threaded barrel",
         "shortName": "AA-12 342mm",
-        "avg24hPrice": 38272,
+        "avg24hPrice": 36043,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -41673,7 +41673,7 @@
         "id": "6710cea62bb09af72f0e6bf8",
         "name": "Leapers UTG Universal Shotgun Barrel Mount",
         "shortName": "UTG USBM",
-        "avg24hPrice": 22500,
+        "avg24hPrice": 22000,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41695,7 +41695,7 @@
         "id": "67110d06723c2733410161e8",
         "name": "HK G36 IDZ adjustable stock",
         "shortName": "G36 IDZ",
-        "avg24hPrice": 14526,
+        "avg24hPrice": 14405,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41717,7 +41717,7 @@
         "id": "67110d6fa71d1f123d021cd3",
         "name": "HK G36 IDZ Concave Buttpad",
         "shortName": "IDZ Conc.",
-        "avg24hPrice": 26348,
+        "avg24hPrice": 25555,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41750,7 +41750,7 @@
         "id": "6711107e1ad01bb88705347e",
         "name": "Steyr AUG Corvus Defensio KeyMod Forward Accessory Rail",
         "shortName": "CD KM",
-        "avg24hPrice": 22237,
+        "avg24hPrice": 24086,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41761,7 +41761,7 @@
         "id": "67111094d1758189fc0bd223",
         "name": "Corvus Defensio KeyMod 1.8 inch rail section",
         "shortName": "CD 1.8\"",
-        "avg24hPrice": 29968,
+        "avg24hPrice": 29964,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -41992,7 +41992,7 @@
         "id": "673cb551093e0ea7fd0b874a",
         "name": "Sako TRG M10 .338 LM 23.5 inch barrel",
         "shortName": "M10 23.5\" .338LM",
-        "avg24hPrice": 63900,
+        "avg24hPrice": 63598,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -42157,7 +42157,7 @@
         "id": "67405d760098dcb5940ea1a6",
         "name": "Sako TRG M10 .338 LM 20 inch barrel",
         "shortName": "M10 20\" .338LM",
-        "avg24hPrice": 110177,
+        "avg24hPrice": 110097,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -42168,7 +42168,7 @@
         "id": "67405e3b83ac5c69ae025406",
         "name": "Sako TRG M10 .338 LM 27 inch barrel",
         "shortName": "M10 27\" .338LM",
-        "avg24hPrice": 43677,
+        "avg24hPrice": 43771,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -42190,7 +42190,7 @@
         "id": "67405fd0812f476fb2020066",
         "name": "Sako TRG M10 M-LOK 15 inch handguard assembly",
         "shortName": "M10 15\" M-LOK",
-        "avg24hPrice": 26358,
+        "avg24hPrice": 26798,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -42399,7 +42399,7 @@
         "id": "674fe57721a9aa6be6045b96",
         "name": "SOK-12 Chaos Titan Quad Rail handguard",
         "shortName": "Titan Quad Rail",
-        "avg24hPrice": 31999,
+        "avg24hPrice": 45110,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -42410,7 +42410,7 @@
         "id": "674fe89a4472d471fb0f07d8",
         "name": "SOK-12 Chaos Titan Quad Rail handguard top cover",
         "shortName": "Titan QRTC",
-        "avg24hPrice": 22143,
+        "avg24hPrice": 21854,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -42421,7 +42421,7 @@
         "id": "674fe8b9362ea1f88b0e278d",
         "name": "SOK-12 Chaos Titan receiver top rail",
         "shortName": "Titan TR",
-        "avg24hPrice": 22764,
+        "avg24hPrice": 22599,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -42454,7 +42454,7 @@
         "id": "674fe8f6f34d761ab8020cc8",
         "name": "SOK-12 12ga MD Arms 20-round drum magazine",
         "shortName": "MD Arms",
-        "avg24hPrice": 34569,
+        "avg24hPrice": 34822,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -43279,7 +43279,7 @@
         "id": "6761496fe2cf1419500357e9",
         "name": "SB Tactical MPX Pistol Stabilizing Brace",
         "shortName": "MPX PSB",
-        "avg24hPrice": 25185,
+        "avg24hPrice": 24583,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -43345,7 +43345,7 @@
         "id": "67614a0be889e1972605d6c0",
         "name": "MPX GEN1 8 inch handguard",
         "shortName": "MPX GEN1 8\"",
-        "avg24hPrice": 15658,
+        "avg24hPrice": 15149,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -43433,7 +43433,7 @@
         "id": "6761759e7ee06333f108bf86",
         "name": "Leupold Mark IMS 35mm ring scope mount",
         "shortName": "IMS 35mm",
-        "avg24hPrice": 19733,
+        "avg24hPrice": 19359,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -43455,7 +43455,7 @@
         "id": "6761763448fa5c377e06fc39",
         "name": "AKMS FAB Defense M4-AKMS P stock adapter",
         "shortName": "AKMS P",
-        "avg24hPrice": 39445,
+        "avg24hPrice": 39500,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -43532,7 +43532,7 @@
         "id": "6761777a1f08ed5e8800b7ac",
         "name": "AR-15 DoubleStar ACE ARFX Skeleton Stock",
         "shortName": "ARFX",
-        "avg24hPrice": 17427,
+        "avg24hPrice": 17285,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -43543,7 +43543,7 @@
         "id": "6761779c48fa5c377e06fc3f",
         "name": "AK AK-EVO stock",
         "shortName": "AK-EVO",
-        "avg24hPrice": 46753,
+        "avg24hPrice": 46636,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -45149,7 +45149,7 @@
         "id": "67c541d45b84f7f36c03e557",
         "name": "M1895/MXLR Magpul ELG stock",
         "shortName": "ELG",
-        "avg24hPrice": 21132,
+        "avg24hPrice": 20944,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -45160,7 +45160,7 @@
         "id": "67c541fcb032bbdb530201be",
         "name": "M1895/MXLR Ranger Point Precision RHINO 5 inch scope rail",
         "shortName": "RHINO",
-        "avg24hPrice": 11815,
+        "avg24hPrice": 11843,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -45292,7 +45292,7 @@
         "id": "67c542ecac40c36449066508",
         "name": "M1895/MXLR Ranger Point Precision COSTA top rail",
         "shortName": "RPP COSTA",
-        "avg24hPrice": 13055,
+        "avg24hPrice": 12777,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -45677,7 +45677,7 @@
         "id": "67ff24c0abb53266190dfc66",
         "name": "M1895/MXLR Ranger Point Precision M-LOK handguard (Green)",
         "shortName": "RPP M-LOK",
-        "avg24hPrice": 29189,
+        "avg24hPrice": 29640,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45699,7 +45699,7 @@
         "id": "67ff2792ea587611b0080956",
         "name": "M1895/MXLR Ranger Point Precision COSTA M-LOK handguard (FDE)",
         "shortName": "RPP COSTA",
-        "avg24hPrice": 80897,
+        "avg24hPrice": 75577,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45765,7 +45765,7 @@
         "id": "680f55788692125dc00a3354",
         "name": "MDR BLK LBL ALX Bipod 20 handguard (Black)",
         "shortName": "ALX B 20",
-        "avg24hPrice": 33222,
+        "avg24hPrice": 33266,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45787,7 +45787,7 @@
         "id": "680f5953b93ecb502102816a",
         "name": "MDR BLK LBL ALX Bipod 16 handguard (Black)",
         "shortName": "ALX B 16",
-        "avg24hPrice": 79999,
+        "avg24hPrice": 79333,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45831,7 +45831,7 @@
         "id": "680f87196d09c2f0740dd527",
         "name": "MDR 7.62x51 20 inch barrel",
         "shortName": "MDR 762 20\"",
-        "avg24hPrice": 55105,
+        "avg24hPrice": 55165,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45842,7 +45842,7 @@
         "id": "681096b551511048940afed9",
         "name": "MDR BLK LBL ALX 20 handguard (FDE)",
         "shortName": "ALX 20",
-        "avg24hPrice": 35848,
+        "avg24hPrice": 34888,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45853,7 +45853,7 @@
         "id": "68109a1f327033533604170a",
         "name": "MDR BLK LBL ALX 20 handguard (Black)",
         "shortName": "ALX 20",
-        "avg24hPrice": 48632,
+        "avg24hPrice": 47883,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45908,7 +45908,7 @@
         "id": "6810d2c6485a5ea11b01e3ad",
         "name": "MDR 5.56x45 11.5 inch barrel",
         "shortName": "MDR 556 11.5\"",
-        "avg24hPrice": 28900,
+        "avg24hPrice": 28583,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45952,7 +45952,7 @@
         "id": "68120dcbb90552f01004e5ca",
         "name": "MCX Lancer Carbon Fiber M-LOK 10.5 inch handguard",
         "shortName": "CF 10.5\"",
-        "avg24hPrice": 14828,
+        "avg24hPrice": 14703,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45963,7 +45963,7 @@
         "id": "6812180dc20f5c52bc04d6cc",
         "name": "MCX Lancer Carbon Fiber M-LOK 12 inch handguard",
         "shortName": "CF 12\"",
-        "avg24hPrice": 26755,
+        "avg24hPrice": 26797,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45974,7 +45974,7 @@
         "id": "681236df5cbf0518e00557a0",
         "name": "MCX Lancer Carbon Fiber M-LOK 18 inch handguard",
         "shortName": "CF 18\"",
-        "avg24hPrice": 26739,
+        "avg24hPrice": 26851,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -45985,7 +45985,7 @@
         "id": "681245a31eb182c02f0d7f09",
         "name": "MCX .300 BLK 16 inch barrel",
         "shortName": "MCX 16\"",
-        "avg24hPrice": 60181,
+        "avg24hPrice": 66972,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46018,7 +46018,7 @@
         "id": "682315b0f8d8f8681e0744b0",
         "name": "AK-12 L.A.C. Akvilon-15 handguard",
         "shortName": "Akvilon-15",
-        "avg24hPrice": 44956,
+        "avg24hPrice": 37689,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46029,7 +46029,7 @@
         "id": "682315bdf8d8f8681e0744b5",
         "name": "AK-12 Tactical Ideas N-4 handguard",
         "shortName": "N-4",
-        "avg24hPrice": 28473,
+        "avg24hPrice": 28159,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46040,7 +46040,7 @@
         "id": "682315c58639961c6001dbe7",
         "name": "AK-12 Zenit Sport-12 handguard",
         "shortName": "Sport-12",
-        "avg24hPrice": 25555,
+        "avg24hPrice": 25277,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46106,7 +46106,7 @@
         "id": "6830601984a12bb973021fc2",
         "name": "RPD 7.62x39 DS Arms 370mm barrel",
         "shortName": "RPD 370mm",
-        "avg24hPrice": 27947,
+        "avg24hPrice": 28153,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46117,7 +46117,7 @@
         "id": "683060403b1bb49282023611",
         "name": "RPD DS Arms buttstock",
         "shortName": "DSA RPD",
-        "avg24hPrice": 22126,
+        "avg24hPrice": 22138,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -46513,7 +46513,7 @@
         "id": "6878cc5bd0c26d57bf0aa37a",
         "name": "AS VAL Zenit RK-3 pistol grip",
         "shortName": "RK-3k",
-        "avg24hPrice": 31462,
+        "avg24hPrice": 32881,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46524,7 +46524,7 @@
         "id": "6878ccf4181ac8a5b5077236",
         "name": "AS VAL NB stock adapter tube",
         "shortName": "VAL tube",
-        "avg24hPrice": 40661,
+        "avg24hPrice": 42153,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -46810,7 +46810,7 @@
         "id": "688b54a11cef2a61d005273b",
         "name": "Elcan SpecterDR Mounting Plate for Trijicon",
         "shortName": "Specter",
-        "avg24hPrice": 20377,
+        "avg24hPrice": 20363,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -46821,7 +46821,7 @@
         "id": "688b79b5eb234c75d900e050",
         "name": "9A-91 TTS System handguard",
         "shortName": "TTS 9A",
-        "avg24hPrice": 19911,
+        "avg24hPrice": 25555,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -46854,7 +46854,7 @@
         "id": "688c86420e99e554a90c0fd6",
         "name": "SR-3M Karden rail handguard",
         "shortName": "SR-3MK",
-        "avg24hPrice": 30111,
+        "avg24hPrice": 26412,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -47140,7 +47140,7 @@
         "id": "6895bd19d55f0ebf6a0c0306",
         "name": "AR-15 Radian Weapons Model 1 14 inch handguard",
         "shortName": "Radian 14\"",
-        "avg24hPrice": 62762,
+        "avg24hPrice": 62016,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -47459,7 +47459,7 @@
         "id": "689b8883b49f27df1c0873f8",
         "name": "Wilcox L4G24 NVG Mount (Coyote)",
         "shortName": "L4G24",
-        "avg24hPrice": 25414,
+        "avg24hPrice": 25581,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -47701,7 +47701,7 @@
         "id": "68a63ac58e1fe612970728f2",
         "name": "AR-15 5.56x45 A2 type 20 inch barrel",
         "shortName": "AR-15 A2 20\"",
-        "avg24hPrice": 49009,
+        "avg24hPrice": 48781,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -48053,7 +48053,7 @@
         "id": "68a86bd51d1284a8e20e39d5",
         "name": "AR-15 5.56x45 11.5 inch barrel",
         "shortName": "AR-15 11.5\"",
-        "avg24hPrice": 30851,
+        "avg24hPrice": 30723,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -48548,7 +48548,7 @@
         "id": "68badb6458dbe419740b1520",
         "name": "Magpul UCS buttstock (Black)",
         "shortName": "UCS",
-        "avg24hPrice": 36245,
+        "avg24hPrice": 37270,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -48559,7 +48559,7 @@
         "id": "68badc0366a72211fe004bc7",
         "name": "Magpul UCS Stock Cheek Riser",
         "shortName": "UCS CR",
-        "avg24hPrice": 12513,
+        "avg24hPrice": 12974,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -48581,7 +48581,7 @@
         "id": "68bb25270e48a3afd7071216",
         "name": "AR-15 Magpul ACS Carbine stock (Black)",
         "shortName": "ACS",
-        "avg24hPrice": 39037,
+        "avg24hPrice": 38401,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -48592,7 +48592,7 @@
         "id": "68bb2a3831ee03fbc00931e6",
         "name": "AR-15 Magpul ACS Carbine stock (FDE)",
         "shortName": "ACS",
-        "avg24hPrice": 57947,
+        "avg24hPrice": 57285,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49076,7 +49076,7 @@
         "id": "68c16fcffc90c174e50de1ae",
         "name": "AR-15 DLG Tactical DLG-138 pistol grip (Black)",
         "shortName": "DLG138",
-        "avg24hPrice": 9764,
+        "avg24hPrice": 9666,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49098,7 +49098,7 @@
         "id": "68c17005ba442c8112076088",
         "name": "AR-15 Custom Guns buffer tube",
         "shortName": "CGNL",
-        "avg24hPrice": 13766,
+        "avg24hPrice": 12927,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49120,7 +49120,7 @@
         "id": "68c1707983e2d814b0093f7e",
         "name": "AR-15 Custom Guns 10.5 inch M-LOK handguard",
         "shortName": "CGNL 10.5\"",
-        "avg24hPrice": 21240,
+        "avg24hPrice": 21052,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49131,7 +49131,7 @@
         "id": "68c170e383e2d814b0093f87",
         "name": "AR-15 Custom Guns 14 inch M-LOK handguard",
         "shortName": "CGNL 14\"",
-        "avg24hPrice": 22649,
+        "avg24hPrice": 23633,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49164,7 +49164,7 @@
         "id": "68c294750f5ebd68290d6c1c",
         "name": "NL545 (GP) 5.45x39 16.5 inch barrel",
         "shortName": "NL545 GP 16.5\"",
-        "avg24hPrice": 61417,
+        "avg24hPrice": 62267,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49175,7 +49175,7 @@
         "id": "68c294800f5ebd68290d6c20",
         "name": "NL545 (GP) 5.45x39 11.5 inch barrel",
         "shortName": "NL545 GP 11.5\"",
-        "avg24hPrice": 48399,
+        "avg24hPrice": 48361,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49197,7 +49197,7 @@
         "id": "68c2989dc9061bb2f50478f6",
         "name": "NL545 10.5 inch M-LOK handguard (FDE)",
         "shortName": "NL545 10.5\"",
-        "avg24hPrice": 24999,
+        "avg24hPrice": 23999,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49263,7 +49263,7 @@
         "id": "68caac14f42a4476cf0be2aa",
         "name": "AR-15 Sierra Precision SPR pistol grip",
         "shortName": "SP SPR",
-        "avg24hPrice": 20516,
+        "avg24hPrice": 19696,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49274,7 +49274,7 @@
         "id": "68caac28f42a4476cf0be2ac",
         "name": "AR-15 Precision Reflex GEN III Round Carbon 12 inch handguard",
         "shortName": "Round Carbon",
-        "avg24hPrice": 21820,
+        "avg24hPrice": 21445,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49285,7 +49285,7 @@
         "id": "68caac360bfe742288085e16",
         "name": "AR-15 KAC Free Float Rifle RAS 12 inch handguard",
         "shortName": "FF RAS 12\"",
-        "avg24hPrice": 26055,
+        "avg24hPrice": 26432,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49318,7 +49318,7 @@
         "id": "68caac96933990601c07f476",
         "name": "AR-15 Allen Engineering SPR Collar suppressor mount",
         "shortName": "SPR Collar",
-        "avg24hPrice": 18050,
+        "avg24hPrice": 17610,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49340,7 +49340,7 @@
         "id": "68caacc7933990601c07f479",
         "name": "A.R.M.S. #22 30mm ring scope mount",
         "shortName": "ARMS#22",
-        "avg24hPrice": 45412,
+        "avg24hPrice": 42551,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49351,7 +49351,7 @@
         "id": "68caace5f42a4476cf0be2b4",
         "name": "A.R.M.S. #22 ring cap",
         "shortName": "ARMS#22",
-        "avg24hPrice": 16969,
+        "avg24hPrice": 9999,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49417,7 +49417,7 @@
         "id": "68cc2ae66e59cb54f4054f47",
         "name": "AR-15 Precision Reflex GEN III Round Carbon 12 inch handguard (FDE)",
         "shortName": "Round Carbon",
-        "avg24hPrice": 23228,
+        "avg24hPrice": 22206,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -49439,7 +49439,7 @@
         "id": "68d159d46c606e46b605094d",
         "name": "Armasight N-15 Swing Arm #194",
         "shortName": "N-15 #194",
-        "avg24hPrice": 33999,
+        "avg24hPrice": 34666,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49967,7 +49967,7 @@
         "id": "68d566f3f3d7cd248f0a06db",
         "name": "Magpul UCS buttstock (FDE)",
         "shortName": "UCS",
-        "avg24hPrice": 34111,
+        "avg24hPrice": 34066,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -49978,7 +49978,7 @@
         "id": "68d5674bb2573b07dc0d225f",
         "name": "AK Zenit RK-3 pistol grip (FDE)",
         "shortName": "RK-3",
-        "avg24hPrice": 19636,
+        "avg24hPrice": 19400,
         "category": {
           "parent": {
             "name": "Essential mod"
@@ -51991,7 +51991,7 @@
         "id": "6932ac8fbccfa5c5a00b5a76",
         "name": "AR-15 KAC SASS stock (Taupe)",
         "shortName": "SASS",
-        "avg24hPrice": 21613,
+        "avg24hPrice": 21438,
         "category": {
           "parent": {
             "name": "Gear mod"
@@ -52057,7 +52057,7 @@
         "id": "6936bd64b2b5b688e50cde36",
         "name": "AR-10 KAC URX 2 12.5 inch handguard (Taupe)",
         "shortName": "URX2 12.5\"",
-        "avg24hPrice": 80527,
+        "avg24hPrice": 78606,
         "category": {
           "parent": {
             "name": "Essential mod"
