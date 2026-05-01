@@ -7514,75 +7514,6 @@
         ]
       },
       {
-        "id": "67a09761e720611a6a01f288",
-        "name": "Keeper's Word",
-        "objectives": [
-          {
-            "items": [
-              {
-                "id": "5fc64ea372b0dd78d51159dc",
-                "shortName": "Knife"
-              }
-            ],
-            "zones": [
-              {
-                "id": "event_labyrinth_11_lightkeep_place_01",
-                "position": {
-                  "x": -23.2,
-                  "y": 1,
-                  "z": 19
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
-                }
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "id": "5fc64ea372b0dd78d51159dc",
-                "shortName": "Knife"
-              }
-            ],
-            "zones": [
-              {
-                "id": "event_labyrinth_11_lightkeep_place_02",
-                "position": {
-                  "x": 15.6,
-                  "y": 1,
-                  "z": 19
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
-                }
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "id": "5fc64ea372b0dd78d51159dc",
-                "shortName": "Knife"
-              }
-            ],
-            "zones": [
-              {
-                "id": "event_labyrinth_11_lightkeep_place_03 ",
-                "position": {
-                  "x": 9.2,
-                  "y": 1,
-                  "z": -14.8
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
         "id": "639135e0fa894f0a866afde6",
         "name": "Urban Medicine",
         "objectives": [
@@ -50816,92 +50747,147 @@
         ]
       },
       {
-        "id": "6744ab1def61d56e020b5c56",
-        "name": "Protect the Sky",
+        "id": "6744af0969a58fceba101fed",
+        "name": "The Price of Independence",
         "objectives": [
           {
             "zones": [],
             "questItem": {
-              "id": "67499d4deca8acb2d206163b",
-              "shortName": "KOSA"
+              "id": "67499d0eeca8acb2d2061639",
+              "shortName": "Letter"
             }
           },
+          {},
           {
-            "zones": [],
             "questItem": {
-              "id": "67499d4deca8acb2d206163b",
-              "shortName": "KOSA"
-            }
-          }
+              "id": "67499d0eeca8acb2d2061639",
+              "shortName": "Letter"
+            },
+            "zones": [
+              {
+                "id": "Zone_leeter_final",
+                "position": {
+                  "x": -127.21611,
+                  "y": 0.6957779,
+                  "z": -20.3590851
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
+          },
+          {},
+          {
+            "zones": []
+          },
+          {},
+          {
+            "zones": [
+              {
+                "id": "Final_flare_btr_2",
+                "position": {
+                  "x": -22.5973969,
+                  "y": 13.6848984,
+                  "z": -829.7793
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
+          },
+          {
+            "zones": [
+              {
+                "id": "Final_flare_btr",
+                "position": {
+                  "x": 164.6226,
+                  "y": 2.34489822,
+                  "z": -160.06
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
+          },
+          {
+            "zones": []
+          },
+          {}
         ]
       },
       {
-        "id": "6744aca8d3346c216702c583",
-        "name": "Discombobulate",
+        "id": "6745cbee909d2013670a4a55",
+        "name": "The Price of Independence",
         "objectives": [
           {
-            "items": [
-              {
-                "id": "5e340dcdcb6d5863cc5e5efb",
-                "shortName": "VOG-25"
-              }
-            ],
+            "zones": [],
+            "questItem": {
+              "id": "67499d0eeca8acb2d2061639",
+              "shortName": "Letter"
+            }
+          },
+          {},
+          {
+            "questItem": {
+              "id": "67499d0eeca8acb2d2061639",
+              "shortName": "Letter"
+            },
             "zones": [
               {
-                "id": "Zone_for_RPG_1",
+                "id": "Zone_leeter_final",
                 "position": {
-                  "x": -13.52002,
-                  "y": -3.12,
-                  "z": 49.71997
+                  "x": -127.21611,
+                  "y": 0.6957779,
+                  "z": -20.3590851
                 },
                 "map": {
-                  "normalizedName": "woods"
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
+          },
+          {},
+          {
+            "zones": []
+          },
+          {},
+          {
+            "zones": [
+              {
+                "id": "Final_flare_btr_2",
+                "position": {
+                  "x": -22.5973969,
+                  "y": 13.6848984,
+                  "z": -829.7793
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
                 }
               }
             ]
           },
           {
-            "items": [
-              {
-                "id": "5e340dcdcb6d5863cc5e5efb",
-                "shortName": "VOG-25"
-              }
-            ],
             "zones": [
               {
-                "id": "Zone_for_RPG_2",
+                "id": "Final_flare_btr",
                 "position": {
-                  "x": 238.969971,
-                  "y": -1.475,
-                  "z": -69.3800049
+                  "x": 164.6226,
+                  "y": 2.34489822,
+                  "z": -160.06
                 },
                 "map": {
-                  "normalizedName": "woods"
+                  "normalizedName": "lighthouse"
                 }
               }
             ]
           },
           {
-            "items": [
-              {
-                "id": "5e340dcdcb6d5863cc5e5efb",
-                "shortName": "VOG-25"
-              }
-            ],
-            "zones": [
-              {
-                "id": "Zone_for_RPG_3",
-                "position": {
-                  "x": -92.52002,
-                  "y": 26.96,
-                  "z": -380.125
-                },
-                "map": {
-                  "normalizedName": "woods"
-                }
-              }
-            ]
-          }
+            "zones": []
+          },
+          {}
         ]
       },
       {
@@ -64758,6 +64744,19 @@
         ]
       },
       {
+        "id": "67460662d0fbbc74ca0f7229",
+        "name": "Choose Your Friends Wisely",
+        "objectives": [
+          {},
+          {},
+          {},
+          {},
+          {
+            "zones": []
+          }
+        ]
+      },
+      {
         "id": "6740a15566e6a521aa051b15",
         "name": "Forge a Friendship",
         "objectives": [
@@ -64797,163 +64796,6 @@
             ]
           },
           {}
-        ]
-      },
-      {
-        "id": "6744af0969a58fceba101fed",
-        "name": "The Price of Independence",
-        "objectives": [
-          {
-            "zones": [],
-            "questItem": {
-              "id": "67499d0eeca8acb2d2061639",
-              "shortName": "Letter"
-            }
-          },
-          {},
-          {
-            "questItem": {
-              "id": "67499d0eeca8acb2d2061639",
-              "shortName": "Letter"
-            },
-            "zones": [
-              {
-                "id": "Zone_leeter_final",
-                "position": {
-                  "x": -127.21611,
-                  "y": 0.6957779,
-                  "z": -20.3590851
-                },
-                "map": {
-                  "normalizedName": "reserve"
-                }
-              }
-            ]
-          },
-          {},
-          {
-            "zones": []
-          },
-          {},
-          {
-            "zones": [
-              {
-                "id": "Final_flare_btr_2",
-                "position": {
-                  "x": -22.5973969,
-                  "y": 13.6848984,
-                  "z": -829.7793
-                },
-                "map": {
-                  "normalizedName": "lighthouse"
-                }
-              }
-            ]
-          },
-          {
-            "zones": [
-              {
-                "id": "Final_flare_btr",
-                "position": {
-                  "x": 164.6226,
-                  "y": 2.34489822,
-                  "z": -160.06
-                },
-                "map": {
-                  "normalizedName": "lighthouse"
-                }
-              }
-            ]
-          },
-          {
-            "zones": []
-          },
-          {}
-        ]
-      },
-      {
-        "id": "6745cbee909d2013670a4a55",
-        "name": "The Price of Independence",
-        "objectives": [
-          {
-            "zones": [],
-            "questItem": {
-              "id": "67499d0eeca8acb2d2061639",
-              "shortName": "Letter"
-            }
-          },
-          {},
-          {
-            "questItem": {
-              "id": "67499d0eeca8acb2d2061639",
-              "shortName": "Letter"
-            },
-            "zones": [
-              {
-                "id": "Zone_leeter_final",
-                "position": {
-                  "x": -127.21611,
-                  "y": 0.6957779,
-                  "z": -20.3590851
-                },
-                "map": {
-                  "normalizedName": "reserve"
-                }
-              }
-            ]
-          },
-          {},
-          {
-            "zones": []
-          },
-          {},
-          {
-            "zones": [
-              {
-                "id": "Final_flare_btr_2",
-                "position": {
-                  "x": -22.5973969,
-                  "y": 13.6848984,
-                  "z": -829.7793
-                },
-                "map": {
-                  "normalizedName": "lighthouse"
-                }
-              }
-            ]
-          },
-          {
-            "zones": [
-              {
-                "id": "Final_flare_btr",
-                "position": {
-                  "x": 164.6226,
-                  "y": 2.34489822,
-                  "z": -160.06
-                },
-                "map": {
-                  "normalizedName": "lighthouse"
-                }
-              }
-            ]
-          },
-          {
-            "zones": []
-          },
-          {}
-        ]
-      },
-      {
-        "id": "67460662d0fbbc74ca0f7229",
-        "name": "Choose Your Friends Wisely",
-        "objectives": [
-          {},
-          {},
-          {},
-          {},
-          {
-            "zones": []
-          }
         ]
       },
       {
@@ -73963,6 +73805,164 @@
         "name": "Establish Contact",
         "objectives": [
           {}
+        ]
+      },
+      {
+        "id": "6744ab1def61d56e020b5c56",
+        "name": "Protect the Sky",
+        "objectives": [
+          {
+            "zones": [],
+            "questItem": {
+              "id": "67499d4deca8acb2d206163b",
+              "shortName": "KOSA"
+            }
+          },
+          {
+            "zones": [],
+            "questItem": {
+              "id": "67499d4deca8acb2d206163b",
+              "shortName": "KOSA"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6744aca8d3346c216702c583",
+        "name": "Discombobulate",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "5e340dcdcb6d5863cc5e5efb",
+                "shortName": "VOG-25"
+              }
+            ],
+            "zones": [
+              {
+                "id": "Zone_for_RPG_1",
+                "position": {
+                  "x": -13.52002,
+                  "y": -3.12,
+                  "z": 49.71997
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "id": "5e340dcdcb6d5863cc5e5efb",
+                "shortName": "VOG-25"
+              }
+            ],
+            "zones": [
+              {
+                "id": "Zone_for_RPG_2",
+                "position": {
+                  "x": 238.969971,
+                  "y": -1.475,
+                  "z": -69.3800049
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "id": "5e340dcdcb6d5863cc5e5efb",
+                "shortName": "VOG-25"
+              }
+            ],
+            "zones": [
+              {
+                "id": "Zone_for_RPG_3",
+                "position": {
+                  "x": -92.52002,
+                  "y": 26.96,
+                  "z": -380.125
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "67a09761e720611a6a01f288",
+        "name": "Keeper's Word",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "5fc64ea372b0dd78d51159dc",
+                "shortName": "Knife"
+              }
+            ],
+            "zones": [
+              {
+                "id": "event_labyrinth_11_lightkeep_place_01",
+                "position": {
+                  "x": -23.2,
+                  "y": 1,
+                  "z": 19
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
+                }
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "id": "5fc64ea372b0dd78d51159dc",
+                "shortName": "Knife"
+              }
+            ],
+            "zones": [
+              {
+                "id": "event_labyrinth_11_lightkeep_place_02",
+                "position": {
+                  "x": 15.6,
+                  "y": 1,
+                  "z": 19
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
+                }
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "id": "5fc64ea372b0dd78d51159dc",
+                "shortName": "Knife"
+              }
+            ],
+            "zones": [
+              {
+                "id": "event_labyrinth_11_lightkeep_place_03 ",
+                "position": {
+                  "x": 9.2,
+                  "y": 1,
+                  "z": -14.8
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
+                }
+              }
+            ]
+          }
         ]
       },
       {
