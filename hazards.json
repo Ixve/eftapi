@@ -25548,10 +25548,6 @@
         ]
       },
       {
-        "nameId": "Terminal",
-        "hazards": []
-      },
-      {
         "nameId": "Labyrinth",
         "hazards": [
           {
@@ -26133,6 +26129,10 @@
       },
       {
         "nameId": "Sandbox_start",
+        "hazards": []
+      },
+      {
+        "nameId": "Terminal_ui",
         "hazards": []
       }
     ]
