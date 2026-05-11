@@ -13,7 +13,7 @@ TIMEOUT_SECONDS = 6.0
 MAX_ATTEMPTS_PER_DATASET = 3
 
 ITEMS_QUERY = (
-    "query Items { items { id name shortName category { parent { name } } avg24hPrice } }"
+    "query Items { items { id name shortName category { parent { name } } avg24hPrice usedInTasks { kappaRequired id name normalizedName } } }"
 )
 HAZARDS_QUERY = (
     "query Hazards { maps { nameId hazards { name outline { x y z } position { x y z } } } }"
