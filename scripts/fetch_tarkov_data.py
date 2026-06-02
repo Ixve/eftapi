@@ -13,7 +13,9 @@ TIMEOUT_SECONDS = 6.0
 MAX_ATTEMPTS_PER_DATASET = 3
 
 ITEMS_QUERY = (
-    "query Items { items { id name shortName category { parent { name } } avg24hPrice usedInTasks { kappaRequired id name } height sellFor { source priceRUB } width } }"
+    "query Items { items { id name shortName category { parent { name } } "
+    "avg24hPrice height width weight usedInTasks { kappaRequired id name } "
+    "sellFor { source priceRUB } } }"
 )
 HAZARDS_QUERY = (
     "query Hazards { maps { nameId hazards { name outline { x y z } position { x y z } } } }"
@@ -158,6 +160,88 @@ def write_json(path: Path, payload: dict) -> None:
     path.write_text(serialized + "\n", encoding="utf-8")
 
 
+def build_items(items_payload: dict) -> dict:
+    items = items_payload["data"]["items"]
+    out: dict = {}
+    count = 0
+    for it in items:
+        item_id = it.get("id")
+        if not item_id:
+            continue
+        name = it.get("name") or it.get("shortName") or "Unknown Item"
+        short = it.get("shortName") or name
+        avg = it.get("avg24hPrice") or 0
+
+        sell_for: dict = {}
+        trader_max = 0
+        flea_entry = None
+        for s in (it.get("sellFor") or []):
+            src = s.get("source")
+            price = s.get("priceRUB") or 0
+            if src:
+                sell_for[src] = int(price)
+            if src == "fleaMarket":
+                flea_entry = price
+            elif price > trader_max:
+                trader_max = price
+        has_flea = flea_entry is not None
+        flea = flea_entry if has_flea else avg
+        banned = 1 if (avg in (None, 0) and not has_flea) else 0
+
+        used_in_tasks: dict = {}
+        kappa = 0
+        for task in (it.get("usedInTasks") or []):
+            kr = 1 if task.get("kappaRequired") else 0
+            if kr:
+                kappa = 1
+            tid = task.get("id")
+            if tid:
+                used_in_tasks[tid] = {"k": kr, "n": task.get("name") or ""}
+
+        cat = ""
+        c = it.get("category")
+        if isinstance(c, dict):
+            p = c.get("parent")
+            if isinstance(p, dict):
+                cat = p.get("name") or ""
+
+        out[item_id] = {
+            "n": name,
+            "s": short,
+            "c": cat,
+            "a": int(avg or 0),
+            "h": int(it.get("height") or 0),
+            "w": int(it.get("width") or 0),
+            "wt": float(it.get("weight") or 0),
+            "t": int(trader_max),
+            "f": int(flea or 0),
+            "b": banned,
+            "k": kappa,
+            "sf": sell_for,
+            "ut": used_in_tasks,
+        }
+        count += 1
+    return {"count": count, "items": out}
+
+
+def write_items(path: Path, items_payload: dict) -> None:
+    total = len(items_payload["data"]["items"])
+    print(f"[convert] compacting {total} api items", flush=True)
+    compact = build_items(items_payload)
+    kept = compact["count"]
+    bad_ids = sum(1 for k in compact["items"] if len(k) != 24)
+    print(
+        f"[convert] kept {kept}/{total} items, skipped {total - kept} without id, "
+        f"{bad_ids} keys not 24-char",
+        flush=True,
+    )
+    if kept == 0:
+        raise FetchError("conversion produced 0 id-keyed items")
+    serialized = json.dumps(compact, ensure_ascii=True, separators=(",", ":"))
+    path.write_text(serialized, encoding="utf-8")
+    print(f"[convert] wrote {path.name} ({len(serialized)} bytes)", flush=True)
+
+
 def main() -> int:
     try:
         items_payload = fetch_dataset("items", ITEMS_QUERY, validate_items_payload)
@@ -167,7 +251,7 @@ def main() -> int:
         print(f"Fetch run failed: {err}", file=sys.stderr)
         return 1
 
-    write_json(ITEMS_OUTFILE, items_payload)
+    write_items(ITEMS_OUTFILE, items_payload)
     write_json(HAZARDS_OUTFILE, hazards_payload)
     write_json(ZONES_OUTFILE, zones_payload)
 
