@@ -72199,15 +72199,6 @@
           {
             "items": [
               {
-                "id": "5bc9c377d4351e3bac12251b",
-                "shortName": "Firesteel"
-              }
-            ],
-            "zones": []
-          },
-          {
-            "items": [
-              {
                 "id": "5bc9c1e2d4351e00367fbcf0",
                 "shortName": "Axe"
               }
@@ -72264,15 +72255,6 @@
               {
                 "id": "5bc9b720d4351e450201234b",
                 "shortName": "1GPhone"
-              }
-            ],
-            "zones": []
-          },
-          {
-            "items": [
-              {
-                "id": "5bc9b156d4351e00367fbce9",
-                "shortName": "Mayo"
               }
             ],
             "zones": []
@@ -72579,6 +72561,33 @@
               {
                 "id": "6937f02dfd6488bb27024839",
                 "shortName": "Domontovich"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "69f9d60b5de6674f08060f2a",
+                "shortName": "Dunduk"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "69f9d547b98cc4120608692a",
+                "shortName": "Desmond"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "69f9d319c906cd16da03b374",
+                "shortName": "SheefGG"
               }
             ],
             "zones": []
@@ -74021,6 +74030,180 @@
                 "shortName": "RUB"
               }
             ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69ce204c8702b378f9091e4b",
+        "name": "War Never Changes",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "69bb43df99f3fda8f1072483",
+                "shortName": "Nooby"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69ce21e990144e437802b1e0",
+        "name": "Fresh Stock",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "689479cb47e5acd1e10be986",
+                "shortName": "FCPC V5"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "689479eb30cc5ba7be00f5ff",
+                "shortName": "LV-119"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "69e2441a18cb3157560855ec",
+                "shortName": "LV-119"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "68947a4be4bf255d1b0ca746",
+                "shortName": "Siege-R"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69ce1cfb298a6529b30d712b",
+        "name": "A Wedge Between Us",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "69e2441a18cb3157560855ec",
+                "shortName": "LV-119"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69ce213a298a6529b30d7134",
+        "name": "Biochemistry",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "69bb435ff609db77390b0e25",
+                "shortName": "Aceso Xpress"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69c26c07683c9831020018c7",
+        "name": "Stick to It",
+        "objectives": [
+          {
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69c27158e350f01390049e77",
+        "name": "Saving Private Roman",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69c277f3ea6da9c23e07f8d2",
+        "name": "A Bitter Victory",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "5d1b376e86f774252519444e",
+                "shortName": "Moonshine"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "57347d3d245977448f7b7f61",
+                "shortName": "Croutons"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "5751487e245977207e26a315",
+                "shortName": "Emelya"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "5d40407c86f774318526545a",
+                "shortName": "Vodka"
+              }
+            ],
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "635a758bfefc88a93f021b8a",
+                "shortName": "Sausage"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69c2a2d004de49c8f0055a3d",
+        "name": "Hangover",
+        "objectives": [
+          {
             "zones": []
           }
         ]
