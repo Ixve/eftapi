@@ -72226,15 +72226,6 @@
           {
             "items": [
               {
-                "id": "5bc9bc53d4351e00367fbcee",
-                "shortName": "Rooster"
-              }
-            ],
-            "zones": []
-          },
-          {
-            "items": [
-              {
                 "id": "5bc9bdb8d4351e003562b8a1",
                 "shortName": "Badge"
               }
@@ -72262,26 +72253,8 @@
           {
             "items": [
               {
-                "id": "5bc9c29cd4351e003562b8a3",
-                "shortName": "Sprats"
-              }
-            ],
-            "zones": []
-          },
-          {
-            "items": [
-              {
                 "id": "5bd073a586f7747e6f135799",
                 "shortName": "Mustache"
-              }
-            ],
-            "zones": []
-          },
-          {
-            "items": [
-              {
-                "id": "5bd073c986f7747f627e796c",
-                "shortName": "Kotton"
               }
             ],
             "zones": []
