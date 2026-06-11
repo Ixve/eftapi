@@ -74008,6 +74008,21 @@
         ]
       },
       {
+        "id": "69ce1de03e15cd80bd06f6c9",
+        "name": "Oil Change",
+        "objectives": [
+          {
+            "items": [
+              {
+                "id": "699f09de81a6c812900a77b7",
+                "shortName": "AMG-10"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
         "id": "69ce204c8702b378f9091e4b",
         "name": "War Never Changes",
         "objectives": [
@@ -74091,6 +74106,50 @@
               {
                 "id": "69bb435ff609db77390b0e25",
                 "shortName": "Aceso Xpress"
+              }
+            ],
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69ce1f84ebbdbf36a200627c",
+        "name": "Peaceful Atom",
+        "objectives": [
+          {
+            "questItem": {
+              "id": "69bb42b9ce2b96840302b92b",
+              "shortName": "NPU"
+            },
+            "zones": []
+          },
+          {
+            "questItem": {
+              "id": "69bb42b9ce2b96840302b92b",
+              "shortName": "NPU"
+            },
+            "zones": []
+          }
+        ]
+      },
+      {
+        "id": "69e5583240c3e6c8ba0edbd5",
+        "name": "Wiring the Vessel",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {
+            "items": [
+              {
+                "id": "590c2e1186f77425357b6124",
+                "shortName": "Toolset"
               }
             ],
             "zones": []
