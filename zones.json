@@ -74137,13 +74137,13 @@
         "name": "Wiring the Vessel",
         "objectives": [
           {
-            "zones": []
-          },
-          {
-            "zones": []
-          },
-          {
-            "zones": []
+            "zones": [],
+            "items": [
+              {
+                "id": "590c2e1186f77425357b6124",
+                "shortName": "Toolset"
+              }
+            ]
           },
           {
             "zones": [],
@@ -74151,6 +74151,24 @@
               {
                 "id": "590c2e1186f77425357b6124",
                 "shortName": "Toolset"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "590c2e1186f77425357b6124",
+                "shortName": "Toolset"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "68e63a53371639e1e4004b6e",
+                "shortName": "LAN hack"
               }
             ]
           }
