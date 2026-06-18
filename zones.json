@@ -66917,6 +66917,152 @@
         ]
       },
       {
+        "id": "6761f28a022f60bb320f3e95",
+        "name": "Neuanfang",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {},
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c652d60d0ac437100fed7",
+                "shortName": "BEAR"
+              },
+              {
+                "id": "655c663a6689c676ce57af85",
+                "shortName": "USEC"
+              },
+              {
+                "id": "66572b8d80b1cd4b6a67847f",
+                "shortName": "Den"
+              },
+              {
+                "id": "68f26124b84c6e1f8a09cfff",
+                "shortName": "Tank"
+              },
+              {
+                "id": "6841b6b674a3c16f5e03d653",
+                "shortName": "Origins"
+              },
+              {
+                "id": "68f11224197b61ffe703b16f",
+                "shortName": "Hardened"
+              },
+              {
+                "id": "697cddb414e932098005748d",
+                "shortName": "Duck"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c673673a43e23e857aebd",
+                "shortName": "Scav"
+              },
+              {
+                "id": "655c67782a1356436041c9c5",
+                "shortName": "Ryzhy"
+              },
+              {
+                "id": "655c66e40b2de553b618d4b8",
+                "shortName": "Mutkevich"
+              },
+              {
+                "id": "68f261f6928cd23ddf0471fd",
+                "shortName": "Mastichin"
+              },
+              {
+                "id": "690c70a2a1461a01d605a1bd",
+                "shortName": "Elvisvista"
+              },
+              {
+                "id": "68f260d7b84c6e1f8a09cffd",
+                "shortName": "Cat"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "66572c82ad599021091c6118",
+                "shortName": "Killa"
+              },
+              {
+                "id": "66572cbdad599021091c611a",
+                "shortName": "Tagilla"
+              },
+              {
+                "id": "66572be36a723f7f005a066e",
+                "shortName": "Reshala"
+              },
+              {
+                "id": "655c67ab0d37ca5135388f4b",
+                "shortName": "Ded Moroz"
+              },
+              {
+                "id": "655c669103999d3c810c025b",
+                "shortName": "Cultist"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "68f25c64b2b53abd200b954f",
+                "shortName": "Prapor"
+              },
+              {
+                "id": "68f25ce9b2b53abd200b9551",
+                "shortName": "Therapist"
+              },
+              {
+                "id": "68f25da3b84c6e1f8a09cffb",
+                "shortName": "Fence"
+              },
+              {
+                "id": "68f25eba19a2b503d70dc28f",
+                "shortName": "Skier"
+              },
+              {
+                "id": "68f25eef19a2b503d70dc291",
+                "shortName": "Peacekeeper"
+              },
+              {
+                "id": "68f25f1201fb9de974058be4",
+                "shortName": "Mechanic"
+              },
+              {
+                "id": "68f25f3a5d977110860c3350",
+                "shortName": "Ragman"
+              },
+              {
+                "id": "68f25faa22c8979ee308f4da",
+                "shortName": "Jaeger"
+              },
+              {
+                "id": "68f25fdf928cd23ddf0471fb",
+                "shortName": "Lightkeeper"
+              },
+              {
+                "id": "68f26063b2b53abd200b9553",
+                "shortName": "Ref"
+              },
+              {
+                "id": "68f2608301fb9de974058be6",
+                "shortName": "BTR"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "5b4794cb86f774598100d5d4",
         "name": "Lend-Lease - Part 1",
         "objectives": [
@@ -68633,6 +68779,152 @@
         "name": "Scavenger",
         "objectives": [
           {}
+        ]
+      },
+      {
+        "id": "6761ff17cdc36bd66102e9d0",
+        "name": "Neuanfang",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {},
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c652d60d0ac437100fed7",
+                "shortName": "BEAR"
+              },
+              {
+                "id": "655c663a6689c676ce57af85",
+                "shortName": "USEC"
+              },
+              {
+                "id": "66572b8d80b1cd4b6a67847f",
+                "shortName": "Den"
+              },
+              {
+                "id": "68f26124b84c6e1f8a09cfff",
+                "shortName": "Tank"
+              },
+              {
+                "id": "6841b6b674a3c16f5e03d653",
+                "shortName": "Origins"
+              },
+              {
+                "id": "68f11224197b61ffe703b16f",
+                "shortName": "Hardened"
+              },
+              {
+                "id": "697cddb414e932098005748d",
+                "shortName": "Duck"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c673673a43e23e857aebd",
+                "shortName": "Scav"
+              },
+              {
+                "id": "655c67782a1356436041c9c5",
+                "shortName": "Ryzhy"
+              },
+              {
+                "id": "655c66e40b2de553b618d4b8",
+                "shortName": "Mutkevich"
+              },
+              {
+                "id": "68f261f6928cd23ddf0471fd",
+                "shortName": "Mastichin"
+              },
+              {
+                "id": "690c70a2a1461a01d605a1bd",
+                "shortName": "Elvisvista"
+              },
+              {
+                "id": "68f260d7b84c6e1f8a09cffd",
+                "shortName": "Cat"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "66572c82ad599021091c6118",
+                "shortName": "Killa"
+              },
+              {
+                "id": "66572cbdad599021091c611a",
+                "shortName": "Tagilla"
+              },
+              {
+                "id": "66572be36a723f7f005a066e",
+                "shortName": "Reshala"
+              },
+              {
+                "id": "655c67ab0d37ca5135388f4b",
+                "shortName": "Ded Moroz"
+              },
+              {
+                "id": "655c669103999d3c810c025b",
+                "shortName": "Cultist"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "68f25c64b2b53abd200b954f",
+                "shortName": "Prapor"
+              },
+              {
+                "id": "68f25ce9b2b53abd200b9551",
+                "shortName": "Therapist"
+              },
+              {
+                "id": "68f25da3b84c6e1f8a09cffb",
+                "shortName": "Fence"
+              },
+              {
+                "id": "68f25eba19a2b503d70dc28f",
+                "shortName": "Skier"
+              },
+              {
+                "id": "68f25eef19a2b503d70dc291",
+                "shortName": "Peacekeeper"
+              },
+              {
+                "id": "68f25f1201fb9de974058be4",
+                "shortName": "Mechanic"
+              },
+              {
+                "id": "68f25f3a5d977110860c3350",
+                "shortName": "Ragman"
+              },
+              {
+                "id": "68f25faa22c8979ee308f4da",
+                "shortName": "Jaeger"
+              },
+              {
+                "id": "68f25fdf928cd23ddf0471fb",
+                "shortName": "Lightkeeper"
+              },
+              {
+                "id": "68f26063b2b53abd200b9553",
+                "shortName": "Ref"
+              },
+              {
+                "id": "68f2608301fb9de974058be6",
+                "shortName": "BTR"
+              }
+            ]
+          }
         ]
       },
       {
@@ -70617,6 +70909,156 @@
         ]
       },
       {
+        "id": "6848100b00afffa81f09e365",
+        "name": "Neuanfang",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {},
+          {},
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c652d60d0ac437100fed7",
+                "shortName": "BEAR"
+              },
+              {
+                "id": "655c663a6689c676ce57af85",
+                "shortName": "USEC"
+              },
+              {
+                "id": "66572b8d80b1cd4b6a67847f",
+                "shortName": "Den"
+              },
+              {
+                "id": "68f26124b84c6e1f8a09cfff",
+                "shortName": "Tank"
+              },
+              {
+                "id": "6841b6b674a3c16f5e03d653",
+                "shortName": "Origins"
+              },
+              {
+                "id": "68f11224197b61ffe703b16f",
+                "shortName": "Hardened"
+              },
+              {
+                "id": "697cddb414e932098005748d",
+                "shortName": "Duck"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c673673a43e23e857aebd",
+                "shortName": "Scav"
+              },
+              {
+                "id": "655c67782a1356436041c9c5",
+                "shortName": "Ryzhy"
+              },
+              {
+                "id": "655c66e40b2de553b618d4b8",
+                "shortName": "Mutkevich"
+              },
+              {
+                "id": "68f261f6928cd23ddf0471fd",
+                "shortName": "Mastichin"
+              },
+              {
+                "id": "690c70a2a1461a01d605a1bd",
+                "shortName": "Elvisvista"
+              },
+              {
+                "id": "68f260d7b84c6e1f8a09cffd",
+                "shortName": "Cat"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "66572c82ad599021091c6118",
+                "shortName": "Killa"
+              },
+              {
+                "id": "66572cbdad599021091c611a",
+                "shortName": "Tagilla"
+              },
+              {
+                "id": "66572be36a723f7f005a066e",
+                "shortName": "Reshala"
+              },
+              {
+                "id": "655c67ab0d37ca5135388f4b",
+                "shortName": "Ded Moroz"
+              },
+              {
+                "id": "655c669103999d3c810c025b",
+                "shortName": "Cultist"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "68f25c64b2b53abd200b954f",
+                "shortName": "Prapor"
+              },
+              {
+                "id": "68f25ce9b2b53abd200b9551",
+                "shortName": "Therapist"
+              },
+              {
+                "id": "68f25da3b84c6e1f8a09cffb",
+                "shortName": "Fence"
+              },
+              {
+                "id": "68f25eba19a2b503d70dc28f",
+                "shortName": "Skier"
+              },
+              {
+                "id": "68f25eef19a2b503d70dc291",
+                "shortName": "Peacekeeper"
+              },
+              {
+                "id": "68f25f1201fb9de974058be4",
+                "shortName": "Mechanic"
+              },
+              {
+                "id": "68f25f3a5d977110860c3350",
+                "shortName": "Ragman"
+              },
+              {
+                "id": "68f25faa22c8979ee308f4da",
+                "shortName": "Jaeger"
+              },
+              {
+                "id": "68f25fdf928cd23ddf0471fb",
+                "shortName": "Lightkeeper"
+              },
+              {
+                "id": "68f26063b2b53abd200b9553",
+                "shortName": "Ref"
+              },
+              {
+                "id": "68f2608301fb9de974058be6",
+                "shortName": "BTR"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "67e993b1ac26bf29380a320b",
         "name": "Surprise Gift [PVP ZONE]",
         "objectives": [
@@ -71545,6 +71987,157 @@
         "name": "Gunsmith - Part 25",
         "objectives": [
           {}
+        ]
+      },
+      {
+        "id": "68481881f43abfdda2058369",
+        "name": "Neuanfang",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {},
+          {},
+          {},
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c652d60d0ac437100fed7",
+                "shortName": "BEAR"
+              },
+              {
+                "id": "655c663a6689c676ce57af85",
+                "shortName": "USEC"
+              },
+              {
+                "id": "66572b8d80b1cd4b6a67847f",
+                "shortName": "Den"
+              },
+              {
+                "id": "68f26124b84c6e1f8a09cfff",
+                "shortName": "Tank"
+              },
+              {
+                "id": "6841b6b674a3c16f5e03d653",
+                "shortName": "Origins"
+              },
+              {
+                "id": "68f11224197b61ffe703b16f",
+                "shortName": "Hardened"
+              },
+              {
+                "id": "697cddb414e932098005748d",
+                "shortName": "Duck"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "655c673673a43e23e857aebd",
+                "shortName": "Scav"
+              },
+              {
+                "id": "655c67782a1356436041c9c5",
+                "shortName": "Ryzhy"
+              },
+              {
+                "id": "655c66e40b2de553b618d4b8",
+                "shortName": "Mutkevich"
+              },
+              {
+                "id": "68f261f6928cd23ddf0471fd",
+                "shortName": "Mastichin"
+              },
+              {
+                "id": "690c70a2a1461a01d605a1bd",
+                "shortName": "Elvisvista"
+              },
+              {
+                "id": "68f260d7b84c6e1f8a09cffd",
+                "shortName": "Cat"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "66572c82ad599021091c6118",
+                "shortName": "Killa"
+              },
+              {
+                "id": "66572cbdad599021091c611a",
+                "shortName": "Tagilla"
+              },
+              {
+                "id": "66572be36a723f7f005a066e",
+                "shortName": "Reshala"
+              },
+              {
+                "id": "655c67ab0d37ca5135388f4b",
+                "shortName": "Ded Moroz"
+              },
+              {
+                "id": "655c669103999d3c810c025b",
+                "shortName": "Cultist"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "68f25c64b2b53abd200b954f",
+                "shortName": "Prapor"
+              },
+              {
+                "id": "68f25ce9b2b53abd200b9551",
+                "shortName": "Therapist"
+              },
+              {
+                "id": "68f25da3b84c6e1f8a09cffb",
+                "shortName": "Fence"
+              },
+              {
+                "id": "68f25eba19a2b503d70dc28f",
+                "shortName": "Skier"
+              },
+              {
+                "id": "68f25eef19a2b503d70dc291",
+                "shortName": "Peacekeeper"
+              },
+              {
+                "id": "68f25f1201fb9de974058be4",
+                "shortName": "Mechanic"
+              },
+              {
+                "id": "68f25f3a5d977110860c3350",
+                "shortName": "Ragman"
+              },
+              {
+                "id": "68f25faa22c8979ee308f4da",
+                "shortName": "Jaeger"
+              },
+              {
+                "id": "68f25fdf928cd23ddf0471fb",
+                "shortName": "Lightkeeper"
+              },
+              {
+                "id": "68f26063b2b53abd200b9553",
+                "shortName": "Ref"
+              },
+              {
+                "id": "68f2608301fb9de974058be6",
+                "shortName": "BTR"
+              }
+            ]
+          }
         ]
       },
       {
@@ -72784,413 +73377,6 @@
         ]
       },
       {
-        "id": "6761f28a022f60bb320f3e95",
-        "name": "New Beginning",
-        "objectives": [
-          {},
-          {
-            "zones": []
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c652d60d0ac437100fed7",
-                "shortName": "BEAR"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c66e40b2de553b618d4b8",
-                "shortName": "Mutkevich"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572c82ad599021091c6118",
-                "shortName": "Killa"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572be36a723f7f005a066e",
-                "shortName": "Reshala"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c67782a1356436041c9c5",
-                "shortName": "Ryzhy"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c673673a43e23e857aebd",
-                "shortName": "Scav"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572cbdad599021091c611a",
-                "shortName": "Tagilla"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c663a6689c676ce57af85",
-                "shortName": "USEC"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c669103999d3c810c025b",
-                "shortName": "Cultist"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572b8d80b1cd4b6a67847f",
-                "shortName": "Den"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "6761ff17cdc36bd66102e9d0",
-        "name": "New Beginning",
-        "objectives": [
-          {},
-          {
-            "zones": []
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c652d60d0ac437100fed7",
-                "shortName": "BEAR"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c66e40b2de553b618d4b8",
-                "shortName": "Mutkevich"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572c82ad599021091c6118",
-                "shortName": "Killa"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572be36a723f7f005a066e",
-                "shortName": "Reshala"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c67782a1356436041c9c5",
-                "shortName": "Ryzhy"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c673673a43e23e857aebd",
-                "shortName": "Scav"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572cbdad599021091c611a",
-                "shortName": "Tagilla"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c663a6689c676ce57af85",
-                "shortName": "USEC"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c669103999d3c810c025b",
-                "shortName": "Cultist"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572b8d80b1cd4b6a67847f",
-                "shortName": "Den"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "6848100b00afffa81f09e365",
-        "name": "New Beginning",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": []
-          },
-          {},
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c652d60d0ac437100fed7",
-                "shortName": "BEAR"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c66e40b2de553b618d4b8",
-                "shortName": "Mutkevich"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572c82ad599021091c6118",
-                "shortName": "Killa"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572be36a723f7f005a066e",
-                "shortName": "Reshala"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c67782a1356436041c9c5",
-                "shortName": "Ryzhy"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c673673a43e23e857aebd",
-                "shortName": "Scav"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572cbdad599021091c611a",
-                "shortName": "Tagilla"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c663a6689c676ce57af85",
-                "shortName": "USEC"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c669103999d3c810c025b",
-                "shortName": "Cultist"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572b8d80b1cd4b6a67847f",
-                "shortName": "Den"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "68481881f43abfdda2058369",
-        "name": "New Beginning",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": []
-          },
-          {},
-          {},
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c652d60d0ac437100fed7",
-                "shortName": "BEAR"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c66e40b2de553b618d4b8",
-                "shortName": "Mutkevich"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572c82ad599021091c6118",
-                "shortName": "Killa"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572be36a723f7f005a066e",
-                "shortName": "Reshala"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c67782a1356436041c9c5",
-                "shortName": "Ryzhy"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c673673a43e23e857aebd",
-                "shortName": "Scav"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572cbdad599021091c611a",
-                "shortName": "Tagilla"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c663a6689c676ce57af85",
-                "shortName": "USEC"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "655c669103999d3c810c025b",
-                "shortName": "Cultist"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "66572b8d80b1cd4b6a67847f",
-                "shortName": "Den"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "id": "60e71ccb5688f6424c7bfec4",
         "name": "Trophies",
         "objectives": [
@@ -74217,12 +74403,7 @@
               {
                 "id": "57347d3d245977448f7b7f61",
                 "shortName": "Croutons"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
+              },
               {
                 "id": "5751487e245977207e26a315",
                 "shortName": "Emelya"
@@ -74246,7 +74427,8 @@
                 "shortName": "Sausage"
               }
             ]
-          }
+          },
+          {}
         ]
       },
       {
