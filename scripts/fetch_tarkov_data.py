@@ -55,6 +55,11 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 ITEMS_OUTFILE = REPO_ROOT / "items.json"
 HAZARDS_OUTFILE = REPO_ROOT / "hazards.json"
 ZONES_OUTFILE = REPO_ROOT / "zones.json"
+HASHES_OUTFILE = REPO_ROOT / "hashes"
+
+FNV1A64_OFFSET = 1469598103934665603
+FNV1A64_PRIME = 1099511628211
+UINT64_MASK = (1 << 64) - 1
 
 
 class FetchError(RuntimeError):
@@ -155,9 +160,19 @@ def fetch_dataset(name: str, query: str, validator) -> dict:
     )
 
 
-def write_json(path: Path, payload: dict) -> None:
+def fnv1a64_text(data: str) -> int:
+    h = FNV1A64_OFFSET
+    for b in data.encode("utf-8"):
+        h ^= b
+        h = (h * FNV1A64_PRIME) & UINT64_MASK
+    return h or 1
+
+
+def write_json(path: Path, payload: dict) -> str:
     serialized = json.dumps(payload, indent=2)
-    path.write_text(serialized + "\n", encoding="utf-8")
+    content = serialized + "\n"
+    path.write_text(content, encoding="utf-8")
+    return content
 
 
 def build_items(items_payload: dict) -> dict:
@@ -224,7 +239,7 @@ def build_items(items_payload: dict) -> dict:
     return {"count": count, "items": out}
 
 
-def write_items(path: Path, items_payload: dict) -> None:
+def write_items(path: Path, items_payload: dict) -> str:
     total = len(items_payload["data"]["items"])
     print(f"[convert] compacting {total} api items", flush=True)
     compact = build_items(items_payload)
@@ -240,6 +255,17 @@ def write_items(path: Path, items_payload: dict) -> None:
     serialized = json.dumps(compact, ensure_ascii=True, separators=(",", ":"))
     path.write_text(serialized, encoding="utf-8")
     print(f"[convert] wrote {path.name} ({len(serialized)} bytes)", flush=True)
+    return serialized
+
+
+def write_hashes(path: Path, items_text: str, hazards_text: str, zones_text: str) -> None:
+    hashes = [
+        fnv1a64_text(items_text),
+        fnv1a64_text(hazards_text),
+        fnv1a64_text(zones_text),
+    ]
+    path.write_text("\n".join(str(h) for h in hashes) + "\n", encoding="utf-8")
+    print(f"[hashes] wrote {path.name}", flush=True)
 
 
 def main() -> int:
@@ -251,12 +277,14 @@ def main() -> int:
         print(f"Fetch run failed: {err}", file=sys.stderr)
         return 1
 
-    write_items(ITEMS_OUTFILE, items_payload)
-    write_json(HAZARDS_OUTFILE, hazards_payload)
-    write_json(ZONES_OUTFILE, zones_payload)
+    items_text = write_items(ITEMS_OUTFILE, items_payload)
+    hazards_text = write_json(HAZARDS_OUTFILE, hazards_payload)
+    zones_text = write_json(ZONES_OUTFILE, zones_payload)
+    write_hashes(HASHES_OUTFILE, items_text, hazards_text, zones_text)
 
     print(
-        f"Wrote {ITEMS_OUTFILE.name}, {HAZARDS_OUTFILE.name}, and {ZONES_OUTFILE.name}"
+        f"Wrote {ITEMS_OUTFILE.name}, {HAZARDS_OUTFILE.name}, "
+        f"{ZONES_OUTFILE.name}, and {HASHES_OUTFILE.name}"
     )
     return 0
 

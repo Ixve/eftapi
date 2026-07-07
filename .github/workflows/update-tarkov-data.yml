@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit updated data
         run: |
-          git add items.json hazards.json zones.json
+          git add items.json hazards.json zones.json hashes
           if git diff --cached --quiet; then
             echo "No data changes to commit."
             exit 0
