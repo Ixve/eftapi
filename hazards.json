@@ -26138,6 +26138,10 @@
       {
         "nameId": "Icebreaker",
         "hazards": []
+      },
+      {
+        "nameId": "laboratory_dark",
+        "hazards": []
       }
     ]
   }
