@@ -2,7 +2,7 @@ name: Update Tarkov Data
 
 on:
   schedule:
-    - cron: "* */8 * * *"
+    - cron: "* */16 * * *"
   workflow_dispatch:
 
 permissions:
