@@ -7,49 +7,50 @@ from pathlib import Path
 
 import requests
 
-API_URL = "https://api.tarkov.dev/graphql"
+BASE_URL = "https://json.tarkov.dev"
+GAME_MODE = "regular"
+LANGUAGE = "en"
 USER_AGENT = "eftapi-cache-updater/1.0"
-TIMEOUT_SECONDS = 6.0
+TIMEOUT_SECONDS = 30.0
 MAX_ATTEMPTS_PER_DATASET = 3
 
-ITEMS_QUERY = (
-    "query Items { items { id name shortName category { parent { name } } "
-    "avg24hPrice height width weight usedInTasks { kappaRequired id name } "
-    "sellFor { source priceRUB } } }"
+# The JSON API serves whole datasets keyed by id and stores every localized
+# string as a "<id> Name" placeholder. Real text lives in a sibling dictionary
+# at <endpoint>_<lang> that maps placeholder -> string.
+DATASETS = (
+    ("items", f"/{GAME_MODE}/items", ("items", "itemCategories")),
+    ("items_lang", f"/{GAME_MODE}/items_{LANGUAGE}", ()),
+    ("maps", f"/{GAME_MODE}/maps", ("maps",)),
+    ("maps_lang", f"/{GAME_MODE}/maps_{LANGUAGE}", ()),
+    ("tasks", f"/{GAME_MODE}/tasks", ("tasks", "questItems")),
+    ("tasks_lang", f"/{GAME_MODE}/tasks_{LANGUAGE}", ()),
+    ("traders", f"/{GAME_MODE}/traders", ()),
 )
-HAZARDS_QUERY = (
-    "query Hazards { maps { nameId hazards { name outline { x y z } position { x y z } } } }"
+
+# Objective type -> GraphQL type, mirroring TaskObjective.__resolveType in
+# tarkov-api. The old ZONES_QUERY spread fragments over QuestItem, Mark, Item,
+# Shoot, Basic and UseItem; anything else resolved to a type the query did not
+# ask about and came back as an empty object.
+QUEST_ITEM_TYPES = frozenset(("findQuestItem", "giveQuestItem", "plantQuestItem"))
+ITEM_TYPES = frozenset(("findItem", "giveItem", "plantItem", "sellItem", "haveItem"))
+UNSELECTED_TYPES = frozenset((
+    "extract", "hideoutStation", "skill", "traderLevel", "taskStatus",
+    "playerLevel", "experience", "buildWeapon", "traderStanding",
+))
+
+# Objective fields that make a task count as "uses this item", matching
+# getTasksRequiringItem in tarkov-api.
+USED_IN_TASK_FIELDS = (
+    "item", "markerItem", "containsOne", "containsAll",
+    "wearing", "usingWeapon", "usingWeaponMods",
 )
-ZONES_QUERY = (
-    "query Zones { "
-    "tasks { "
-    "id "
-    "name "
-    "objectives { "
-    "... on TaskObjectiveQuestItem { "
-    "questItem { id shortName } "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "... on TaskObjectiveMark { "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "... on TaskObjectiveItem { "
-    "items { id shortName } "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "... on TaskObjectiveShoot { "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "... on TaskObjectiveBasic { "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "... on TaskObjectiveUseItem { "
-    "zones { id map { normalizedName } position { x y z } } "
-    "} "
-    "} "
-    "} "
-    "}"
-)
+
+# getTasksRequiringItem also tests the singular `obj.item`, which the JSON API
+# no longer emits for item objectives -- it folds that value into `items`. A
+# one-entry `items` is therefore the old singular field, while a longer list is
+# an "any of these" set that GraphQL never counted. Including whole lists here
+# inflates the index from ~640 items to ~3600.
+USED_IN_TASK_SINGLETON_FIELD = "items"
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 ITEMS_OUTFILE = REPO_ROOT / "items.json"
@@ -66,12 +67,12 @@ class FetchError(RuntimeError):
     pass
 
 
-def post_graphql(query: str) -> dict:
+def get_json(path: str, required_keys: tuple) -> dict:
+    url = BASE_URL + path
     try:
-        response = requests.post(
-            API_URL,
-            json={"query": query},
-            headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+        response = requests.get(
+            url,
+            headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
             timeout=TIMEOUT_SECONDS,
         )
     except requests.RequestException as err:
@@ -88,14 +89,196 @@ def post_graphql(query: str) -> dict:
     if not isinstance(parsed, dict):
         raise FetchError("Response root is not a JSON object")
 
-    errors = parsed.get("errors")
-    if isinstance(errors, list) and len(errors) > 0:
-        raise FetchError(f"GraphQL returned errors: {json.dumps(errors)[:400]}")
+    data = parsed.get("data")
+    if not isinstance(data, dict) or len(data) == 0:
+        raise FetchError("Response is missing a non-empty 'data' object")
 
-    if "data" not in parsed or not isinstance(parsed["data"], dict):
-        raise FetchError("GraphQL response missing valid 'data' object")
+    for key in required_keys:
+        section = data.get(key)
+        if not isinstance(section, dict) or len(section) == 0:
+            raise FetchError(f"Response is missing a non-empty data.{key} object")
 
-    return parsed
+    return data
+
+
+def fetch_dataset(name: str, path: str, required_keys: tuple) -> dict:
+    last_error = None
+    for attempt in range(1, MAX_ATTEMPTS_PER_DATASET + 1):
+        print(f"[{name}] attempt {attempt}/{MAX_ATTEMPTS_PER_DATASET}", flush=True)
+        try:
+            data = get_json(path, required_keys)
+            print(f"[{name}] response validated ({len(data)} sections)", flush=True)
+            return data
+        except FetchError as err:
+            last_error = err
+            print(f"[{name}] failed: {err}", file=sys.stderr, flush=True)
+            if attempt < MAX_ATTEMPTS_PER_DATASET:
+                time.sleep(attempt)
+
+    raise FetchError(
+        f"{name} failed after {MAX_ATTEMPTS_PER_DATASET} attempts: {last_error}"
+    )
+
+
+def xyz(point) -> dict:
+    if not isinstance(point, dict):
+        return None
+    return {"x": point.get("x"), "y": point.get("y"), "z": point.get("z")}
+
+
+def collect_item_ids(value, out: list) -> None:
+    if isinstance(value, str):
+        out.append(value)
+    elif isinstance(value, dict):
+        if isinstance(value.get("id"), str):
+            out.append(value["id"])
+    elif isinstance(value, list):
+        for entry in value:
+            collect_item_ids(entry, out)
+
+
+def build_used_in_tasks(tasks: dict, tasks_lang: dict) -> dict:
+    index = {}
+    for task_id, task in tasks["tasks"].items():
+        entry = {
+            "kappaRequired": bool(task.get("kappaRequired")),
+            "id": task_id,
+            "name": tasks_lang.get(task.get("name"), task.get("name")),
+        }
+        referenced = []
+        for objective in task.get("objectives") or []:
+            for field in USED_IN_TASK_FIELDS:
+                if field in objective:
+                    collect_item_ids(objective[field], referenced)
+            singleton = objective.get(USED_IN_TASK_SINGLETON_FIELD)
+            if isinstance(singleton, list) and len(singleton) == 1:
+                collect_item_ids(singleton, referenced)
+        for item_id in dict.fromkeys(referenced):
+            index.setdefault(item_id, []).append(entry)
+    return index
+
+
+def build_items_payload(items: dict, items_lang: dict, traders: dict,
+                        tasks: dict, tasks_lang: dict) -> dict:
+    categories = items["itemCategories"]
+    trader_names = {tid: t.get("normalizedName") for tid, t in traders.items()}
+    used_in_tasks = build_used_in_tasks(tasks, tasks_lang)
+
+    out = []
+    for item_id, item in items["items"].items():
+        # GraphQL exposed a single `category`; the JSON API lists the whole
+        # ancestry, most specific first.
+        category = None
+        item_categories = item.get("categories") or []
+        if item_categories and item_categories[0] in categories:
+            parent_id = categories[item_categories[0]].get("parent")
+            if parent_id in categories:
+                parent_name = categories[parent_id].get("name")
+                category = {"parent": {"name": items_lang.get(parent_name, parent_name)}}
+
+        sell_for = []
+        for offer in item.get("sellToTrader") or []:
+            source = trader_names.get(offer.get("trader"))
+            if source:
+                sell_for.append({"source": source, "priceRUB": offer.get("priceRUB")})
+
+        # Matches the flea entry tarkov-api pushes onto sellFor: lastLowPrice,
+        # and only when the item is actually tradable.
+        last_low = item.get("lastLowPrice")
+        if "noFlea" not in (item.get("types") or []) and last_low:
+            sell_for.append({"source": "fleaMarket", "priceRUB": last_low})
+
+        name = item.get("name")
+        short_name = item.get("shortName")
+        out.append({
+            "id": item_id,
+            "name": items_lang.get(name, name),
+            "shortName": items_lang.get(short_name, short_name),
+            "category": category,
+            "avg24hPrice": item.get("avg24hPrice"),
+            "height": item.get("height"),
+            "width": item.get("width"),
+            "weight": item.get("weight"),
+            "usedInTasks": used_in_tasks.get(item_id, []),
+            "sellFor": sell_for,
+        })
+
+    return {"data": {"items": out}}
+
+
+def build_hazards_payload(maps: dict, maps_lang: dict) -> dict:
+    out = []
+    for map_entry in maps["maps"].values():
+        hazards = []
+        for hazard in map_entry.get("hazards") or []:
+            name = hazard.get("name")
+            outline = hazard.get("outline")
+            hazards.append({
+                "name": maps_lang.get(name, name),
+                "outline": [xyz(p) for p in outline] if isinstance(outline, list) else None,
+                "position": xyz(hazard.get("position")),
+            })
+        out.append({"nameId": map_entry.get("nameId"), "hazards": hazards})
+    return {"data": {"maps": out}}
+
+
+def build_zones_payload(tasks: dict, tasks_lang: dict, items: dict,
+                        items_lang: dict, maps: dict) -> dict:
+    map_names = {mid: m.get("normalizedName") for mid, m in maps["maps"].items()}
+    item_records = items["items"]
+    quest_items = tasks["questItems"]
+
+    def short_name(record, table):
+        value = record.get("shortName")
+        return table.get(value, value)
+
+    def zone_list(objective):
+        out = []
+        for zone in objective.get("zones") or []:
+            out.append({
+                "id": zone.get("id"),
+                "position": xyz(zone.get("position")),
+                # GraphQL nested the map object; the JSON API stores its id.
+                "map": {"normalizedName": map_names.get(zone.get("map"))},
+            })
+        return out
+
+    out = []
+    for task_id, task in tasks["tasks"].items():
+        objectives = []
+        for objective in task.get("objectives") or []:
+            kind = objective.get("type")
+            if kind in QUEST_ITEM_TYPES:
+                quest_item = None
+                record = quest_items.get(objective.get("questItem"))
+                if record:
+                    quest_item = {
+                        "id": record.get("id"),
+                        "shortName": short_name(record, tasks_lang),
+                    }
+                objectives.append({"zones": zone_list(objective), "questItem": quest_item})
+            elif kind in ITEM_TYPES:
+                referenced = []
+                for item_id in objective.get("items") or []:
+                    record = item_records.get(item_id)
+                    if record:
+                        referenced.append({
+                            "id": item_id,
+                            "shortName": short_name(record, items_lang),
+                        })
+                objectives.append({"zones": zone_list(objective), "items": referenced})
+            elif kind in UNSELECTED_TYPES:
+                objectives.append({})
+            else:
+                objectives.append({"zones": zone_list(objective)})
+
+        out.append({
+            "id": task_id,
+            "name": tasks_lang.get(task.get("name"), task.get("name")),
+            "objectives": objectives,
+        })
+
+    return {"data": {"tasks": out}}
 
 
 def validate_items_payload(payload: dict) -> None:
@@ -125,6 +308,9 @@ def validate_hazards_payload(payload: dict) -> None:
     if not isinstance(first, dict) or "nameId" not in first or "hazards" not in first:
         raise FetchError("Hazards payload is missing expected map fields")
 
+    if not any(m.get("hazards") for m in maps_data):
+        raise FetchError("Hazards payload has no hazards on any map")
+
 
 def validate_zones_payload(payload: dict) -> None:
     data = payload.get("data")
@@ -139,25 +325,12 @@ def validate_zones_payload(payload: dict) -> None:
     if not isinstance(first, dict) or "id" not in first or "objectives" not in first:
         raise FetchError("Zones payload is missing expected task fields")
 
-
-def fetch_dataset(name: str, query: str, validator) -> dict:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS_PER_DATASET + 1):
-        print(f"[{name}] attempt {attempt}/{MAX_ATTEMPTS_PER_DATASET}", flush=True)
-        try:
-            payload = post_graphql(query)
-            validator(payload)
-            print(f"[{name}] response validated", flush=True)
-            return payload
-        except FetchError as err:
-            last_error = err
-            print(f"[{name}] failed: {err}", file=sys.stderr, flush=True)
-            if attempt < MAX_ATTEMPTS_PER_DATASET:
-                time.sleep(attempt)
-
-    raise FetchError(
-        f"{name} failed after {MAX_ATTEMPTS_PER_DATASET} attempts: {last_error}"
-    )
+    zones = 0
+    for task in tasks:
+        for objective in task["objectives"]:
+            zones += len(objective.get("zones") or [])
+    if zones == 0:
+        raise FetchError("Zones payload has no zones on any objective")
 
 
 def fnv1a64_text(data: str) -> int:
@@ -270,9 +443,23 @@ def write_hashes(path: Path, items_text: str, hazards_text: str, zones_text: str
 
 def main() -> int:
     try:
-        items_payload = fetch_dataset("items", ITEMS_QUERY, validate_items_payload)
-        hazards_payload = fetch_dataset("hazards", HAZARDS_QUERY, validate_hazards_payload)
-        zones_payload = fetch_dataset("zones", ZONES_QUERY, validate_zones_payload)
+        raw = {}
+        for name, path, required_keys in DATASETS:
+            raw[name] = fetch_dataset(name, path, required_keys)
+
+        items_payload = build_items_payload(
+            raw["items"], raw["items_lang"], raw["traders"],
+            raw["tasks"], raw["tasks_lang"],
+        )
+        hazards_payload = build_hazards_payload(raw["maps"], raw["maps_lang"])
+        zones_payload = build_zones_payload(
+            raw["tasks"], raw["tasks_lang"], raw["items"],
+            raw["items_lang"], raw["maps"],
+        )
+
+        validate_items_payload(items_payload)
+        validate_hazards_payload(hazards_payload)
+        validate_zones_payload(zones_payload)
     except FetchError as err:
         print(f"Fetch run failed: {err}", file=sys.stderr)
         return 1
