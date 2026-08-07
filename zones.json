@@ -1147,56 +1147,56 @@
               {
                 "id": "exit777",
                 "position": {
-                  "x": -41.5100021,
-                  "y": -12.633,
-                  "z": 122.67
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": 463.18,
-                  "y": -1.46,
-                  "z": -112.36
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": -41.5100021,
-                  "y": -12.633,
-                  "z": 122.67
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": 463.18,
-                  "y": -1.46,
-                  "z": -112.36
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
                   "x": 19.443,
                   "y": 1.07,
                   "z": 0.495
                 },
                 "map": {
                   "normalizedName": "the-labyrinth"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": -41.5100021,
+                  "y": -12.633,
+                  "z": 122.67
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 463.18,
+                  "y": -1.46,
+                  "z": -112.36
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": -41.5100021,
+                  "y": -12.633,
+                  "z": 122.67
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 463.18,
+                  "y": -1.46,
+                  "z": -112.36
+                },
+                "map": {
+                  "normalizedName": "customs"
                 }
               }
             ]
