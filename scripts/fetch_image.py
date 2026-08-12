@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import json
 import re
 import sys
 import threading
@@ -24,6 +25,7 @@ BACKOFF_CAP_SECONDS = 30.0
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 IMAGE_DIR = REPO_ROOT / "images"
+INDEX_PATH = IMAGE_DIR / "index.json"
 
 UNSAFE_CHARS = re.compile(r'[<>:"/\\|?*\x00-\x1f]')
 
@@ -149,6 +151,21 @@ def download(target):
     print(f"[image] failed {item_id}", file=sys.stderr, flush=True)
 
 
+def write_index(targets):
+    index = {
+        item_id: dest.relative_to(IMAGE_DIR).as_posix()
+        for item_id, dest in targets
+        if dest.exists() and dest.stat().st_size > 0
+    }
+    temp = INDEX_PATH.with_suffix(".part")
+    temp.write_text(
+        json.dumps(index, separators=(",", ":"), sort_keys=True),
+        encoding="utf-8",
+    )
+    temp.replace(INDEX_PATH)
+    return len(index)
+
+
 def main():
     try:
         data = get_json(f"/{GAME_MODE}/items")
@@ -166,9 +183,11 @@ def main():
             if index % 250 == 0:
                 print(f"[image] {index}/{len(targets)}", flush=True)
 
+    indexed = write_index(targets)
     print(
         f"[image] saved {_counts['saved']}, skipped {_counts['skipped']}, "
-        f"missing {_counts['missing']}, failed {_counts['failed']}",
+        f"missing {_counts['missing']}, failed {_counts['failed']}, "
+        f"indexed {indexed}",
         flush=True,
     )
     return 1 if _counts["failed"] > 0 else 0

@@ -20,7 +20,7 @@ MAX_ATTEMPTS_PER_DATASET = 3
 DATASETS = (
     ("items", f"/{GAME_MODE}/items", ("items", "itemCategories")),
     ("items_lang", f"/{GAME_MODE}/items_{LANGUAGE}", ()),
-    ("maps", f"/{GAME_MODE}/maps", ("maps",)),
+    ("maps", f"/{GAME_MODE}/maps", ("maps", "lootContainers")),
     ("maps_lang", f"/{GAME_MODE}/maps_{LANGUAGE}", ()),
     ("tasks", f"/{GAME_MODE}/tasks", ("tasks", "questItems")),
     ("tasks_lang", f"/{GAME_MODE}/tasks_{LANGUAGE}", ()),
@@ -158,8 +158,23 @@ def build_used_in_tasks(tasks: dict, tasks_lang: dict) -> dict:
     return index
 
 
+def build_loot_containers(maps: dict, maps_lang: dict) -> list:
+    # Static world containers are not in the items dataset; they live under
+    # maps.lootContainers, with names placeheld against maps_<lang>.
+    out = []
+    for container_id, container in maps["lootContainers"].items():
+        name = container.get("name")
+        out.append({
+            "id": container_id,
+            "name": maps_lang.get(name, name),
+            "normalizedName": container.get("normalizedName"),
+        })
+    return out
+
+
 def build_items_payload(items: dict, items_lang: dict, traders: dict,
-                        tasks: dict, tasks_lang: dict) -> dict:
+                        tasks: dict, tasks_lang: dict,
+                        maps: dict, maps_lang: dict) -> dict:
     categories = items["itemCategories"]
     trader_names = {tid: t.get("normalizedName") for tid, t in traders.items()}
     used_in_tasks = build_used_in_tasks(tasks, tasks_lang)
@@ -203,7 +218,7 @@ def build_items_payload(items: dict, items_lang: dict, traders: dict,
             "sellFor": sell_for,
         })
 
-    return {"data": {"items": out}}
+    return {"data": {"items": out, "lootContainers": build_loot_containers(maps, maps_lang)}}
 
 
 def build_hazards_payload(maps: dict, maps_lang: dict) -> dict:
@@ -293,6 +308,14 @@ def validate_items_payload(payload: dict) -> None:
     first = items[0]
     if not isinstance(first, dict) or "id" not in first or "shortName" not in first:
         raise FetchError("Items payload is missing expected item fields")
+
+    containers = data.get("lootContainers")
+    if not isinstance(containers, list) or len(containers) == 0:
+        raise FetchError("Items payload is missing a non-empty data.lootContainers array")
+
+    first_container = containers[0]
+    if not isinstance(first_container, dict) or "id" not in first_container:
+        raise FetchError("Items payload is missing expected loot container fields")
 
 
 def validate_hazards_payload(payload: dict) -> None:
@@ -409,7 +432,19 @@ def build_items(items_payload: dict) -> dict:
             "ut": used_in_tasks,
         }
         count += 1
-    return {"count": count, "items": out}
+
+    containers: dict = {}
+    for c in items_payload["data"].get("lootContainers") or []:
+        container_id = c.get("id")
+        if not container_id:
+            continue
+        name = c.get("name") or c.get("normalizedName") or "Container"
+        containers[container_id] = {
+            "n": name,
+            "s": c.get("normalizedName") or "",
+        }
+
+    return {"count": count, "items": out, "containers": containers}
 
 
 def write_items(path: Path, items_payload: dict) -> str:
@@ -425,6 +460,10 @@ def write_items(path: Path, items_payload: dict) -> str:
     )
     if kept == 0:
         raise FetchError("conversion produced 0 id-keyed items")
+    containers = len(compact["containers"])
+    print(f"[convert] kept {containers} loot containers", flush=True)
+    if containers == 0:
+        raise FetchError("conversion produced 0 loot containers")
     serialized = json.dumps(compact, ensure_ascii=True, separators=(",", ":"))
     path.write_text(serialized, encoding="utf-8")
     print(f"[convert] wrote {path.name} ({len(serialized)} bytes)", flush=True)
@@ -450,6 +489,7 @@ def main() -> int:
         items_payload = build_items_payload(
             raw["items"], raw["items_lang"], raw["traders"],
             raw["tasks"], raw["tasks_lang"],
+            raw["maps"], raw["maps_lang"],
         )
         hazards_payload = build_hazards_payload(raw["maps"], raw["maps_lang"])
         zones_payload = build_zones_payload(
