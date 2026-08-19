@@ -698,7 +698,19 @@
         "name": "Chumming",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_skier_12_2",
+                "position": {
+                  "x": 170.795,
+                  "y": 6.885,
+                  "z": 172
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5734758f24597738025ee253",
@@ -707,7 +719,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_skier_12_3",
+                "position": {
+                  "x": -6.21435547,
+                  "y": -0.492474556,
+                  "z": -75.55499
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5734758f24597738025ee253",
@@ -808,7 +832,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_peacemaker_001",
+                "position": {
+                  "x": -182.040039,
+                  "y": -63.725,
+                  "z": 459.849976
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_001",
+                "position": {
+                  "x": -182.040039,
+                  "y": -63.725,
+                  "z": 459.849976
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5ab8e4ed86f7742d8e50c7fa",
@@ -817,7 +864,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_peacemaker_001",
+                "position": {
+                  "x": -182.040039,
+                  "y": -63.725,
+                  "z": 459.849976
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_001",
+                "position": {
+                  "x": -182.040039,
+                  "y": -63.725,
+                  "z": 459.849976
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "544fb5454bdc2df8738b456a",
@@ -889,7 +959,30 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_010_2",
+                "position": {
+                  "x": 235.560059,
+                  "y": -64.464,
+                  "z": 442.02002
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_010_2",
+                "position": {
+                  "x": 235.560059,
+                  "y": -64.464,
+                  "z": 442.02002
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -945,7 +1038,19 @@
         "name": "The Survivalist Path - Thrifty",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "huntsman_005_1",
+                "position": {
+                  "x": -386.786,
+                  "y": 4.224,
+                  "z": 22.5930176
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "590c5d4b86f774784e1b9c45",
@@ -954,7 +1059,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "huntsman_005_1",
+                "position": {
+                  "x": -386.786,
+                  "y": 4.224,
+                  "z": 22.5930176
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5448fee04bdc2dbc018b4567",
@@ -963,7 +1080,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "huntsman_005_2",
+                "position": {
+                  "x": 447.979,
+                  "y": -13.19,
+                  "z": 71.3010254
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "590c5d4b86f774784e1b9c45",
@@ -972,7 +1101,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "huntsman_005_2",
+                "position": {
+                  "x": 447.979,
+                  "y": -13.19,
+                  "z": 71.3010254
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5448fee04bdc2dbc018b4567",
@@ -1096,7 +1237,30 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           }
         ]
       },
@@ -1131,7 +1295,30 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           }
         ]
       },
@@ -1166,7 +1353,30 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "gazel",
+                "position": {
+                  "x": 480.773834,
+                  "y": 3.292181,
+                  "z": -76.6871
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           }
         ]
       },
@@ -1310,7 +1520,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_2A2_unlock_3_woods",
+                "position": {
+                  "x": 227.698975,
+                  "y": 21.056,
+                  "z": -706.560059
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "place_2A2_unlock_3_woods",
+                "position": {
+                  "x": 227.698975,
+                  "y": 21.056,
+                  "z": -706.560059
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "59fafb5d86f774067a6f2084",
@@ -1319,7 +1552,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_2A2_unlock_3_customs",
+                "position": {
+                  "x": 11.7129974,
+                  "y": -0.719,
+                  "z": 35.593998
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "place_2A2_unlock_3_customs",
+                "position": {
+                  "x": 11.7129974,
+                  "y": -0.719,
+                  "z": 35.593998
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "59fafb5d86f774067a6f2084",
@@ -1473,7 +1729,19 @@
         "name": "Provide Viewership",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Camera_1",
+                "position": {
+                  "x": 256.883,
+                  "y": 13.587,
+                  "z": -75.07704
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -1482,7 +1750,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Camera_2",
+                "position": {
+                  "x": 254.804031,
+                  "y": 2.27799964,
+                  "z": -75.23401
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -1491,7 +1771,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Camera_3",
+                "position": {
+                  "x": 262.401978,
+                  "y": 6.48796558,
+                  "z": -39.4110031
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -1500,7 +1792,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Camera_4",
+                "position": {
+                  "x": 278.64,
+                  "y": 2.16999984,
+                  "z": -52.2000046
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -2316,7 +2620,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "qlight_extension_mechanik1_hide1",
+                "position": {
+                  "x": 32.5486145,
+                  "y": 6.414898,
+                  "z": -640.290344
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5ac78a9b86f7741cca0bbd8d",
@@ -2389,7 +2705,19 @@
             "zones": []
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_zone_hide_barber1",
+                "position": {
+                  "x": 206.613022,
+                  "y": 4.33,
+                  "z": 411.782
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "60bf74184a63fc79b60c57f6",
@@ -2398,7 +2726,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_zone_hide_barber2",
+                "position": {
+                  "x": 214.295,
+                  "y": 4.254,
+                  "z": 409.255
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5aa2b9aee5b5b00015693121",
@@ -2455,7 +2795,74 @@
         "name": "Black Swan",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "nf2024_6_beacon_1",
+                "position": {
+                  "x": -16.994,
+                  "y": -1.596,
+                  "z": 34.808
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_1",
+                "position": {
+                  "x": -16.994,
+                  "y": -1.596,
+                  "z": 34.808
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_2",
+                "position": {
+                  "x": 34.428,
+                  "y": -1.476,
+                  "z": -4.445
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_2",
+                "position": {
+                  "x": 34.428,
+                  "y": -1.476,
+                  "z": -4.445
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_3",
+                "position": {
+                  "x": 45.615,
+                  "y": -1.596,
+                  "z": -36.126
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_3",
+                "position": {
+                  "x": 45.615,
+                  "y": -1.596,
+                  "z": -36.126
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ]
           }
         ]
       },
@@ -2464,7 +2871,19 @@
         "name": "Break the Deal",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Sniper_1",
+                "position": {
+                  "x": 247.791,
+                  "y": 12.17,
+                  "z": -37.0079956
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "588892092459774ac91d4b11",
@@ -2473,7 +2892,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Sniper_2",
+                "position": {
+                  "x": 250.5994,
+                  "y": 8.826,
+                  "z": -22.5987015
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5888988e24597752fe43a6fa",
@@ -2482,7 +2913,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Sniper_3",
+                "position": {
+                  "x": 248.281,
+                  "y": 5.332,
+                  "z": -36.846
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "57ac965c24597706be5f975c",
@@ -2495,7 +2938,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Sniper_4",
+                "position": {
+                  "x": 255.069992,
+                  "y": 11.6760006,
+                  "z": -4.040001
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "65702566bfc87b3a3409324d",
@@ -2614,52 +3069,6 @@
         ]
       },
       {
-        "id": "6613f307fca4f2f386029409",
-        "name": "Drip-Out - Part 2",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "628baf0b967de16aab5a4f36",
-                "shortName": "LBCR GE"
-              },
-              {
-                "id": "618cfae774bb2d036a049e7c",
-                "shortName": "LBT-1476A"
-              },
-              {
-                "id": "6038b4ca92ec1c3103795a0d",
-                "shortName": "Slick"
-              },
-              {
-                "id": "6038b4b292ec1c3103795a0b",
-                "shortName": "Slick"
-              },
-              {
-                "id": "5e9dcf5986f7746c417435b3",
-                "shortName": "Day Pack"
-              },
-              {
-                "id": "5e9db13186f7742f845ee9d3",
-                "shortName": "LBCR"
-              },
-              {
-                "id": "5e4abc6786f77406812bd572",
-                "shortName": "SFMP"
-              },
-              {
-                "id": "5e4abb5086f77406975c9342",
-                "shortName": "Slick"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "id": "666314b0acf8442f8b0531a1",
         "name": "Hell on Earth - Part 1",
         "objectives": [
@@ -2741,7 +3150,19 @@
         "name": "Viewer",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_8_factory_place",
+                "position": {
+                  "x": 36.845,
+                  "y": 9.433,
+                  "z": 35.5
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -2750,7 +3171,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_8_wood_place",
+                "position": {
+                  "x": -219.22699,
+                  "y": 64.622,
+                  "z": -224.43396
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -2759,7 +3192,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_8_shoreline_place",
+                "position": {
+                  "x": -459.339966,
+                  "y": -47.6,
+                  "z": 566.965
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -2908,7 +3353,19 @@
         "name": "Proper Comeback",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_11_wood_place",
+                "position": {
+                  "x": -219.747986,
+                  "y": 62.621,
+                  "z": -219.974976
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5bc9bc53d4351e00367fbcee",
@@ -2917,7 +3374,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_11_shoreline_place",
+                "position": {
+                  "x": -459.720947,
+                  "y": -47.769,
+                  "z": 564.833
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5bc9bc53d4351e00367fbcee",
@@ -2926,7 +3395,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "NosQuests_11_factory_place",
+                "position": {
+                  "x": 34.789,
+                  "y": 8.527,
+                  "z": 35.5
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5bc9bc53d4351e00367fbcee",
@@ -3671,6 +4152,73 @@
         ]
       },
       {
+        "id": "6391372c8ba6894d155e77d7",
+        "name": "Broadcast - Part 4",
+        "objectives": [
+          {
+            "zones": [
+              {
+                "id": "quest_zone_c27_sect",
+                "position": {
+                  "x": -130.801,
+                  "y": 9.489,
+                  "z": 269.741
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {}
+        ]
+      },
+      {
+        "id": "64ee99639878a0569d6ec8c9",
+        "name": "Broadcast - Part 5",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": [
+              {
+                "id": "quest_zone_find_2st_mech",
+                "position": {
+                  "x": 188.391,
+                  "y": 0.7589998,
+                  "z": 226.506
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {
+            "zones": [
+              {
+                "id": "quest_zone_hide_2st_mech",
+                "position": {
+                  "x": 188.591,
+                  "y": 0.3739996,
+                  "z": 226.378983
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
+            "items": [
+              {
+                "id": "5fc64ea372b0dd78d51159dc",
+                "shortName": "Knife"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "5969f90786f77420d2328015",
         "name": "Charity",
         "objectives": [
@@ -3806,7 +4354,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "590c5a7286f7747884343aea",
@@ -3954,16 +4525,64 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "tadeush_bmp2_area_mark_2",
+                "position": {
+                  "x": -100.580109,
+                  "y": -3.719223,
+                  "z": -155.878082
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "tadeush_bmp2_area_mark_11",
+                "position": {
+                  "x": 79.02789,
+                  "y": -5.43922424,
+                  "z": -31.7870865
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "tadeush_bmp2_area_mark_12",
+                "position": {
+                  "x": 101.727905,
+                  "y": -5.592224,
+                  "z": 64.4449158
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "tadeush_bmp2_area_mark_13",
+                "position": {
+                  "x": 53.6199036,
+                  "y": -3.997223,
+                  "z": 122.661896
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           }
         ]
       },
@@ -3972,16 +4591,64 @@
         "name": "Revision - Lighthouse",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_mark_vech1",
+                "position": {
+                  "x": 13.1366119,
+                  "y": 2.78689957,
+                  "z": -503.2343
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_mark_vech2",
+                "position": {
+                  "x": -65.23739,
+                  "y": 3.35789871,
+                  "z": -691.4793
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_mark_vech3",
+                "position": {
+                  "x": 66.08261,
+                  "y": 2.76489639,
+                  "z": 516.5807
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_mark_vech4",
+                "position": {
+                  "x": -41.467392,
+                  "y": 10.1948986,
+                  "z": 16.4906616
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           }
         ]
       },
@@ -4082,43 +4749,6 @@
               }
             ]
           }
-        ]
-      },
-      {
-        "id": "639136d68ba6894d155e77cf",
-        "name": "Green Corridor",
-        "objectives": [
-          {
-            "zones": [
-              {
-                "id": "quest_zone_c16_koll_1",
-                "position": {
-                  "x": 15.6499977,
-                  "y": 3.39000034,
-                  "z": 226.62
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {
-            "zones": [
-              {
-                "id": "quest_zone_c16_koll_2",
-                "position": {
-                  "x": 62.1799965,
-                  "y": 7.11,
-                  "z": 272.84
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {}
         ]
       },
       {
@@ -4300,7 +4930,19 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_pr1_heli1_mark",
+                "position": {
+                  "x": -96.48739,
+                  "y": 2.374897,
+                  "z": -552.589355
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
             "zones": [
@@ -4531,43 +5173,6 @@
         ]
       },
       {
-        "id": "65733403eefc2c312a759ddb",
-        "name": "Developer's Secrets - Part 1",
-        "objectives": [
-          {
-            "zones": [
-              {
-                "id": "Office_enter",
-                "position": {
-                  "x": 164.36,
-                  "y": 1.722,
-                  "z": 148.11
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {
-            "zones": [
-              {
-                "id": "Office_quest",
-                "position": {
-                  "x": 164.247,
-                  "y": 1.722,
-                  "z": 167.288
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {}
-        ]
-      },
-      {
         "id": "64f5deac39e45b527a7c4232",
         "name": "Job for a Patriot",
         "objectives": [
@@ -4581,7 +5186,19 @@
         "name": "Is This a Reference?",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_death_strending",
+                "position": {
+                  "x": 181.2717,
+                  "y": 0.8670001,
+                  "z": 229.012131
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4590,7 +5207,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_mutant",
+                "position": {
+                  "x": -262.818,
+                  "y": -2.334,
+                  "z": 206.337
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4599,7 +5228,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_silient_toilet",
+                "position": {
+                  "x": 209.6607,
+                  "y": 0.815992355,
+                  "z": 230.837128
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4608,7 +5249,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_silient_hill_ward",
+                "position": {
+                  "x": 182.722717,
+                  "y": 2.1748,
+                  "z": 111.745132
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4617,7 +5270,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_nakatoimi",
+                "position": {
+                  "x": 4.628006,
+                  "y": 23.95,
+                  "z": 337.2477
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "zone_nakatoimi",
+                "position": {
+                  "x": 4.628006,
+                  "y": 23.95,
+                  "z": 337.2477
+                },
+                "map": {
+                  "normalizedName": "ground-zero"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4626,7 +5302,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_computer",
+                "position": {
+                  "x": 118.714516,
+                  "y": 24.2415,
+                  "z": 190.304688
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "zone_computer",
+                "position": {
+                  "x": 118.714516,
+                  "y": 24.2415,
+                  "z": 190.304688
+                },
+                "map": {
+                  "normalizedName": "ground-zero"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4635,7 +5334,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_six_chair",
+                "position": {
+                  "x": 41.1,
+                  "y": 31.411,
+                  "z": 140.81
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "zone_six_chair",
+                "position": {
+                  "x": 41.1,
+                  "y": 31.411,
+                  "z": 140.81
+                },
+                "map": {
+                  "normalizedName": "ground-zero"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4644,7 +5366,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_ball",
+                "position": {
+                  "x": 117.081985,
+                  "y": 0.8717003,
+                  "z": -154.473389
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4653,7 +5387,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_bonfire",
+                "position": {
+                  "x": 97.62605,
+                  "y": 3.65999985,
+                  "z": -165.789978
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4662,7 +5408,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_welcome_silient_hill",
+                "position": {
+                  "x": 36.0599976,
+                  "y": 7.38999939,
+                  "z": -261.599976
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4671,7 +5429,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_rick_and_morty",
+                "position": {
+                  "x": 97.11299,
+                  "y": 24.225,
+                  "z": 115.724731
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4680,7 +5450,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_grass_green",
+                "position": {
+                  "x": -82.75,
+                  "y": -6.37999725,
+                  "z": 62.4400024
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4689,7 +5471,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_two_chairs",
+                "position": {
+                  "x": 125.10199,
+                  "y": -6.481941,
+                  "z": -89.345
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4698,7 +5492,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_tanchiki",
+                "position": {
+                  "x": -77.323,
+                  "y": -6.251999,
+                  "z": -20.2539978
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4707,7 +5513,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_vedro",
+                "position": {
+                  "x": 568.542,
+                  "y": 7.703001,
+                  "z": -58.752
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4716,7 +5534,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_battlefield",
+                "position": {
+                  "x": 567.928,
+                  "y": 6.90000057,
+                  "z": -79.97
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4725,7 +5555,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_unity",
+                "position": {
+                  "x": 173.57,
+                  "y": 3.83039355,
+                  "z": 184.21
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4734,7 +5576,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_451",
+                "position": {
+                  "x": 17.42,
+                  "y": 1.832,
+                  "z": 43.016
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_451",
+                "position": {
+                  "x": 17.42,
+                  "y": 1.832,
+                  "z": 43.016
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4743,7 +5608,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_half-life",
+                "position": {
+                  "x": 21.4003162,
+                  "y": -1.87831354,
+                  "z": 11.708993
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_half-life",
+                "position": {
+                  "x": 21.4003162,
+                  "y": -1.87831354,
+                  "z": 11.708993
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4752,7 +5640,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_terminator",
+                "position": {
+                  "x": -49.607,
+                  "y": 2.34749985,
+                  "z": 60.4110031
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_terminator",
+                "position": {
+                  "x": -49.607,
+                  "y": 2.34749985,
+                  "z": 60.4110031
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4761,7 +5672,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_Always_sunny",
+                "position": {
+                  "x": 27.3690071,
+                  "y": 9.233061,
+                  "z": 38.4242668
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_Always_sunny",
+                "position": {
+                  "x": 27.3690071,
+                  "y": 9.233061,
+                  "z": 38.4242668
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4770,7 +5704,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_harry_potter",
+                "position": {
+                  "x": 52.4067078,
+                  "y": 1.8644464,
+                  "z": -17.4860764
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_harry_potter",
+                "position": {
+                  "x": 52.4067078,
+                  "y": 1.8644464,
+                  "z": -17.4860764
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4779,7 +5736,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_sapper",
+                "position": {
+                  "x": 30.7356358,
+                  "y": 4.287,
+                  "z": -31.146
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_sapper",
+                "position": {
+                  "x": 30.7356358,
+                  "y": 4.287,
+                  "z": -31.146
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4788,7 +5768,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "zone_stairway",
+                "position": {
+                  "x": 59.563,
+                  "y": 0.7,
+                  "z": 50.49
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_stairway",
+                "position": {
+                  "x": 59.563,
+                  "y": 0.7,
+                  "z": 50.49
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4797,7 +5800,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Bear_in_car",
+                "position": {
+                  "x": -117.325073,
+                  "y": 22.035,
+                  "z": -463.949951
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4806,7 +5821,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_cursed",
+                "position": {
+                  "x": 326.22998,
+                  "y": -54.202,
+                  "z": 131.473389
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -4815,7 +5842,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Zone_two_toilets",
+                "position": {
+                  "x": -321.5857,
+                  "y": -61.078,
+                  "z": 488.20343
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -5102,7 +6141,19 @@
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "event_labyrinth_07_peacekeep_place_01",
+                "position": {
+                  "x": -9.1,
+                  "y": 1,
+                  "z": 27.61
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "66dae7cbeb28f0f96809f325",
@@ -5269,10 +6320,34 @@
         "name": "A Fuel Matter",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "baraholshik_fuel_area_2",
+                "position": {
+                  "x": 11.94989,
+                  "y": -9.889221,
+                  "z": 73.80191
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "baraholshik_fuel_area_3",
+                "position": {
+                  "x": 170.0299,
+                  "y": -9.309227,
+                  "z": -97.85809
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ]
           }
         ]
       },
@@ -5293,33 +6368,6 @@
             "zones": [],
             "items": [
               {
-                "id": "5d403f9186f7743cac3f229b",
-                "shortName": "Whiskey"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "5d1b33a686f7742523398398",
-                "shortName": "Superwater"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "62a09f32621468534a797acb",
-                "shortName": "Pevko"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
                 "id": "5d40407c86f774318526545a",
                 "shortName": "Vodka"
               }
@@ -5338,8 +6386,35 @@
             "zones": [],
             "items": [
               {
+                "id": "5d403f9186f7743cac3f229b",
+                "shortName": "Whiskey"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
                 "id": "5d1b33a686f7742523398398",
                 "shortName": "Superwater"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "5d1b33a686f7742523398398",
+                "shortName": "Superwater"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "62a09f32621468534a797acb",
+                "shortName": "Pevko"
               }
             ]
           },
@@ -5386,6 +6461,48 @@
               "id": "638df4cc7b560b03794a18d2",
               "shortName": "Guitar pick"
             }
+          }
+        ]
+      },
+      {
+        "id": "6613f3007f6666d56807c929",
+        "name": "Drip-Out - Part 1",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "64a536392d2c4e6e970f4121",
+                "shortName": "TV-115"
+              },
+              {
+                "id": "5ca20d5986f774331e7c9602",
+                "shortName": "Berkut"
+              },
+              {
+                "id": "5c0e746986f7741453628fe5",
+                "shortName": "TV-110"
+              },
+              {
+                "id": "5ab8dab586f77441cd04f2a2",
+                "shortName": "MK3 TV-104"
+              },
+              {
+                "id": "59e7643b86f7742cbf2c109a",
+                "shortName": "TV-106 + TV-109"
+              },
+              {
+                "id": "69b10ebfde4dda4a140bddb8",
+                "shortName": "TV-115"
+              },
+              {
+                "id": "68a986615db8a4a66404ff9a",
+                "shortName": "MK3 TV-104"
+              }
+            ]
           }
         ]
       },
@@ -5441,73 +6558,6 @@
           {},
           {
             "zones": []
-          }
-        ]
-      },
-      {
-        "id": "6391372c8ba6894d155e77d7",
-        "name": "Broadcast - Part 4",
-        "objectives": [
-          {
-            "zones": [
-              {
-                "id": "quest_zone_c27_sect",
-                "position": {
-                  "x": -130.801,
-                  "y": 9.489,
-                  "z": 269.741
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {}
-        ]
-      },
-      {
-        "id": "64ee99639878a0569d6ec8c9",
-        "name": "Broadcast - Part 5",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": [
-              {
-                "id": "quest_zone_find_2st_mech",
-                "position": {
-                  "x": 188.391,
-                  "y": 0.7589998,
-                  "z": 226.506
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ]
-          },
-          {
-            "zones": [
-              {
-                "id": "quest_zone_hide_2st_mech",
-                "position": {
-                  "x": 188.591,
-                  "y": 0.3739996,
-                  "z": 226.378983
-                },
-                "map": {
-                  "normalizedName": "streets-of-tarkov"
-                }
-              }
-            ],
-            "items": [
-              {
-                "id": "5fc64ea372b0dd78d51159dc",
-                "shortName": "Knife"
-              }
-            ]
           }
         ]
       },
@@ -6473,48 +7523,6 @@
         ]
       },
       {
-        "id": "6179b5b06e9dd54ac275e409",
-        "name": "Our Own Land",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "59f32c3b86f77472a31742f0",
-                "shortName": "USEC"
-              },
-              {
-                "id": "6662ea05f6259762c56f3189",
-                "shortName": "USEC"
-              },
-              {
-                "id": "6662e9f37fa79a6d83730fa0",
-                "shortName": "USEC"
-              },
-              {
-                "id": "684180ee9b6d80d840042e8a",
-                "shortName": "USEC"
-              },
-              {
-                "id": "68418091b5b0c9e4c60f0e7a",
-                "shortName": "USEC"
-              },
-              {
-                "id": "6764207f2fa5e32733055c4a",
-                "shortName": "USEC"
-              },
-              {
-                "id": "6764202ae307804338014c1a",
-                "shortName": "USEC"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "id": "64e7b99017ab941a6f7bf9d7",
         "name": "Gendarmerie - Mall Cop",
         "objectives": [
@@ -7443,6 +8451,68 @@
         ]
       },
       {
+        "id": "6613f307fca4f2f386029409",
+        "name": "Drip-Out - Part 2",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "628baf0b967de16aab5a4f36",
+                "shortName": "LBCR GE"
+              },
+              {
+                "id": "618cfae774bb2d036a049e7c",
+                "shortName": "LBT-1476A"
+              },
+              {
+                "id": "6038b4ca92ec1c3103795a0d",
+                "shortName": "Slick"
+              },
+              {
+                "id": "6038b4b292ec1c3103795a0b",
+                "shortName": "Slick"
+              },
+              {
+                "id": "5e9dcf5986f7746c417435b3",
+                "shortName": "Day Pack"
+              },
+              {
+                "id": "5e9db13186f7742f845ee9d3",
+                "shortName": "LBCR"
+              },
+              {
+                "id": "5e4abc6786f77406812bd572",
+                "shortName": "SFMP"
+              },
+              {
+                "id": "5e4abb5086f77406975c9342",
+                "shortName": "Slick"
+              },
+              {
+                "id": "67458794e21e5d724e066976",
+                "shortName": "LBT-1476A"
+              },
+              {
+                "id": "68bee2b431902bb4d90c3a2a",
+                "shortName": "LBCR"
+              },
+              {
+                "id": "69b124822c6ed131290d921f",
+                "shortName": "LBCR"
+              },
+              {
+                "id": "69cfc2d7a9102bdca0080070",
+                "shortName": "LBCR"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "6615141bfda04449120269a7",
         "name": "Drip-Out - Part 2",
         "objectives": [
@@ -7631,15 +8701,6 @@
               {
                 "id": "5f745ee30acaeb0d490d8c5b",
                 "shortName": "Veritas"
-              }
-            ]
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "60b0f988c4449e4cb624c1da",
-                "shortName": "Evasion"
               }
             ]
           },
@@ -8644,7 +9705,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_terminal_bitcoin",
+                "position": {
+                  "x": 500.635742,
+                  "y": 17.861,
+                  "z": 91.8714447
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "67d0576f29f580ebc10efd08",
@@ -8662,21 +9735,57 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_terminal_bitcoin",
+                "position": {
+                  "x": 500.635742,
+                  "y": 17.861,
+                  "z": 91.8714447
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "questItem": {
               "id": "683ed6ccd9a096739b0c9228",
               "shortName": "AK-50"
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_terminal_bitcoin",
+                "position": {
+                  "x": 500.635742,
+                  "y": 17.861,
+                  "z": 91.8714447
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "questItem": {
               "id": "683ed6aed885538c4102d8c8",
               "shortName": "AK-50"
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_terminal_bitcoin",
+                "position": {
+                  "x": 500.635742,
+                  "y": 17.861,
+                  "z": 91.8714447
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "questItem": {
               "id": "683ed6c2e4b1dd7ec4069dc8",
               "shortName": "AK-50"
@@ -8777,21 +9886,6 @@
         ]
       },
       {
-        "id": "60effd818b669d08a35bfad5",
-        "name": "The Choice",
-        "objectives": [
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "59db794186f77448bc595262",
-                "shortName": "Epsilon"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "id": "67af4c169d95ad16e004fd86",
         "name": "Safety Guarantee",
         "objectives": [
@@ -8819,6 +9913,21 @@
               {
                 "id": "5c0e842486f77443a74d2976",
                 "shortName": "1SCh FS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60effd818b669d08a35bfad5",
+        "name": "The Choice",
+        "objectives": [
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "59db794186f77448bc595262",
+                "shortName": "Epsilon"
               }
             ]
           }
@@ -8993,16 +10102,6 @@
         ]
       },
       {
-        "id": "67af4c1d8c9482eca103e477",
-        "name": "Consolation Prize",
-        "objectives": [
-          {},
-          {
-            "zones": []
-          }
-        ]
-      },
-      {
         "id": "60e71e8ed54b755a3b53eb67",
         "name": "The Huntsman Path - Relentless",
         "objectives": [
@@ -9085,7 +10184,30 @@
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "case_extraction",
+                "position": {
+                  "x": 41.7418137,
+                  "y": 5.448181,
+                  "z": 40.8179
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "case_extraction",
+                "position": {
+                  "x": 41.7418137,
+                  "y": 5.448181,
+                  "z": 40.8179
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "questItem": {
               "id": "591092ef86f7747bb8703422",
               "shortName": "0022"
@@ -9782,7 +10904,52 @@
         "name": "Oil Run",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "fuel1",
+                "position": {
+                  "x": 429.8568,
+                  "y": 2.73618078,
+                  "z": 16.2298985
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "fuel2",
+                "position": {
+                  "x": 101.446808,
+                  "y": 3.060181,
+                  "z": -14.1001005
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "fuel3",
+                "position": {
+                  "x": 334.956818,
+                  "y": 3.040181,
+                  "z": -189.970108
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "fuel4",
+                "position": {
+                  "x": -334.933167,
+                  "y": 2.220181,
+                  "z": -163.460114
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10084,7 +11251,41 @@
         "name": "Tigr Safari",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_002_N1",
+                "position": {
+                  "x": 505.029968,
+                  "y": 1.24,
+                  "z": -11.2900009
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "place_peacemaker_002_N3",
+                "position": {
+                  "x": 17.86,
+                  "y": 0.3499999,
+                  "z": 0.3600006
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "place_peacemaker_002_N2",
+                "position": {
+                  "x": 565.76,
+                  "y": -0.00999999,
+                  "z": -24.1699982
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10093,13 +11294,82 @@
         "name": "Scrap Metal",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_003_N1",
+                "position": {
+                  "x": -153.079956,
+                  "y": -17.05,
+                  "z": -280.18
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_003_N1",
+                "position": {
+                  "x": -153.079956,
+                  "y": -17.05,
+                  "z": -280.18
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_003_N2",
+                "position": {
+                  "x": 378.74,
+                  "y": -54.375,
+                  "z": 166.859985
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_003_N2",
+                "position": {
+                  "x": 378.74,
+                  "y": -54.375,
+                  "z": 166.859985
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_003_N3",
+                "position": {
+                  "x": -349.680054,
+                  "y": -39.864,
+                  "z": 185.87
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_003_N3",
+                "position": {
+                  "x": -349.680054,
+                  "y": -39.864,
+                  "z": 185.87
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10172,7 +11442,30 @@
         "name": "Humanitarian Supplies",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_005_N1",
+                "position": {
+                  "x": -234.48999,
+                  "y": -3.47,
+                  "z": -164.42
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_005_N1",
+                "position": {
+                  "x": -234.48999,
+                  "y": -3.47,
+                  "z": -164.42
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
             "zones": [
@@ -10201,7 +11494,30 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_005_N2",
+                "position": {
+                  "x": -596.26,
+                  "y": -58.53,
+                  "z": 475.530029
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_005_N2",
+                "position": {
+                  "x": -596.26,
+                  "y": -58.53,
+                  "z": 475.530029
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
             "zones": [
@@ -10254,13 +11570,60 @@
         "name": "Weapons Circulation",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N2",
+                "position": {
+                  "x": 195.977051,
+                  "y": 1.032,
+                  "z": -7.24200439
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N2_1",
+                "position": {
+                  "x": -88.70001,
+                  "y": 12.55,
+                  "z": -717.61
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N3",
+                "position": {
+                  "x": -336.644043,
+                  "y": 3.545,
+                  "z": -88.728
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_007_2_N3",
+                "position": {
+                  "x": -336.644043,
+                  "y": 3.545,
+                  "z": -88.728
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10313,16 +11676,108 @@
         "name": "Health Care Privacy - Part 1",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "ter_013_area_1",
+                "position": {
+                  "x": 312.699951,
+                  "y": -59.18,
+                  "z": 314.5
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "ter_013_area_1",
+                "position": {
+                  "x": 312.699951,
+                  "y": -59.18,
+                  "z": 314.5
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "ter_013_area_2",
+                "position": {
+                  "x": 354.919922,
+                  "y": -58.63,
+                  "z": 306.12
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "ter_013_area_2",
+                "position": {
+                  "x": 354.919922,
+                  "y": -58.63,
+                  "z": 306.12
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "ter_013_area_3",
+                "position": {
+                  "x": -258.074951,
+                  "y": -3.958,
+                  "z": -85.66
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "ter_013_area_3",
+                "position": {
+                  "x": -258.074951,
+                  "y": -3.958,
+                  "z": -85.66
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "ter_013_area_4",
+                "position": {
+                  "x": 97.6600342,
+                  "y": -47.25,
+                  "z": 70.79999
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "ter_013_area_4",
+                "position": {
+                  "x": 97.6600342,
+                  "y": -47.25,
+                  "z": 70.79999
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10352,7 +11807,52 @@
         "name": "Playing the Market",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "590c2e1186f77425357b6124",
@@ -10361,7 +11861,52 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "590c2e1186f77425357b6124",
@@ -10479,7 +12024,19 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_SIGNAL_03_2",
+                "position": {
+                  "x": -230.550049,
+                  "y": 8.32,
+                  "z": -92.39
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
             "zones": [
@@ -10497,7 +12054,19 @@
             ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_SIGNAL_03_1",
+                "position": {
+                  "x": -483.810059,
+                  "y": -24.47,
+                  "z": 248.830017
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -10768,10 +12337,45 @@
         "name": "Fuel Crisis",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_WARBLOOD_04_1",
+                "position": {
+                  "x": -208.36,
+                  "y": 22.84,
+                  "z": -74.42
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              },
+              {
+                "id": "place_WARBLOOD_04_3",
+                "position": {
+                  "x": -172.62,
+                  "y": 22.807,
+                  "z": -359.48
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_WARBLOOD_04_2",
+                "position": {
+                  "x": 274.29,
+                  "y": 22.85,
+                  "z": 14.53
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ]
           }
         ]
       },
@@ -11196,7 +12800,30 @@
         "name": "Gratitude",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_THX_15",
+                "position": {
+                  "x": 23.7940063,
+                  "y": -15.413,
+                  "z": 99.84198
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "place_THX_15",
+                "position": {
+                  "x": 23.7940063,
+                  "y": -15.413,
+                  "z": 99.84198
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5ab8f85d86f7745cd93a1cf5",
@@ -11205,7 +12832,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_THX_15",
+                "position": {
+                  "x": 23.7940063,
+                  "y": -15.413,
+                  "z": 99.84198
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "place_THX_15",
+                "position": {
+                  "x": 23.7940063,
+                  "y": -15.413,
+                  "z": 99.84198
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5aa2b9aee5b5b00015693121",
@@ -11362,7 +13012,19 @@
         "name": "Hot Delivery",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_merch_020_1",
+                "position": {
+                  "x": -50.388,
+                  "y": 27.695,
+                  "z": 25.076004
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5645bcc04bdc2d363b8b4572",
@@ -11371,7 +13033,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_merch_020_1",
+                "position": {
+                  "x": -50.388,
+                  "y": 27.695,
+                  "z": 25.076004
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5a7c4850e899ef00150be885",
@@ -11380,7 +13054,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_merch_020_2",
+                "position": {
+                  "x": 179.855621,
+                  "y": 22.3142071,
+                  "z": -40.89569
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5ab8e79e86f7742d8b372e78",
@@ -11395,13 +13081,49 @@
         "name": "Minibus",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_merch_21_1",
+                "position": {
+                  "x": 109.867981,
+                  "y": 22.33,
+                  "z": 288.768
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_merch_21_2",
+                "position": {
+                  "x": 17.5570374,
+                  "y": 22.834,
+                  "z": -25.4960022
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "place_merch_21_3",
+                "position": {
+                  "x": -49.76779,
+                  "y": 22.854,
+                  "z": 59.03575
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ]
           },
           {
             "zones": [],
@@ -11611,7 +13333,19 @@
         "name": "Informed Means Armed",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_skier_11_1",
+                "position": {
+                  "x": 31.086792,
+                  "y": -13.6127291,
+                  "z": 83.0115356
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -11620,7 +13354,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_skier_11_3",
+                "position": {
+                  "x": 8.095032,
+                  "y": 27.553,
+                  "z": -36.7020264
+                },
+                "map": {
+                  "normalizedName": "interchange"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -11714,7 +13460,19 @@
         "name": "From Hand to Hand",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "qlight_extension_medic1_hide1",
+                "position": {
+                  "x": -119.217392,
+                  "y": 13.0148983,
+                  "z": -841.129333
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5c05308086f7746b2101e90b",
@@ -11723,7 +13481,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "qlight_extension_medic1_hide1",
+                "position": {
+                  "x": -119.217392,
+                  "y": 13.0148983,
+                  "z": -841.129333
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5c052f6886f7746b1e3db148",
@@ -11756,13 +13526,49 @@
         "name": "Small Things, Big Help",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "bar_fuel3_1",
+                "position": {
+                  "x": 356.449951,
+                  "y": 0.35,
+                  "z": -85.8800049
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "bar_fuel3_2",
+                "position": {
+                  "x": -325.042,
+                  "y": 15.319,
+                  "z": 23.9849854
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "bar_fuel3_3",
+                "position": {
+                  "x": -200.406982,
+                  "y": 31.302,
+                  "z": -210.924011
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           }
         ]
       },
@@ -13787,13 +15593,49 @@
         "name": "Anesthesia",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "prapor_022_area_1",
+                "position": {
+                  "x": -263.983032,
+                  "y": -3.95800018,
+                  "z": -85.25296
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "prapor_022_area_2",
+                "position": {
+                  "x": 96.72998,
+                  "y": -47.19,
+                  "z": 97.10004
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "prapor_022_area_3",
+                "position": {
+                  "x": -306.199951,
+                  "y": -60.86,
+                  "z": 494.099976
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ]
           }
         ]
       },
@@ -13854,7 +15696,19 @@
         "name": "Rigged Game",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "skier_022_area_1",
+                "position": {
+                  "x": -263.594,
+                  "y": -3.95800018,
+                  "z": -85.71597
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -13863,7 +15717,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "skier_022_area_2",
+                "position": {
+                  "x": 98.10303,
+                  "y": -47.19,
+                  "z": 96.9790344
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -13872,7 +15738,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "skier_022_area_3",
+                "position": {
+                  "x": -305.384033,
+                  "y": -60.86,
+                  "z": 492.20105
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -14547,7 +16425,19 @@
         "name": "The Courier",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "mech_41_2",
+                "position": {
+                  "x": 424.961975,
+                  "y": 2.31000018,
+                  "z": 28.4069977
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5a1eaa87fcdbcb001865f75e",
@@ -14647,16 +16537,64 @@
         "name": "Energy Crisis",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_fuel_blood",
+                "position": {
+                  "x": -116.5974,
+                  "y": 11.6748981,
+                  "z": -921.8493
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_fuel_blood_bezovoz1",
+                "position": {
+                  "x": -73.70739,
+                  "y": 11.6148987,
+                  "z": -875.5493
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_fuel_blood_bezovoz2",
+                "position": {
+                  "x": -158.4574,
+                  "y": 6.044899,
+                  "z": -608.019348
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight_fuel_blood_bezovoz3",
+                "position": {
+                  "x": 29.0826111,
+                  "y": 5.99489975,
+                  "z": -423.3593
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           }
         ]
       },
@@ -14691,6 +16629,15 @@
               "id": "619268ad78f4fa33f173dbe5",
               "shortName": "Report"
             }
+          }
+        ]
+      },
+      {
+        "id": "6179b5b06e9dd54ac275e409",
+        "name": "Our Own Land",
+        "objectives": [
+          {
+            "zones": []
           }
         ]
       },
@@ -14814,7 +16761,19 @@
         "name": "Gifts from Tarkov",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "qlight16_peace_terra",
+                "position": {
+                  "x": 136.8986,
+                  "y": 0.790897369,
+                  "z": 47.88867
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
             "zones": []
@@ -14940,16 +16899,64 @@
         "name": "Network Provider - Part 2",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_42_radio_area_mark_1",
+                "position": {
+                  "x": -94.61739,
+                  "y": 1.94389725,
+                  "z": -550.689331
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_42_radio_area_mark_2",
+                "position": {
+                  "x": -116.486389,
+                  "y": 40.3649,
+                  "z": 88.86865
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_42_radio_area_mark_3",
+                "position": {
+                  "x": 71.11261,
+                  "y": 10.1648979,
+                  "z": 392.52063
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_42_radio_area_mark_4",
+                "position": {
+                  "x": 127.572617,
+                  "y": 6.994898,
+                  "z": 293.000732
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ]
           }
         ]
       },
@@ -14979,16 +16986,64 @@
         "name": "Assessment - Part 2",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_45_radio_area_mark_1",
+                "position": {
+                  "x": 222.160034,
+                  "y": 21.382,
+                  "z": -706.6
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_45_radio_area_mark_2",
+                "position": {
+                  "x": -156.091,
+                  "y": 52.27,
+                  "z": -273.31897
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_45_radio_area_mark_3",
+                "position": {
+                  "x": -157.601013,
+                  "y": 47.173,
+                  "z": -233.202026
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "meh_45_radio_area_mark_4",
+                "position": {
+                  "x": 446.337036,
+                  "y": -13.139,
+                  "z": 69.18402
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           }
         ]
       },
@@ -15209,7 +17264,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "qlight_extension_medic1_hide1",
+                "position": {
+                  "x": -119.217392,
+                  "y": 13.0148983,
+                  "z": -841.129333
+                },
+                "map": {
+                  "normalizedName": "lighthouse"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -15434,14 +17501,87 @@
         "name": "Revision - Streets of Tarkov",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "quest_zone_place_c14_revx_1",
+                "position": {
+                  "x": -139.43,
+                  "y": 3.55700016,
+                  "z": 438.81
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "quest_zone_place_c14_revx_2",
+                "position": {
+                  "x": 146.31,
+                  "y": 4.7,
+                  "z": 408.405029
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "quest_zone_place_c14_revx_3",
+                "position": {
+                  "x": 2.18999863,
+                  "y": 0.8999996,
+                  "z": 34.04
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           }
+        ]
+      },
+      {
+        "id": "639136d68ba6894d155e77cf",
+        "name": "Green Corridor",
+        "objectives": [
+          {
+            "zones": [
+              {
+                "id": "quest_zone_c16_koll_1",
+                "position": {
+                  "x": 15.6499977,
+                  "y": 3.39000034,
+                  "z": 226.62
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {
+            "zones": [
+              {
+                "id": "quest_zone_c16_koll_2",
+                "position": {
+                  "x": 62.1799965,
+                  "y": 7.11,
+                  "z": 272.84
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {}
         ]
       },
       {
@@ -15544,10 +17684,34 @@
           {},
           {},
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "quest_zone_place_c24_tigr1",
+                "position": {
+                  "x": -69.39,
+                  "y": 3.52,
+                  "z": 358.460022
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "quest_zone_place_c24_tigr2",
+                "position": {
+                  "x": 172.48,
+                  "y": 4.79,
+                  "z": 416.94
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           }
         ]
       },
@@ -16258,7 +18422,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_zone_hide_sillent",
+                "position": {
+                  "x": 183.929,
+                  "y": 6.093,
+                  "z": 53.346
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -16267,7 +18443,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "quest_zone_hide_sillent2",
+                "position": {
+                  "x": 176.304,
+                  "y": 6.293,
+                  "z": 82.239
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -16856,6 +19044,43 @@
         ]
       },
       {
+        "id": "65733403eefc2c312a759ddb",
+        "name": "Corporate Perks",
+        "objectives": [
+          {
+            "zones": [
+              {
+                "id": "Office_enter",
+                "position": {
+                  "x": 164.36,
+                  "y": 1.722,
+                  "z": 148.11
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {
+            "zones": [
+              {
+                "id": "Office_quest",
+                "position": {
+                  "x": 164.247,
+                  "y": 1.722,
+                  "z": 167.288
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
+          },
+          {}
+        ]
+      },
+      {
         "id": "6573382e557ff128bf3da536",
         "name": "The Secret to Productivity",
         "objectives": [
@@ -16987,7 +19212,63 @@
         "name": "Steady Signal",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "q14_8_1",
+                "position": {
+                  "x": 412.208984,
+                  "y": 13.708,
+                  "z": -608.531
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "q14_8_2",
+                "position": {
+                  "x": -209.221985,
+                  "y": 77.521,
+                  "z": -279.781
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "q14_8_3",
+                "position": {
+                  "x": -97.25,
+                  "y": 13.993,
+                  "z": -542.050049
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "q14_8_4",
+                "position": {
+                  "x": 247.27002,
+                  "y": -9.067,
+                  "z": 291.49
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "q14_8_5",
+                "position": {
+                  "x": -447.077,
+                  "y": 2.061,
+                  "z": 249
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ]
           }
         ]
       },
@@ -16997,40 +19278,6 @@
         "objectives": [
           {
             "zones": []
-          }
-        ]
-      },
-      {
-        "id": "6613f3007f6666d56807c929",
-        "name": "Drip-Out - Part 1",
-        "objectives": [
-          {
-            "zones": []
-          },
-          {
-            "zones": [],
-            "items": [
-              {
-                "id": "64a536392d2c4e6e970f4121",
-                "shortName": "TV-115"
-              },
-              {
-                "id": "5ca20d5986f774331e7c9602",
-                "shortName": "Berkut"
-              },
-              {
-                "id": "5c0e746986f7741453628fe5",
-                "shortName": "TV-110"
-              },
-              {
-                "id": "5ab8dab586f77441cd04f2a2",
-                "shortName": "MK3 TV-104"
-              },
-              {
-                "id": "59e7643b86f7742cbf2c109a",
-                "shortName": "TV-106 + TV-109"
-              }
-            ]
           }
         ]
       },
@@ -17232,7 +19479,30 @@
         "name": "Small Business - Part 3",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "unkown_mark_2",
+                "position": {
+                  "x": 251.987061,
+                  "y": -52.69,
+                  "z": -105.118652
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "unkown_mark_2",
+                "position": {
+                  "x": 251.987061,
+                  "y": -52.69,
+                  "z": -105.118652
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5fc64ea372b0dd78d51159dc",
@@ -17241,7 +19511,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N3",
+                "position": {
+                  "x": -336.644043,
+                  "y": 3.545,
+                  "z": -88.728
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "place_peacemaker_007_2_N3",
+                "position": {
+                  "x": -336.644043,
+                  "y": 3.545,
+                  "z": -88.728
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5fc64ea372b0dd78d51159dc",
@@ -17250,7 +19543,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N2",
+                "position": {
+                  "x": 195.977051,
+                  "y": 1.032,
+                  "z": -7.24200439
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5fc64ea372b0dd78d51159dc",
@@ -17259,7 +19564,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "place_peacemaker_007_2_N2_1",
+                "position": {
+                  "x": -88.70001,
+                  "y": 12.55,
+                  "z": -717.61
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5fc64ea372b0dd78d51159dc",
@@ -17288,7 +19605,30 @@
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "nf2024_1",
+                "position": {
+                  "x": -510.893,
+                  "y": 17.147,
+                  "z": -178.234985
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              },
+              {
+                "id": "nf2024_1",
+                "position": {
+                  "x": -510.893,
+                  "y": 17.147,
+                  "z": -178.234985
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "questItem": {
               "id": "66c0b39ca1f68fcc1d0c0cc3",
               "shortName": "Journal"
@@ -17432,7 +19772,30 @@
         "name": "The Walls Have Eyes",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "nf2024_7_1",
+                "position": {
+                  "x": 63.612,
+                  "y": 6.44,
+                  "z": 35.114
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_1",
+                "position": {
+                  "x": 63.612,
+                  "y": 6.44,
+                  "z": 35.114
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -17441,7 +19804,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "nf2024_7_2",
+                "position": {
+                  "x": -5.474,
+                  "y": 5.776,
+                  "z": -32.477
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_2",
+                "position": {
+                  "x": -5.474,
+                  "y": 5.776,
+                  "z": -32.477
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -17450,7 +19836,30 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "nf2024_7_3",
+                "position": {
+                  "x": -24.441,
+                  "y": 6.197,
+                  "z": 60.426
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_3",
+                "position": {
+                  "x": -24.441,
+                  "y": 6.197,
+                  "z": 60.426
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5b4391a586f7745321235ab2",
@@ -17541,7 +19950,30 @@
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Place_accurate_tools",
+                "position": {
+                  "x": 27.89,
+                  "y": 1.15,
+                  "z": -32.8899155
+                },
+                "map": {
+                  "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "Place_accurate_tools",
+                "position": {
+                  "x": 27.89,
+                  "y": 1.15,
+                  "z": -32.8899155
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              }
+            ],
             "questItem": {
               "id": "66b22630a6b4e5ec7c02cdb7",
               "shortName": "Tools"
@@ -17554,7 +19986,19 @@
         "name": "Special Comms",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Place_item_tools_woods",
+                "position": {
+                  "x": -119.044983,
+                  "y": -0.93,
+                  "z": 400.652
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5d0375ff86f774186372f685",
@@ -17564,7 +20008,19 @@
           },
           {},
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Place_item_tools_rezerve",
+                "position": {
+                  "x": 50.98111,
+                  "y": -0.624961853,
+                  "z": -181.916656
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "619cbfeb6b8a1b37a54eebfa",
@@ -17704,7 +20160,19 @@
         "name": "Hot Wheels",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Btr_wheels",
+                "position": {
+                  "x": 100.468048,
+                  "y": -6.62599945,
+                  "z": 28.3770142
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -17713,7 +20181,217 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 375.769,
+                  "y": 1.22,
+                  "z": 20.3799973
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 117.472,
+                  "y": 1.60299993,
+                  "z": -85.998
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 316.22998,
+                  "y": 2.28199983,
+                  "z": -192.114014
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 572.391357,
+                  "y": 1.80699992,
+                  "z": -90.22101
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 5.529999,
+                  "y": 1.5400002,
+                  "z": -96.45
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 340.776978,
+                  "y": 1.72799993,
+                  "z": -159.876
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 557.326,
+                  "y": -0.239000082,
+                  "z": 1.47000122
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -176.862015,
+                  "y": 1.69100022,
+                  "z": -206.77301
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -279.377,
+                  "y": 1.319,
+                  "z": -139.938
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 43.6733246,
+                  "y": 1.52800012,
+                  "z": -157.658
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 111.77,
+                  "y": 2.899,
+                  "z": -94.8570862
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 21.7379913,
+                  "y": -0.72300005,
+                  "z": 99.223
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 98.449,
+                  "y": 1.615,
+                  "z": -86.1990051
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -226.937,
+                  "y": 1.34699988,
+                  "z": -87.06801
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 92.18399,
+                  "y": 1.549,
+                  "z": -152.423
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": 67.10477,
+                  "y": 1.60700011,
+                  "z": -143.208008
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -203.416,
+                  "y": 1.359,
+                  "z": -188.637
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -255.144,
+                  "y": 1.368,
+                  "z": -89.3009949
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "Wrong_wheels",
+                "position": {
+                  "x": -226.336014,
+                  "y": 1.38400006,
+                  "z": -89.726
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -17728,7 +20406,19 @@
         "name": "Hot Wheels - Let's Try Again",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Btr_wheels",
+                "position": {
+                  "x": 100.468048,
+                  "y": -6.62599945,
+                  "z": 28.3770142
+                },
+                "map": {
+                  "normalizedName": "reserve"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5991b51486f77447b112d44f",
@@ -17763,7 +20453,19 @@
             }
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Reb_keeper",
+                "position": {
+                  "x": -55.0050049,
+                  "y": 8.82,
+                  "z": -498.353027
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "questItem": {
               "id": "67499b9b909d2013670a5029",
               "shortName": "KOSA"
@@ -58629,7 +61331,19 @@
         "name": "Natural Exchange",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "BTR_FUEL_1",
+                "position": {
+                  "x": -609.325439,
+                  "y": -28.66,
+                  "z": -176.86499
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5d1b36a186f7742523398433",
@@ -58638,7 +61352,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "BTR_FUEL_2",
+                "position": {
+                  "x": -627.011,
+                  "y": -25.449,
+                  "z": -228.452972
+                },
+                "map": {
+                  "normalizedName": "shoreline"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "5d1b36a186f7742523398433",
@@ -59199,22 +61925,94 @@
         "name": "Route Deviation",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_1",
+                "position": {
+                  "x": 195.527344,
+                  "y": 3.20990276,
+                  "z": 256.3192
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_2",
+                "position": {
+                  "x": 120.758,
+                  "y": -2.436,
+                  "z": 26.16
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_3",
+                "position": {
+                  "x": -131.704086,
+                  "y": 0.630023,
+                  "z": 64.95194
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_4",
+                "position": {
+                  "x": -13.1059952,
+                  "y": 2.36,
+                  "z": 217.207916
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_5",
+                "position": {
+                  "x": -232.094,
+                  "y": 2.453,
+                  "z": 236.69
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           },
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "Mark_BTR_6",
+                "position": {
+                  "x": -136.84,
+                  "y": 1.92,
+                  "z": 399.3
+                },
+                "map": {
+                  "normalizedName": "streets-of-tarkov"
+                }
+              }
+            ]
           }
         ]
       },
@@ -59223,7 +62021,19 @@
         "name": "Hindsight 20/20",
         "objectives": [
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Pack_of_cartridges_1",
+                "position": {
+                  "x": -272.703,
+                  "y": 7.687,
+                  "z": -411.795044
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "648983d6b5a2df1c815a04ec",
@@ -59344,7 +62154,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Pack_of_cartridges_2",
+                "position": {
+                  "x": -268.927979,
+                  "y": 7.687,
+                  "z": -412.652954
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "648983d6b5a2df1c815a04ec",
@@ -59480,7 +62302,19 @@
             ]
           },
           {
-            "zones": [],
+            "zones": [
+              {
+                "id": "Pack_of_cartridges_3",
+                "position": {
+                  "x": -268.294,
+                  "y": 7.687,
+                  "z": -416.212036
+                },
+                "map": {
+                  "normalizedName": "woods"
+                }
+              }
+            ],
             "items": [
               {
                 "id": "648983d6b5a2df1c815a04ec",
@@ -72918,7 +75752,85 @@
         "name": "Abandoned Cargo",
         "objectives": [
           {
-            "zones": []
+            "zones": [
+              {
+                "id": "TerragroupBOX_2",
+                "position": {
+                  "x": -182.220016,
+                  "y": 1.03,
+                  "z": -135.74
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_1",
+                "position": {
+                  "x": 147.915,
+                  "y": 1.40623569,
+                  "z": -67.8009949
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_3",
+                "position": {
+                  "x": 60.2319946,
+                  "y": 4.722,
+                  "z": -65.862
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_4",
+                "position": {
+                  "x": 115.594,
+                  "y": 1.62499976,
+                  "z": -38.222
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_5",
+                "position": {
+                  "x": 103.038994,
+                  "y": 1.621,
+                  "z": -65.1150055
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_6",
+                "position": {
+                  "x": 66.613,
+                  "y": 9.001699,
+                  "z": -60.795
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "TerragroupBOX_7",
+                "position": {
+                  "x": 64.919,
+                  "y": 1.408,
+                  "z": -47.947998
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              }
+            ]
           },
           {
             "zones": []
@@ -73424,6 +76336,16 @@
                 "shortName": "Moonshine"
               }
             ]
+          }
+        ]
+      },
+      {
+        "id": "67af4c1d8c9482eca103e477",
+        "name": "Consolation Prize",
+        "objectives": [
+          {},
+          {
+            "zones": []
           }
         ]
       },
