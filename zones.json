@@ -15,7 +15,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -26,7 +26,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -260,7 +260,7 @@
                   "z": 130.605
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -271,7 +271,7 @@
                   "z": 130.605
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -286,7 +286,7 @@
                   "z": 276.36
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -297,7 +297,7 @@
                   "z": 276.36
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -328,7 +328,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -339,7 +339,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -354,7 +354,7 @@
                   "z": -25.1
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -365,7 +365,7 @@
                   "z": -25.1
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -380,7 +380,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -1173,7 +1173,7 @@
                   "z": 39.25
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -1184,7 +1184,7 @@
                   "z": 39.25
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -1852,7 +1852,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -1863,7 +1863,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ],
@@ -2804,7 +2804,7 @@
                   "z": 34.808
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -2815,17 +2815,6 @@
                   "z": 34.808
                 },
                 "map": {
-                  "normalizedName": "factory"
-                }
-              },
-              {
-                "id": "nf2024_6_beacon_2",
-                "position": {
-                  "x": 34.428,
-                  "y": -1.476,
-                  "z": -4.445
-                },
-                "map": {
                   "normalizedName": "night-factory"
                 }
               },
@@ -2841,11 +2830,11 @@
                 }
               },
               {
-                "id": "nf2024_6_beacon_3",
+                "id": "nf2024_6_beacon_2",
                 "position": {
-                  "x": 45.615,
-                  "y": -1.596,
-                  "z": -36.126
+                  "x": 34.428,
+                  "y": -1.476,
+                  "z": -4.445
                 },
                 "map": {
                   "normalizedName": "night-factory"
@@ -2860,6 +2849,17 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_3",
+                "position": {
+                  "x": 45.615,
+                  "y": -1.596,
+                  "z": -36.126
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3451,7 +3451,7 @@
                   "z": 23.4
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3462,7 +3462,7 @@
                   "z": 23.4
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3477,7 +3477,7 @@
                   "z": -40.93
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3488,7 +3488,7 @@
                   "z": -40.93
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3503,7 +3503,7 @@
                   "z": -47.28
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3514,7 +3514,7 @@
                   "z": -47.28
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3529,7 +3529,7 @@
                   "z": 57.84
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3540,7 +3540,7 @@
                   "z": 57.84
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3555,7 +3555,7 @@
                   "z": -23.83
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3566,7 +3566,7 @@
                   "z": -23.83
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3581,7 +3581,7 @@
                   "z": -30.777
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3592,7 +3592,7 @@
                   "z": -30.777
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3607,7 +3607,7 @@
                   "z": 30.42
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3618,7 +3618,7 @@
                   "z": 30.42
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3633,7 +3633,7 @@
                   "z": 32.58
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3644,7 +3644,7 @@
                   "z": 32.58
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3659,7 +3659,7 @@
                   "z": -30.07
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3670,7 +3670,7 @@
                   "z": -30.07
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3685,7 +3685,7 @@
                   "z": -22.46
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3696,7 +3696,7 @@
                   "z": -22.46
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3711,7 +3711,7 @@
                   "z": -15.19
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3722,7 +3722,7 @@
                   "z": -15.19
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3737,7 +3737,7 @@
                   "z": 58.976
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3748,7 +3748,7 @@
                   "z": 58.976
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3769,7 +3769,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3780,7 +3780,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -3801,7 +3801,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3812,7 +3812,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -3833,7 +3833,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -3844,7 +3844,7 @@
                   "z": 6.08
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5279,7 +5279,7 @@
                   "z": 337.2477
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -5290,7 +5290,7 @@
                   "z": 337.2477
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ],
@@ -5311,7 +5311,7 @@
                   "z": 190.304688
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -5322,7 +5322,7 @@
                   "z": 190.304688
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ],
@@ -5343,7 +5343,7 @@
                   "z": 140.81
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -5354,7 +5354,7 @@
                   "z": 140.81
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ],
@@ -5585,7 +5585,7 @@
                   "z": 43.016
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5596,7 +5596,7 @@
                   "z": 43.016
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5617,7 +5617,7 @@
                   "z": 11.708993
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5628,7 +5628,7 @@
                   "z": 11.708993
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5649,7 +5649,7 @@
                   "z": 60.4110031
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5660,7 +5660,7 @@
                   "z": 60.4110031
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5681,7 +5681,7 @@
                   "z": 38.4242668
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5692,7 +5692,7 @@
                   "z": 38.4242668
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5713,7 +5713,7 @@
                   "z": -17.4860764
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5724,7 +5724,7 @@
                   "z": -17.4860764
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5745,7 +5745,7 @@
                   "z": -31.146
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5756,7 +5756,7 @@
                   "z": -31.146
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5777,7 +5777,7 @@
                   "z": 50.49
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -5788,7 +5788,7 @@
                   "z": 50.49
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -10203,7 +10203,7 @@
                   "z": 40.8179
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -10214,7 +10214,7 @@
                   "z": 40.8179
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -10246,7 +10246,7 @@
                   "z": 38.8869
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -10257,7 +10257,7 @@
                   "z": 38.8869
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -11826,28 +11826,6 @@
                   "z": -7.383
                 },
                 "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
                   "normalizedName": "factory"
                 }
               },
@@ -11860,6 +11838,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -11880,28 +11880,6 @@
                   "z": -48.389
                 },
                 "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
                   "normalizedName": "factory"
                 }
               },
@@ -11914,6 +11892,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -12134,7 +12134,7 @@
                   "z": -28.878
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -12145,7 +12145,7 @@
                   "z": -28.878
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -12160,7 +12160,7 @@
                   "z": 58.188
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -12171,7 +12171,7 @@
                   "z": 58.188
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -12186,7 +12186,7 @@
                   "z": 56.98
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -12197,7 +12197,7 @@
                   "z": 56.98
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -12212,7 +12212,7 @@
                   "z": -49.022
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -12223,7 +12223,7 @@
                   "z": -49.022
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -18999,28 +18999,6 @@
                   "z": 26.86
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
                   "normalizedName": "ground-zero-21"
                 }
               },
@@ -19033,6 +19011,28 @@
                 },
                 "map": {
                   "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -19673,7 +19673,7 @@
                   "z": 46.84
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19684,7 +19684,7 @@
                   "z": 13.58
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19695,7 +19695,7 @@
                   "z": -28.64
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19706,7 +19706,7 @@
                   "z": 13.58
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19717,7 +19717,7 @@
                   "z": 46.84
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               },
               {
@@ -19728,7 +19728,7 @@
                   "z": 13.58
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               },
               {
@@ -19739,7 +19739,7 @@
                   "z": -28.64
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               },
               {
@@ -19750,7 +19750,7 @@
                   "z": 13.58
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -19791,7 +19791,7 @@
                   "z": 35.114
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19802,7 +19802,7 @@
                   "z": 35.114
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19823,7 +19823,7 @@
                   "z": -32.477
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19834,7 +19834,7 @@
                   "z": -32.477
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19855,7 +19855,7 @@
                   "z": 60.426
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19866,7 +19866,7 @@
                   "z": 60.426
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19903,7 +19903,7 @@
                   "z": 64.7
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -19914,7 +19914,7 @@
                   "z": 64.7
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -19929,7 +19929,7 @@
                   "z": 65.72
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -19940,7 +19940,7 @@
                   "z": 65.72
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -19969,7 +19969,7 @@
                   "z": -32.8899155
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
@@ -19980,7 +19980,7 @@
                   "z": -32.8899155
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -20082,7 +20082,7 @@
                   "z": 170.889557
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -20093,7 +20093,7 @@
                   "z": 170.889557
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -75934,56 +75934,56 @@
               {
                 "id": "exit777",
                 "position": {
-                  "x": -41.5100021,
-                  "y": -12.633,
-                  "z": 122.67
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": 463.18,
-                  "y": -1.46,
-                  "z": -112.36
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": -41.5100021,
-                  "y": -12.633,
-                  "z": 122.67
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": 463.18,
-                  "y": -1.46,
-                  "z": -112.36
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
                   "x": 19.443,
                   "y": 1.07,
                   "z": 0.495
                 },
                 "map": {
                   "normalizedName": "the-labyrinth"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": -41.5100021,
+                  "y": -12.633,
+                  "z": 122.67
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 463.18,
+                  "y": -1.46,
+                  "z": -112.36
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": -41.5100021,
+                  "y": -12.633,
+                  "z": 122.67
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 463.18,
+                  "y": -1.46,
+                  "z": -112.36
+                },
+                "map": {
+                  "normalizedName": "customs"
                 }
               }
             ]
@@ -76102,7 +76102,7 @@
                   "z": 252.75
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -76113,7 +76113,7 @@
                   "z": 252.75
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
@@ -76148,7 +76148,7 @@
                   "z": 68.9
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               },
               {
@@ -76159,7 +76159,7 @@
                   "z": 68.9
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               }
             ]
