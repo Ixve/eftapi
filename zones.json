@@ -15,7 +15,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -26,7 +26,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -260,7 +260,7 @@
                   "z": 130.605
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -271,7 +271,7 @@
                   "z": 130.605
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -286,7 +286,7 @@
                   "z": 276.36
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -297,7 +297,7 @@
                   "z": 276.36
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -328,7 +328,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -339,7 +339,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -354,7 +354,7 @@
                   "z": -25.1
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -365,7 +365,7 @@
                   "z": -25.1
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -380,7 +380,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -1852,7 +1852,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -1863,7 +1863,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -5279,7 +5279,7 @@
                   "z": 337.2477
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -5290,7 +5290,7 @@
                   "z": 337.2477
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -5311,7 +5311,7 @@
                   "z": 190.304688
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -5322,7 +5322,7 @@
                   "z": 190.304688
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -5343,7 +5343,7 @@
                   "z": 140.81
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -5354,7 +5354,7 @@
                   "z": 140.81
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -18999,28 +18999,6 @@
                   "z": 26.86
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
                   "normalizedName": "ground-zero"
                 }
               },
@@ -19033,6 +19011,28 @@
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19903,7 +19903,7 @@
                   "z": 64.7
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -19914,7 +19914,7 @@
                   "z": 64.7
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19929,7 +19929,7 @@
                   "z": 65.72
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -19940,7 +19940,7 @@
                   "z": 65.72
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -20082,7 +20082,7 @@
                   "z": 170.889557
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -20093,7 +20093,7 @@
                   "z": 170.889557
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -76102,7 +76102,7 @@
                   "z": 252.75
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -76113,7 +76113,7 @@
                   "z": 252.75
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -76148,7 +76148,7 @@
                   "z": 68.9
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -76159,7 +76159,7 @@
                   "z": 68.9
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
