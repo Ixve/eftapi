@@ -8708,7 +8708,7 @@
             "items": [
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               }
             ]
           },
@@ -10731,22 +10731,22 @@
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": 2.22,
+                  "y": -101.46,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "customs"
+                  "normalizedName": "reserve"
                 }
               },
               {
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": -101.46,
+                  "y": 2.22,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "reserve"
+                  "normalizedName": "customs"
                 }
               }
             ]
@@ -13769,7 +13769,7 @@
               },
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               },
               {
                 "id": "6176a48d732a664031271438",
@@ -16133,34 +16133,34 @@
               {
                 "id": "prapor_outposts",
                 "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
                   "x": -257.1,
                   "y": -5.7,
                   "z": -99.5
                 },
                 "map": {
                   "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
                 }
               }
             ]
@@ -22203,7 +22203,7 @@
               },
               {
                 "id": "62987dfc402c7f69bf010923",
-                "shortName": "Bedroom"
+                "shortName": "Substation"
               },
               {
                 "id": "62987e26a77ec735f90a2995",
@@ -25671,7 +25671,7 @@
               },
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               },
               {
                 "id": "6176a48d732a664031271438",
@@ -35640,7 +35640,7 @@
               },
               {
                 "id": "62987dfc402c7f69bf010923",
-                "shortName": "Bedroom"
+                "shortName": "Substation"
               },
               {
                 "id": "62987e26a77ec735f90a2995",
@@ -39108,7 +39108,7 @@
               },
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               },
               {
                 "id": "6176a48d732a664031271438",
@@ -48905,7 +48905,7 @@
               },
               {
                 "id": "62987dfc402c7f69bf010923",
-                "shortName": "Bedroom"
+                "shortName": "Substation"
               },
               {
                 "id": "62987e26a77ec735f90a2995",
@@ -53085,7 +53085,7 @@
               },
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               },
               {
                 "id": "6176a48d732a664031271438",
@@ -64166,7 +64166,7 @@
               },
               {
                 "id": "62987dfc402c7f69bf010923",
-                "shortName": "Bedroom"
+                "shortName": "Substation"
               },
               {
                 "id": "62987e26a77ec735f90a2995",
@@ -67634,7 +67634,7 @@
               },
               {
                 "id": "62a09e08de7ac81993580532",
-                "shortName": "Glorious"
+                "shortName": "Glorious E"
               },
               {
                 "id": "6176a48d732a664031271438",
