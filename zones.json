@@ -4270,9 +4270,9 @@
               {
                 "id": "qlight_mark_vech2",
                 "position": {
-                  "x": -65.24,
+                  "x": -65.14,
                   "y": 3.36,
-                  "z": -691.48
+                  "z": -691.74
                 },
                 "map": {
                   "normalizedName": "lighthouse"
@@ -4285,9 +4285,9 @@
               {
                 "id": "qlight_mark_vech3",
                 "position": {
-                  "x": 66.08,
+                  "x": 66.05,
                   "y": 2.76,
-                  "z": 516.58
+                  "z": 516.78
                 },
                 "map": {
                   "normalizedName": "lighthouse"
@@ -4300,9 +4300,9 @@
               {
                 "id": "qlight_mark_vech4",
                 "position": {
-                  "x": -41.47,
+                  "x": -41.03,
                   "y": 10.19,
-                  "z": 16.49
+                  "z": 16.5
                 },
                 "map": {
                   "normalizedName": "lighthouse"
@@ -16455,9 +16455,9 @@
               {
                 "id": "qlight_pc1_ucot_kill",
                 "position": {
-                  "x": -117.67,
-                  "y": 22.24,
-                  "z": -4.11
+                  "x": -123.77,
+                  "y": 39.24,
+                  "z": 9.39
                 },
                 "map": {
                   "normalizedName": "lighthouse"
@@ -16494,7 +16494,7 @@
                 "id": "qlight_fuel_blood",
                 "position": {
                   "x": -116.6,
-                  "y": 11.67,
+                  "y": 11.46,
                   "z": -921.85
                 },
                 "map": {
@@ -16509,7 +16509,7 @@
                 "id": "qlight_fuel_blood_bezovoz1",
                 "position": {
                   "x": -73.71,
-                  "y": 11.61,
+                  "y": 11.76,
                   "z": -875.55
                 },
                 "map": {
@@ -16523,9 +16523,9 @@
               {
                 "id": "qlight_fuel_blood_bezovoz2",
                 "position": {
-                  "x": -158.46,
-                  "y": 6.04,
-                  "z": -608.02
+                  "x": -156.44,
+                  "y": 6.33,
+                  "z": -610.45
                 },
                 "map": {
                   "normalizedName": "lighthouse"
@@ -16538,9 +16538,9 @@
               {
                 "id": "qlight_fuel_blood_bezovoz3",
                 "position": {
-                  "x": 29.08,
-                  "y": 5.99,
-                  "z": -423.36
+                  "x": 30.34,
+                  "y": 6.18,
+                  "z": -422.16
                 },
                 "map": {
                   "normalizedName": "lighthouse"
