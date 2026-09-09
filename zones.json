@@ -15,7 +15,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -26,7 +26,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -255,23 +255,23 @@
               {
                 "id": "Sandbox_2_Kord_exploration",
                 "position": {
-                  "x": 56.603,
-                  "y": 32.336,
-                  "z": 130.605
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_2_Kord_exploration",
-                "position": {
                   "x": 56.6,
                   "y": 32.34,
                   "z": 130.6
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_2_Kord_exploration",
+                "position": {
+                  "x": 56.603,
+                  "y": 32.336,
+                  "z": 130.605
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -281,23 +281,23 @@
               {
                 "id": "Sandbox_2_AGS_exploration",
                 "position": {
-                  "x": 101.043,
-                  "y": 34.16,
-                  "z": 276.36
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_2_AGS_exploration",
-                "position": {
                   "x": 101.04,
                   "y": 34.16,
                   "z": 276.36
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_2_AGS_exploration",
+                "position": {
+                  "x": 101.043,
+                  "y": 34.16,
+                  "z": 276.36
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -328,7 +328,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -339,24 +339,13 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "Sandbox_5_DeadGroup_exploration",
-                "position": {
-                  "x": -21.01,
-                  "y": 24.228,
-                  "z": -25.1
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
               {
                 "id": "Sandbox_5_DeadGroup_exploration",
                 "position": {
@@ -367,6 +356,17 @@
                 "map": {
                   "normalizedName": "ground-zero"
                 }
+              },
+              {
+                "id": "Sandbox_5_DeadGroup_exploration",
+                "position": {
+                  "x": -21.01,
+                  "y": 24.228,
+                  "z": -25.1
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
               }
             ]
           },
@@ -380,7 +380,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -1168,23 +1168,23 @@
               {
                 "id": "Check_mine_zone_factory",
                 "position": {
-                  "x": 25.35,
-                  "y": 8.76,
-                  "z": 39.25
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "Check_mine_zone_factory",
-                "position": {
                   "x": 24.47,
                   "y": 9.34,
                   "z": 38.74
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "Check_mine_zone_factory",
+                "position": {
+                  "x": 25.35,
+                  "y": 8.76,
+                  "z": 39.25
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -1852,7 +1852,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -1863,7 +1863,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -2799,17 +2799,6 @@
               {
                 "id": "nf2024_6_beacon_1",
                 "position": {
-                  "x": -16.994,
-                  "y": -1.596,
-                  "z": 34.808
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_6_beacon_1",
-                "position": {
                   "x": -16.99,
                   "y": -1.6,
                   "z": 34.81
@@ -2819,11 +2808,11 @@
                 }
               },
               {
-                "id": "nf2024_6_beacon_2",
+                "id": "nf2024_6_beacon_1",
                 "position": {
-                  "x": 34.428,
-                  "y": -1.476,
-                  "z": -4.445
+                  "x": -16.994,
+                  "y": -1.596,
+                  "z": 34.808
                 },
                 "map": {
                   "normalizedName": "night-factory"
@@ -2841,11 +2830,11 @@
                 }
               },
               {
-                "id": "nf2024_6_beacon_3",
+                "id": "nf2024_6_beacon_2",
                 "position": {
-                  "x": 45.615,
-                  "y": -1.596,
-                  "z": -36.126
+                  "x": 34.428,
+                  "y": -1.476,
+                  "z": -4.445
                 },
                 "map": {
                   "normalizedName": "night-factory"
@@ -2860,6 +2849,17 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_3",
+                "position": {
+                  "x": 45.615,
+                  "y": -1.596,
+                  "z": -36.126
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3948,28 +3948,6 @@
               {
                 "id": "ter_017_area_1",
                 "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
                   "x": 24.61,
                   "y": 9.17,
                   "z": 39.08
@@ -3987,6 +3965,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3996,28 +3996,6 @@
               {
                 "id": "ter_017_area_1",
                 "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
                   "x": 24.61,
                   "y": 9.17,
                   "z": 39.08
@@ -4035,6 +4013,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -4946,23 +4946,23 @@
               {
                 "id": "zone_nakatoimi",
                 "position": {
-                  "x": 4.628006,
-                  "y": 23.95,
-                  "z": 337.2477
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "zone_nakatoimi",
-                "position": {
                   "x": 3.99,
                   "y": 24.27,
                   "z": 336.33
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "zone_nakatoimi",
+                "position": {
+                  "x": 4.628006,
+                  "y": 23.95,
+                  "z": 337.2477
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -4975,17 +4975,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_computer",
-                "position": {
-                  "x": 118.714516,
-                  "y": 24.2415,
-                  "z": 190.304688
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
               {
                 "id": "zone_computer",
                 "position": {
@@ -4996,6 +4985,17 @@
                 "map": {
                   "normalizedName": "ground-zero"
                 }
+              },
+              {
+                "id": "zone_computer",
+                "position": {
+                  "x": 118.714516,
+                  "y": 24.2415,
+                  "z": 190.304688
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
               }
             ],
             "items": [
@@ -5010,23 +5010,23 @@
               {
                 "id": "zone_six_chair",
                 "position": {
-                  "x": 41.1,
-                  "y": 31.411,
-                  "z": 140.81
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "zone_six_chair",
-                "position": {
                   "x": 40.4,
                   "y": 31.68,
                   "z": 140.68
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "zone_six_chair",
+                "position": {
+                  "x": 41.1,
+                  "y": 31.411,
+                  "z": 140.81
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -5252,23 +5252,23 @@
               {
                 "id": "zone_451",
                 "position": {
-                  "x": 17.42,
-                  "y": 1.832,
-                  "z": 43.016
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "zone_451",
-                "position": {
                   "x": 16.38,
                   "y": 1.8,
                   "z": 42.78
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_451",
+                "position": {
+                  "x": 17.42,
+                  "y": 1.832,
+                  "z": 43.016
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5281,17 +5281,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_half-life",
-                "position": {
-                  "x": 21.4003162,
-                  "y": -1.87831354,
-                  "z": 11.708993
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_half-life",
                 "position": {
@@ -5302,6 +5291,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_half-life",
+                "position": {
+                  "x": 21.4003162,
+                  "y": -1.87831354,
+                  "z": 11.708993
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5313,17 +5313,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_terminator",
-                "position": {
-                  "x": -49.607,
-                  "y": 2.34749985,
-                  "z": 60.4110031
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_terminator",
                 "position": {
@@ -5334,6 +5323,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_terminator",
+                "position": {
+                  "x": -49.607,
+                  "y": 2.34749985,
+                  "z": 60.4110031
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5345,17 +5345,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_Always_sunny",
-                "position": {
-                  "x": 27.3690071,
-                  "y": 9.233061,
-                  "z": 38.4242668
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_Always_sunny",
                 "position": {
@@ -5366,6 +5355,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_Always_sunny",
+                "position": {
+                  "x": 27.3690071,
+                  "y": 9.233061,
+                  "z": 38.4242668
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5377,17 +5377,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_harry_potter",
-                "position": {
-                  "x": 52.4067078,
-                  "y": 1.8644464,
-                  "z": -17.4860764
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_harry_potter",
                 "position": {
@@ -5398,6 +5387,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_harry_potter",
+                "position": {
+                  "x": 52.4067078,
+                  "y": 1.8644464,
+                  "z": -17.4860764
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5409,17 +5409,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_sapper",
-                "position": {
-                  "x": 30.7356358,
-                  "y": 4.287,
-                  "z": -31.146
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_sapper",
                 "position": {
@@ -5430,6 +5419,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_sapper",
+                "position": {
+                  "x": 30.7356358,
+                  "y": 4.287,
+                  "z": -31.146
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5444,23 +5444,23 @@
               {
                 "id": "zone_stairway",
                 "position": {
-                  "x": 59.563,
-                  "y": 0.7,
-                  "z": 50.49
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "zone_stairway",
-                "position": {
                   "x": 59.79,
                   "y": 1.22,
                   "z": 50.29
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_stairway",
+                "position": {
+                  "x": 59.563,
+                  "y": 0.7,
+                  "z": 50.49
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -9941,23 +9941,23 @@
               {
                 "id": "case_extraction",
                 "position": {
-                  "x": 41.7418137,
-                  "y": 5.448181,
-                  "z": 40.8179
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "case_extraction",
-                "position": {
                   "x": 41.74,
                   "y": 5.45,
                   "z": 40.82
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "case_extraction",
+                "position": {
+                  "x": 41.7418137,
+                  "y": 5.448181,
+                  "z": 40.8179
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -9984,23 +9984,23 @@
               {
                 "id": "locked_office",
                 "position": {
-                  "x": 30.131813,
-                  "y": 8.718182,
-                  "z": 38.8869
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "locked_office",
-                "position": {
                   "x": 30.13,
                   "y": 8.72,
                   "z": 38.89
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "locked_office",
+                "position": {
+                  "x": 30.131813,
+                  "y": 8.718182,
+                  "z": 38.8869
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -11634,28 +11634,6 @@
               {
                 "id": "place_SADOVOD_01_1",
                 "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
                   "x": 68.19,
                   "y": 1.06,
                   "z": -7.38
@@ -11673,6 +11651,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -11688,28 +11688,6 @@
               {
                 "id": "place_SADOVOD_01_2",
                 "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
                   "x": 60.08,
                   "y": 1.09,
                   "z": -48.39
@@ -11727,6 +11705,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -11942,17 +11942,6 @@
               {
                 "id": "place_pacemaker_SCOUT_01",
                 "position": {
-                  "x": 66.665,
-                  "y": -1.676,
-                  "z": -28.878
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_pacemaker_SCOUT_01",
-                "position": {
                   "x": 66.67,
                   "y": -1.68,
                   "z": -28.88
@@ -11960,22 +11949,22 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_01",
+                "position": {
+                  "x": 66.665,
+                  "y": -1.676,
+                  "z": -28.878
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "place_pacemaker_SCOUT_02",
-                "position": {
-                  "x": -53.107,
-                  "y": 2.292,
-                  "z": 58.188
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "place_pacemaker_SCOUT_02",
                 "position": {
@@ -11986,22 +11975,22 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_02",
+                "position": {
+                  "x": -53.107,
+                  "y": 2.292,
+                  "z": 58.188
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "place_pacemaker_SCOUT_03",
-                "position": {
-                  "x": 59.698,
-                  "y": 1.163,
-                  "z": 56.98
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "place_pacemaker_SCOUT_03",
                 "position": {
@@ -12012,6 +12001,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_03",
+                "position": {
+                  "x": 59.698,
+                  "y": 1.163,
+                  "z": 56.98
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
@@ -12021,22 +12021,22 @@
                 "id": "place_pacemaker_SCOUT_04",
                 "position": {
                   "x": -18.4,
-                  "y": 1.16133332,
-                  "z": -49.022
+                  "y": 1.16,
+                  "z": -49.02
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
                 "id": "place_pacemaker_SCOUT_04",
                 "position": {
                   "x": -18.4,
-                  "y": 1.16,
-                  "z": -49.02
+                  "y": 1.16133332,
+                  "z": -49.022
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -16133,34 +16133,34 @@
               {
                 "id": "prapor_outposts",
                 "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
                   "x": -257.1,
                   "y": -5.7,
                   "z": -99.5
                 },
                 "map": {
                   "normalizedName": "shoreline"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
                 }
               }
             ]
@@ -18995,33 +18995,33 @@
                 "id": "Sandbox_3_Vino_exploration",
                 "position": {
                   "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
                   "y": 24.23,
                   "z": 26.86
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19682,50 +19682,6 @@
                 "position": {
                   "x": 19.81,
                   "y": -2.56,
-                  "z": 46.84
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": -51.08,
-                  "y": -2.99,
-                  "z": 13.58
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 19.81,
-                  "y": -2.99,
-                  "z": -28.64
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 64.99,
-                  "y": -2.99,
-                  "z": 13.58
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 19.81,
-                  "y": -2.56,
                   "z": 3.3
                 },
                 "map": {
@@ -19775,6 +19731,50 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 19.81,
+                  "y": -2.56,
+                  "z": 46.84
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": -51.08,
+                  "y": -2.99,
+                  "z": 13.58
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 19.81,
+                  "y": -2.99,
+                  "z": -28.64
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 64.99,
+                  "y": -2.99,
+                  "z": 13.58
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           }
@@ -19809,23 +19809,23 @@
               {
                 "id": "nf2024_7_1",
                 "position": {
-                  "x": 63.612,
-                  "y": 6.44,
-                  "z": 35.114
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_7_1",
-                "position": {
                   "x": 63.61,
                   "y": 6.44,
                   "z": 35.11
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_1",
+                "position": {
+                  "x": 63.612,
+                  "y": 6.44,
+                  "z": 35.114
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19838,17 +19838,6 @@
           },
           {
             "zones": [
-              {
-                "id": "nf2024_7_2",
-                "position": {
-                  "x": -5.474,
-                  "y": 5.776,
-                  "z": -32.477
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "nf2024_7_2",
                 "position": {
@@ -19859,6 +19848,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "nf2024_7_2",
+                "position": {
+                  "x": -5.474,
+                  "y": 5.776,
+                  "z": -32.477
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -19873,23 +19873,23 @@
               {
                 "id": "nf2024_7_3",
                 "position": {
-                  "x": -24.441,
-                  "y": 6.197,
-                  "z": 60.426
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_7_3",
-                "position": {
                   "x": -24.44,
                   "y": 6.2,
                   "z": 60.43
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_3",
+                "position": {
+                  "x": -24.441,
+                  "y": 6.197,
+                  "z": 60.426
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19921,23 +19921,23 @@
               {
                 "id": "Prospect_mira",
                 "position": {
-                  "x": 172.43,
-                  "y": 17.31,
-                  "z": 64.7
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Prospect_mira",
-                "position": {
                   "x": 205.37,
                   "y": 17.31,
                   "z": 36.81
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Prospect_mira",
+                "position": {
+                  "x": 172.43,
+                  "y": 17.31,
+                  "z": 64.7
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19947,23 +19947,23 @@
               {
                 "id": "Transits_to_streets",
                 "position": {
-                  "x": 222.829117,
-                  "y": 15.993,
-                  "z": 65.72
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Transits_to_streets",
-                "position": {
                   "x": 227.45,
                   "y": 16.99,
                   "z": 66.5
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Transits_to_streets",
+                "position": {
+                  "x": 222.829117,
+                  "y": 15.993,
+                  "z": 65.72
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19987,23 +19987,23 @@
               {
                 "id": "Place_accurate_tools",
                 "position": {
-                  "x": 27.89,
-                  "y": 1.15,
-                  "z": -32.8899155
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "Place_accurate_tools",
-                "position": {
                   "x": 28.13,
                   "y": 1.15,
                   "z": -34.37
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "Place_accurate_tools",
+                "position": {
+                  "x": 27.89,
+                  "y": 1.15,
+                  "z": -32.8899155
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -20100,23 +20100,23 @@
               {
                 "id": "Sandbox_mine_quest",
                 "position": {
-                  "x": 60.3543625,
-                  "y": 23.7417164,
-                  "z": 170.889557
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_mine_quest",
-                "position": {
                   "x": 59.46,
                   "y": 24.29,
                   "z": 172.85
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_mine_quest",
+                "position": {
+                  "x": 60.3543625,
+                  "y": 23.7417164,
+                  "z": 170.889557
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -76182,23 +76182,23 @@
               {
                 "id": "event_labyrinth_01_mech_place_01",
                 "position": {
-                  "x": 55.26,
-                  "y": 23.79,
-                  "z": 252.75
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "event_labyrinth_01_mech_place_01",
-                "position": {
                   "x": 89.19,
                   "y": 23.79,
                   "z": 224.86
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "event_labyrinth_01_mech_place_01",
+                "position": {
+                  "x": 55.26,
+                  "y": 23.79,
+                  "z": 252.75
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -76228,23 +76228,23 @@
               {
                 "id": "event_labyrinth_02_mech_place_01",
                 "position": {
-                  "x": -15.4,
-                  "y": 23.79,
-                  "z": 68.9
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "event_labyrinth_02_mech_place_01",
-                "position": {
                   "x": 18.53,
                   "y": 23.79,
                   "z": 41.01
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "event_labyrinth_02_mech_place_01",
+                "position": {
+                  "x": -15.4,
+                  "y": 23.79,
+                  "z": 68.9
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
