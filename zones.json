@@ -16033,34 +16033,34 @@
               {
                 "id": "prapor_outposts",
                 "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
                   "x": -198.8,
                   "y": 5.1,
                   "z": 222
                 },
                 "map": {
                   "normalizedName": "woods"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
                 }
               },
               {
@@ -19191,23 +19191,23 @@
               {
                 "id": "q14_10_kill_ice",
                 "position": {
-                  "x": 438.79,
-                  "y": 32.4,
-                  "z": 145.6
-                },
-                "map": {
-                  "normalizedName": "interchange"
-                }
-              },
-              {
-                "id": "q14_10_kill_ice",
-                "position": {
                   "x": -591.8,
                   "y": -20.3,
                   "z": -117.7
                 },
                 "map": {
                   "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "q14_10_kill_ice",
+                "position": {
+                  "x": 438.79,
+                  "y": 32.4,
+                  "z": 145.6
+                },
+                "map": {
+                  "normalizedName": "interchange"
                 }
               }
             ]
