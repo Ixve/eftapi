@@ -10731,22 +10731,22 @@
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": -101.46,
+                  "y": 2.22,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "reserve"
+                  "normalizedName": "customs"
                 }
               },
               {
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": 2.22,
+                  "y": -101.46,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "customs"
+                  "normalizedName": "reserve"
                 }
               }
             ]
@@ -16044,34 +16044,34 @@
               {
                 "id": "prapor_outposts",
                 "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
                   "x": -198.8,
                   "y": 5.1,
                   "z": 222
                 },
                 "map": {
                   "normalizedName": "woods"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
                 }
               }
             ]
@@ -19191,23 +19191,23 @@
               {
                 "id": "q14_10_kill_ice",
                 "position": {
-                  "x": 438.79,
-                  "y": 32.4,
-                  "z": 145.6
-                },
-                "map": {
-                  "normalizedName": "interchange"
-                }
-              },
-              {
-                "id": "q14_10_kill_ice",
-                "position": {
                   "x": -591.8,
                   "y": -20.3,
                   "z": -117.7
                 },
                 "map": {
                   "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "q14_10_kill_ice",
+                "position": {
+                  "x": 438.79,
+                  "y": 32.4,
+                  "z": 145.6
+                },
+                "map": {
+                  "normalizedName": "interchange"
                 }
               }
             ]
@@ -75952,17 +75952,6 @@
               {
                 "id": "exit777",
                 "position": {
-                  "x": 19.44,
-                  "y": 1.07,
-                  "z": 0.5
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
                   "x": -41.51,
                   "y": -12.63,
                   "z": 122.67
@@ -75980,6 +75969,17 @@
                 },
                 "map": {
                   "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 19.44,
+                  "y": 1.07,
+                  "z": 0.5
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
                 }
               }
             ]
