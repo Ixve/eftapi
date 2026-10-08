@@ -15,7 +15,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -26,7 +26,7 @@
                   "z": -83.59
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -255,23 +255,23 @@
               {
                 "id": "Sandbox_2_Kord_exploration",
                 "position": {
-                  "x": 56.603,
-                  "y": 32.336,
-                  "z": 130.605
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_2_Kord_exploration",
-                "position": {
                   "x": 56.6,
                   "y": 32.34,
                   "z": 130.6
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_2_Kord_exploration",
+                "position": {
+                  "x": 56.603,
+                  "y": 32.336,
+                  "z": 130.605
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -281,23 +281,23 @@
               {
                 "id": "Sandbox_2_AGS_exploration",
                 "position": {
-                  "x": 101.043,
-                  "y": 34.16,
-                  "z": 276.36
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_2_AGS_exploration",
-                "position": {
                   "x": 101.04,
                   "y": 34.16,
                   "z": 276.36
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_2_AGS_exploration",
+                "position": {
+                  "x": 101.043,
+                  "y": 34.16,
+                  "z": 276.36
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -328,7 +328,7 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -339,24 +339,13 @@
                   "z": 51.33
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "Sandbox_5_DeadGroup_exploration",
-                "position": {
-                  "x": -21.01,
-                  "y": 24.228,
-                  "z": -25.1
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
               {
                 "id": "Sandbox_5_DeadGroup_exploration",
                 "position": {
@@ -367,6 +356,17 @@
                 "map": {
                   "normalizedName": "ground-zero"
                 }
+              },
+              {
+                "id": "Sandbox_5_DeadGroup_exploration",
+                "position": {
+                  "x": -21.01,
+                  "y": 24.228,
+                  "z": -25.1
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
               }
             ]
           },
@@ -380,7 +380,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "z": 27.42
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -1872,7 +1872,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero-21"
+                  "normalizedName": "ground-zero"
                 }
               },
               {
@@ -1883,7 +1883,7 @@
                   "z": 148.06
                 },
                 "map": {
-                  "normalizedName": "ground-zero"
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -4966,23 +4966,23 @@
               {
                 "id": "zone_nakatoimi",
                 "position": {
-                  "x": 4.628006,
-                  "y": 23.95,
-                  "z": 337.2477
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "zone_nakatoimi",
-                "position": {
                   "x": 3.99,
                   "y": 24.27,
                   "z": 336.33
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "zone_nakatoimi",
+                "position": {
+                  "x": 4.628006,
+                  "y": 23.95,
+                  "z": 337.2477
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -4995,17 +4995,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_computer",
-                "position": {
-                  "x": 118.714516,
-                  "y": 24.2415,
-                  "z": 190.304688
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
               {
                 "id": "zone_computer",
                 "position": {
@@ -5016,6 +5005,17 @@
                 "map": {
                   "normalizedName": "ground-zero"
                 }
+              },
+              {
+                "id": "zone_computer",
+                "position": {
+                  "x": 118.714516,
+                  "y": 24.2415,
+                  "z": 190.304688
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
               }
             ],
             "items": [
@@ -5030,23 +5030,23 @@
               {
                 "id": "zone_six_chair",
                 "position": {
-                  "x": 41.1,
-                  "y": 31.411,
-                  "z": 140.81
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "zone_six_chair",
-                "position": {
                   "x": 40.4,
                   "y": 31.68,
                   "z": 140.68
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "zone_six_chair",
+                "position": {
+                  "x": 41.1,
+                  "y": 31.411,
+                  "z": 140.81
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ],
@@ -16287,23 +16287,23 @@
               {
                 "id": "prapor_outposts",
                 "position": {
-                  "x": -198.8,
-                  "y": 5.1,
-                  "z": 222
-                },
-                "map": {
-                  "normalizedName": "woods"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
                   "x": -257.1,
                   "y": -5.7,
                   "z": -99.5
                 },
                 "map": {
                   "normalizedName": "shoreline"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": -198.8,
+                  "y": 5.1,
+                  "z": 222
+                },
+                "map": {
+                  "normalizedName": "woods"
                 }
               },
               {
@@ -18729,33 +18729,33 @@
                 "id": "Sandbox_3_Vino_exploration",
                 "position": {
                   "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
-                  "y": 24.228,
-                  "z": 26.86
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_3_Vino_exploration",
-                "position": {
-                  "x": 117.06,
                   "y": 24.23,
                   "z": 26.86
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
+                }
+              },
+              {
+                "id": "Sandbox_3_Vino_exploration",
+                "position": {
+                  "x": 117.06,
+                  "y": 24.228,
+                  "z": 26.86
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19655,23 +19655,23 @@
               {
                 "id": "Prospect_mira",
                 "position": {
-                  "x": 172.43,
-                  "y": 17.31,
-                  "z": 64.7
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Prospect_mira",
-                "position": {
                   "x": 205.37,
                   "y": 17.31,
                   "z": 36.81
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Prospect_mira",
+                "position": {
+                  "x": 172.43,
+                  "y": 17.31,
+                  "z": 64.7
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19681,23 +19681,23 @@
               {
                 "id": "Transits_to_streets",
                 "position": {
-                  "x": 222.829117,
-                  "y": 15.993,
-                  "z": 65.72
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Transits_to_streets",
-                "position": {
                   "x": 227.45,
                   "y": 16.99,
                   "z": 66.5
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Transits_to_streets",
+                "position": {
+                  "x": 222.829117,
+                  "y": 15.993,
+                  "z": 65.72
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -19834,23 +19834,23 @@
               {
                 "id": "Sandbox_mine_quest",
                 "position": {
-                  "x": 60.3543625,
-                  "y": 23.7417164,
-                  "z": 170.889557
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "Sandbox_mine_quest",
-                "position": {
                   "x": 59.46,
                   "y": 24.29,
                   "z": 172.85
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "Sandbox_mine_quest",
+                "position": {
+                  "x": 60.3543625,
+                  "y": 23.7417164,
+                  "z": 170.889557
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -75775,6 +75775,17 @@
               {
                 "id": "exit777",
                 "position": {
+                  "x": 19.44,
+                  "y": 1.07,
+                  "z": 0.5
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
                   "x": -41.51,
                   "y": -12.63,
                   "z": 122.67
@@ -75803,17 +75814,6 @@
                 },
                 "map": {
                   "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
-                  "x": 19.44,
-                  "y": 1.07,
-                  "z": 0.5
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
                 }
               }
             ]
@@ -75927,23 +75927,23 @@
               {
                 "id": "event_labyrinth_01_mech_place_01",
                 "position": {
-                  "x": 55.26,
-                  "y": 23.79,
-                  "z": 252.75
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "event_labyrinth_01_mech_place_01",
-                "position": {
                   "x": 89.19,
                   "y": 23.79,
                   "z": 224.86
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "event_labyrinth_01_mech_place_01",
+                "position": {
+                  "x": 55.26,
+                  "y": 23.79,
+                  "z": 252.75
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
@@ -75973,23 +75973,23 @@
               {
                 "id": "event_labyrinth_02_mech_place_01",
                 "position": {
-                  "x": -15.4,
-                  "y": 23.79,
-                  "z": 68.9
-                },
-                "map": {
-                  "normalizedName": "ground-zero-21"
-                }
-              },
-              {
-                "id": "event_labyrinth_02_mech_place_01",
-                "position": {
                   "x": 18.53,
                   "y": 23.79,
                   "z": 41.01
                 },
                 "map": {
                   "normalizedName": "ground-zero"
+                }
+              },
+              {
+                "id": "event_labyrinth_02_mech_place_01",
+                "position": {
+                  "x": -15.4,
+                  "y": 23.79,
+                  "z": 68.9
+                },
+                "map": {
+                  "normalizedName": "ground-zero-21"
                 }
               }
             ]
