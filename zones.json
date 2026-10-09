@@ -1188,23 +1188,23 @@
               {
                 "id": "Check_mine_zone_factory",
                 "position": {
-                  "x": 25.35,
-                  "y": 8.76,
-                  "z": 39.25
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "Check_mine_zone_factory",
-                "position": {
                   "x": 24.47,
                   "y": 9.34,
                   "z": 38.74
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "Check_mine_zone_factory",
+                "position": {
+                  "x": 25.35,
+                  "y": 8.76,
+                  "z": 39.25
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -2819,17 +2819,6 @@
               {
                 "id": "nf2024_6_beacon_1",
                 "position": {
-                  "x": -16.994,
-                  "y": -1.596,
-                  "z": 34.808
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_6_beacon_1",
-                "position": {
                   "x": -16.99,
                   "y": -1.6,
                   "z": 34.81
@@ -2839,11 +2828,11 @@
                 }
               },
               {
-                "id": "nf2024_6_beacon_2",
+                "id": "nf2024_6_beacon_1",
                 "position": {
-                  "x": 34.428,
-                  "y": -1.476,
-                  "z": -4.445
+                  "x": -16.994,
+                  "y": -1.596,
+                  "z": 34.808
                 },
                 "map": {
                   "normalizedName": "night-factory"
@@ -2861,11 +2850,11 @@
                 }
               },
               {
-                "id": "nf2024_6_beacon_3",
+                "id": "nf2024_6_beacon_2",
                 "position": {
-                  "x": 45.615,
-                  "y": -1.596,
-                  "z": -36.126
+                  "x": 34.428,
+                  "y": -1.476,
+                  "z": -4.445
                 },
                 "map": {
                   "normalizedName": "night-factory"
@@ -2880,6 +2869,17 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_6_beacon_3",
+                "position": {
+                  "x": 45.615,
+                  "y": -1.596,
+                  "z": -36.126
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -3968,28 +3968,6 @@
               {
                 "id": "ter_017_area_1",
                 "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
                   "x": 24.61,
                   "y": 9.17,
                   "z": 39.08
@@ -4007,6 +3985,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -4016,28 +4016,6 @@
               {
                 "id": "ter_017_area_1",
                 "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
-                  "x": 24.609,
-                  "y": 9.17,
-                  "z": 39.078
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "ter_017_area_1",
-                "position": {
                   "x": 24.61,
                   "y": 9.17,
                   "z": 39.08
@@ -4055,6 +4033,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "ter_017_area_1",
+                "position": {
+                  "x": 24.609,
+                  "y": 9.17,
+                  "z": 39.078
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5272,23 +5272,23 @@
               {
                 "id": "zone_451",
                 "position": {
-                  "x": 17.42,
-                  "y": 1.832,
-                  "z": 43.016
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "zone_451",
-                "position": {
                   "x": 16.38,
                   "y": 1.8,
                   "z": 42.78
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_451",
+                "position": {
+                  "x": 17.42,
+                  "y": 1.832,
+                  "z": 43.016
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -5301,17 +5301,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_half-life",
-                "position": {
-                  "x": 21.4003162,
-                  "y": -1.87831354,
-                  "z": 11.708993
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_half-life",
                 "position": {
@@ -5322,6 +5311,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_half-life",
+                "position": {
+                  "x": 21.4003162,
+                  "y": -1.87831354,
+                  "z": 11.708993
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5333,17 +5333,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_terminator",
-                "position": {
-                  "x": -49.607,
-                  "y": 2.34749985,
-                  "z": 60.4110031
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_terminator",
                 "position": {
@@ -5354,6 +5343,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_terminator",
+                "position": {
+                  "x": -49.607,
+                  "y": 2.34749985,
+                  "z": 60.4110031
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5365,17 +5365,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_Always_sunny",
-                "position": {
-                  "x": 27.3690071,
-                  "y": 9.233061,
-                  "z": 38.4242668
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_Always_sunny",
                 "position": {
@@ -5386,6 +5375,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_Always_sunny",
+                "position": {
+                  "x": 27.3690071,
+                  "y": 9.233061,
+                  "z": 38.4242668
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5397,17 +5397,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_harry_potter",
-                "position": {
-                  "x": 52.4067078,
-                  "y": 1.8644464,
-                  "z": -17.4860764
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_harry_potter",
                 "position": {
@@ -5418,6 +5407,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_harry_potter",
+                "position": {
+                  "x": 52.4067078,
+                  "y": 1.8644464,
+                  "z": -17.4860764
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5429,17 +5429,6 @@
           },
           {
             "zones": [
-              {
-                "id": "zone_sapper",
-                "position": {
-                  "x": 30.7356358,
-                  "y": 4.287,
-                  "z": -31.146
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "zone_sapper",
                 "position": {
@@ -5450,6 +5439,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "zone_sapper",
+                "position": {
+                  "x": 30.7356358,
+                  "y": 4.287,
+                  "z": -31.146
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -5464,23 +5464,23 @@
               {
                 "id": "zone_stairway",
                 "position": {
-                  "x": 59.563,
-                  "y": 0.7,
-                  "z": 50.49
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "zone_stairway",
-                "position": {
                   "x": 59.79,
                   "y": 1.22,
                   "z": 50.29
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "zone_stairway",
+                "position": {
+                  "x": 59.563,
+                  "y": 0.7,
+                  "z": 50.49
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -10111,23 +10111,23 @@
               {
                 "id": "case_extraction",
                 "position": {
-                  "x": 41.7418137,
-                  "y": 5.448181,
-                  "z": 40.8179
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "case_extraction",
-                "position": {
                   "x": 41.74,
                   "y": 5.45,
                   "z": 40.82
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "case_extraction",
+                "position": {
+                  "x": 41.7418137,
+                  "y": 5.448181,
+                  "z": 40.8179
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -10154,23 +10154,23 @@
               {
                 "id": "locked_office",
                 "position": {
-                  "x": 30.131813,
-                  "y": 8.718182,
-                  "z": 38.8869
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "locked_office",
-                "position": {
                   "x": 30.13,
                   "y": 8.72,
                   "z": 38.89
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "locked_office",
+                "position": {
+                  "x": 30.131813,
+                  "y": 8.718182,
+                  "z": 38.8869
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -10901,22 +10901,22 @@
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": -101.46,
+                  "y": 2.22,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "reserve"
+                  "normalizedName": "customs"
                 }
               },
               {
                 "id": "fuel4",
                 "position": {
                   "x": -334.93,
-                  "y": 2.22,
+                  "y": -101.46,
                   "z": -163.46
                 },
                 "map": {
-                  "normalizedName": "customs"
+                  "normalizedName": "reserve"
                 }
               }
             ]
@@ -11804,28 +11804,6 @@
               {
                 "id": "place_SADOVOD_01_1",
                 "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
-                  "x": 68.193,
-                  "y": 1.059,
-                  "z": -7.383
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_1",
-                "position": {
                   "x": 68.19,
                   "y": 1.06,
                   "z": -7.38
@@ -11843,6 +11821,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_1",
+                "position": {
+                  "x": 68.193,
+                  "y": 1.059,
+                  "z": -7.383
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -11858,28 +11858,6 @@
               {
                 "id": "place_SADOVOD_01_2",
                 "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
-                  "x": 60.076,
-                  "y": 1.093,
-                  "z": -48.389
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_SADOVOD_01_2",
-                "position": {
                   "x": 60.08,
                   "y": 1.09,
                   "z": -48.39
@@ -11897,6 +11875,28 @@
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "place_SADOVOD_01_2",
+                "position": {
+                  "x": 60.076,
+                  "y": 1.093,
+                  "z": -48.389
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -12112,17 +12112,6 @@
               {
                 "id": "place_pacemaker_SCOUT_01",
                 "position": {
-                  "x": 66.665,
-                  "y": -1.676,
-                  "z": -28.878
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "place_pacemaker_SCOUT_01",
-                "position": {
                   "x": 66.67,
                   "y": -1.68,
                   "z": -28.88
@@ -12130,22 +12119,22 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_01",
+                "position": {
+                  "x": 66.665,
+                  "y": -1.676,
+                  "z": -28.878
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "place_pacemaker_SCOUT_02",
-                "position": {
-                  "x": -53.107,
-                  "y": 2.292,
-                  "z": 58.188
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "place_pacemaker_SCOUT_02",
                 "position": {
@@ -12156,22 +12145,22 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_02",
+                "position": {
+                  "x": -53.107,
+                  "y": 2.292,
+                  "z": 58.188
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
           {
             "zones": [
-              {
-                "id": "place_pacemaker_SCOUT_03",
-                "position": {
-                  "x": 59.698,
-                  "y": 1.163,
-                  "z": 56.98
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "place_pacemaker_SCOUT_03",
                 "position": {
@@ -12182,6 +12171,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "place_pacemaker_SCOUT_03",
+                "position": {
+                  "x": 59.698,
+                  "y": 1.163,
+                  "z": 56.98
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           },
@@ -12191,22 +12191,22 @@
                 "id": "place_pacemaker_SCOUT_04",
                 "position": {
                   "x": -18.4,
-                  "y": 1.16133332,
-                  "z": -49.022
+                  "y": 1.16,
+                  "z": -49.02
                 },
                 "map": {
-                  "normalizedName": "night-factory"
+                  "normalizedName": "factory"
                 }
               },
               {
                 "id": "place_pacemaker_SCOUT_04",
                 "position": {
                   "x": -18.4,
-                  "y": 1.16,
-                  "z": -49.02
+                  "y": 1.16133332,
+                  "z": -49.022
                 },
                 "map": {
-                  "normalizedName": "factory"
+                  "normalizedName": "night-factory"
                 }
               }
             ]
@@ -16287,6 +16287,28 @@
               {
                 "id": "prapor_outposts",
                 "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
+                  "x": 202.68,
+                  "y": 7.91,
+                  "z": -126.77
+                },
+                "map": {
+                  "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "prapor_outposts",
+                "position": {
                   "x": -257.1,
                   "y": -5.7,
                   "z": -99.5
@@ -16304,28 +16326,6 @@
                 },
                 "map": {
                   "normalizedName": "woods"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
-                }
-              },
-              {
-                "id": "prapor_outposts",
-                "position": {
-                  "x": 202.68,
-                  "y": 7.91,
-                  "z": -126.77
-                },
-                "map": {
-                  "normalizedName": "customs"
                 }
               }
             ]
@@ -16873,23 +16873,23 @@
               {
                 "id": "long_road_kills",
                 "position": {
-                  "x": -143.4,
-                  "y": -22,
-                  "z": 451.2
-                },
-                "map": {
-                  "normalizedName": "shoreline"
-                }
-              },
-              {
-                "id": "long_road_kills",
-                "position": {
                   "x": 19.03,
                   "y": 7.84,
                   "z": 103.99
                 },
                 "map": {
                   "normalizedName": "lighthouse"
+                }
+              },
+              {
+                "id": "long_road_kills",
+                "position": {
+                  "x": -143.4,
+                  "y": -22,
+                  "z": 451.2
+                },
+                "map": {
+                  "normalizedName": "shoreline"
                 }
               }
             ]
@@ -19416,50 +19416,6 @@
                 "position": {
                   "x": 19.81,
                   "y": -2.56,
-                  "z": 46.84
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": -51.08,
-                  "y": -2.99,
-                  "z": 13.58
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 19.81,
-                  "y": -2.99,
-                  "z": -28.64
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 64.99,
-                  "y": -2.99,
-                  "z": 13.58
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_4_zone_kill1",
-                "position": {
-                  "x": 19.81,
-                  "y": -2.56,
                   "z": 3.3
                 },
                 "map": {
@@ -19509,6 +19465,50 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 19.81,
+                  "y": -2.56,
+                  "z": 46.84
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": -51.08,
+                  "y": -2.99,
+                  "z": 13.58
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 19.81,
+                  "y": -2.99,
+                  "z": -28.64
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
+              },
+              {
+                "id": "nf2024_4_zone_kill1",
+                "position": {
+                  "x": 64.99,
+                  "y": -2.99,
+                  "z": 13.58
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ]
           }
@@ -19543,23 +19543,23 @@
               {
                 "id": "nf2024_7_1",
                 "position": {
-                  "x": 63.612,
-                  "y": 6.44,
-                  "z": 35.114
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_7_1",
-                "position": {
                   "x": 63.61,
                   "y": 6.44,
                   "z": 35.11
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_1",
+                "position": {
+                  "x": 63.612,
+                  "y": 6.44,
+                  "z": 35.114
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19572,17 +19572,6 @@
           },
           {
             "zones": [
-              {
-                "id": "nf2024_7_2",
-                "position": {
-                  "x": -5.474,
-                  "y": 5.776,
-                  "z": -32.477
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
               {
                 "id": "nf2024_7_2",
                 "position": {
@@ -19593,6 +19582,17 @@
                 "map": {
                   "normalizedName": "factory"
                 }
+              },
+              {
+                "id": "nf2024_7_2",
+                "position": {
+                  "x": -5.474,
+                  "y": 5.776,
+                  "z": -32.477
+                },
+                "map": {
+                  "normalizedName": "night-factory"
+                }
               }
             ],
             "items": [
@@ -19607,23 +19607,23 @@
               {
                 "id": "nf2024_7_3",
                 "position": {
-                  "x": -24.441,
-                  "y": 6.197,
-                  "z": 60.426
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "nf2024_7_3",
-                "position": {
                   "x": -24.44,
                   "y": 6.2,
                   "z": 60.43
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "nf2024_7_3",
+                "position": {
+                  "x": -24.441,
+                  "y": 6.197,
+                  "z": 60.426
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -19721,23 +19721,23 @@
               {
                 "id": "Place_accurate_tools",
                 "position": {
-                  "x": 27.89,
-                  "y": 1.15,
-                  "z": -32.8899155
-                },
-                "map": {
-                  "normalizedName": "night-factory"
-                }
-              },
-              {
-                "id": "Place_accurate_tools",
-                "position": {
                   "x": 28.13,
                   "y": 1.15,
                   "z": -34.37
                 },
                 "map": {
                   "normalizedName": "factory"
+                }
+              },
+              {
+                "id": "Place_accurate_tools",
+                "position": {
+                  "x": 27.89,
+                  "y": 1.15,
+                  "z": -32.8899155
+                },
+                "map": {
+                  "normalizedName": "night-factory"
                 }
               }
             ],
@@ -75775,17 +75775,6 @@
               {
                 "id": "exit777",
                 "position": {
-                  "x": 19.44,
-                  "y": 1.07,
-                  "z": 0.5
-                },
-                "map": {
-                  "normalizedName": "the-labyrinth"
-                }
-              },
-              {
-                "id": "exit777",
-                "position": {
                   "x": -41.51,
                   "y": -12.63,
                   "z": 122.67
@@ -75814,6 +75803,17 @@
                 },
                 "map": {
                   "normalizedName": "customs"
+                }
+              },
+              {
+                "id": "exit777",
+                "position": {
+                  "x": 19.44,
+                  "y": 1.07,
+                  "z": 0.5
+                },
+                "map": {
+                  "normalizedName": "the-labyrinth"
                 }
               }
             ]
