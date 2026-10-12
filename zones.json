@@ -10907,17 +10907,6 @@
                 "map": {
                   "normalizedName": "customs"
                 }
-              },
-              {
-                "id": "fuel4",
-                "position": {
-                  "x": -334.93,
-                  "y": -101.46,
-                  "z": -163.46
-                },
-                "map": {
-                  "normalizedName": "reserve"
-                }
               }
             ]
           }
