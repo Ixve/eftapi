@@ -552,26 +552,6 @@
         ]
       },
       {
-        "id": "6a91840a740be0cff50e0310",
-        "name": "Preliminary Survey",
-        "objectives": [
-          {
-            "zones": [],
-            "questItem": {
-              "id": "6a919148d1f99fb50b0f3113",
-              "shortName": "Test area"
-            }
-          },
-          {
-            "zones": [],
-            "questItem": {
-              "id": "6a919148d1f99fb50b0f3113",
-              "shortName": "Test area"
-            }
-          }
-        ]
-      },
-      {
         "id": "5a68665c86f774255929b4c7",
         "name": "Health Care Privacy - Part 3",
         "objectives": [
