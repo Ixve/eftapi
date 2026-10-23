@@ -218,6 +218,25 @@ def build_items_payload(items: dict, items_lang: dict, traders: dict,
             "sellFor": sell_for,
         })
 
+    seen = {it["id"] for it in out}
+    for item_id, item in tasks["questItems"].items():
+        if item_id in seen:
+            continue
+        name = item.get("name")
+        short_name = item.get("shortName")
+        out.append({
+            "id": item_id,
+            "name": tasks_lang.get(name, name),
+            "shortName": tasks_lang.get(short_name, short_name),
+            "category": {"parent": {"name": "Quest item"}},
+            "avg24hPrice": 0,
+            "height": item.get("height"),
+            "width": item.get("width"),
+            "weight": item.get("weight"),
+            "usedInTasks": used_in_tasks.get(item_id, []),
+            "sellFor": [],
+        })
+
     return {"data": {"items": out, "lootContainers": build_loot_containers(maps, maps_lang)}}
 
 
