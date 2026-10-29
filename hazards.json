@@ -10254,6 +10254,14 @@
       {
         "nameId": "laboratory_dark",
         "hazards": []
+      },
+      {
+        "nameId": "laboratory_event",
+        "hazards": []
+      },
+      {
+        "nameId": "factory_event",
+        "hazards": []
       }
     ]
   }
