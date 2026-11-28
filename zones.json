@@ -769,6 +769,61 @@
         ]
       },
       {
+        "id": "6a763df2161e4b45b1015663",
+        "name": "A Familiar Face...",
+        "objectives": [
+          {}
+        ]
+      },
+      {
+        "id": "6a763f35ce9a947b4d0918b6",
+        "name": "Scope the Clearing",
+        "objectives": [
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "5b4391a586f7745321235ab2",
+                "shortName": "Camera"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "5b4391a586f7745321235ab2",
+                "shortName": "Camera"
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "5b4391a586f7745321235ab2",
+                "shortName": "Camera"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a764462e432ba0a190a7fe9",
+        "name": "Ease the Move",
+        "objectives": [
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          },
+          {
+            "zones": []
+          }
+        ]
+      },
+      {
         "id": "596a204686f774576d4c95de",
         "name": "Sanitary Standards - Part 2",
         "objectives": [
@@ -13167,6 +13222,95 @@
                 "map": {
                   "normalizedName": "interchange"
                 }
+              }
+            ]
+          },
+          {
+            "zones": [],
+            "items": [
+              {
+                "id": "63a0b208f444d32d6f03ea1e",
+                "shortName": "Sledgehammer"
+              },
+              {
+                "id": "619cbfccbedcde2f5b3f7bdd",
+                "shortName": "PGW"
+              },
+              {
+                "id": "62a0a098de7ac8199358053b",
+                "shortName": "Awl"
+              },
+              {
+                "id": "619cbfeb6b8a1b37a54eebfa",
+                "shortName": "Bulbex"
+              },
+              {
+                "id": "62a0a0bb621468534a797ad5",
+                "shortName": "Master"
+              },
+              {
+                "id": "5d1b317c86f7742523398392",
+                "shortName": "Hand drill"
+              },
+              {
+                "id": "5d40419286f774318526545f",
+                "shortName": "MScissors"
+              },
+              {
+                "id": "5d40425986f7743185265461",
+                "shortName": "Nippers"
+              },
+              {
+                "id": "5af04b6486f774195a3ebb49",
+                "shortName": "Elite"
+              },
+              {
+                "id": "5d1b31ce86f7742523398394",
+                "shortName": "RPliers"
+              },
+              {
+                "id": "66b37f114410565a8f6789e2",
+                "shortName": "Inseq"
+              },
+              {
+                "id": "5d63d33b86f7746ea9275524",
+                "shortName": "F scdr."
+              },
+              {
+                "id": "5d4042a986f7743185265463",
+                "shortName": "L&F scdr."
+              },
+              {
+                "id": "61bf83814088ec1a363d7097",
+                "shortName": "Krasavch."
+              },
+              {
+                "id": "590c2b4386f77425357b6123",
+                "shortName": "Pliers"
+              },
+              {
+                "id": "590c2c9c86f774245b1f03f2",
+                "shortName": "MTape"
+              },
+              {
+                "id": "590c2d8786f774245b1f03f3",
+                "shortName": "Scdr."
+              },
+              {
+                "id": "590c2e1186f77425357b6124",
+                "shortName": "Toolset"
+              },
+              {
+                "id": "590c311186f77424d1667482",
+                "shortName": "Wrench"
+              },
+              {
+                "id": "60391afc25aff57af81f7085",
+                "shortName": "Ratchet"
+              },
+              {
+                "id": "5bc9c377d4351e3bac12251b",
+                "shortName": "Firesteel"
               }
             ]
           }
